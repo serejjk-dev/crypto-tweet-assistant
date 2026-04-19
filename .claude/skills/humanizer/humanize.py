@@ -6,6 +6,8 @@ WORKSPACE = Path(__file__).resolve().parents[3] / "workspace"
 IN = WORKSPACE / "tweet_raw.txt"
 NEWS = WORKSPACE / "news.json"
 OUT = WORKSPACE / "tweet_final.txt"
+OPINION_IN = WORKSPACE / "opinion_raw.txt"
+OPINION_OUT = WORKSPACE / "opinion_final.txt"
 
 BANNED_WORDS = [
     "delve", "tapestry", "realm", "landscape", "navigate",
@@ -88,20 +90,30 @@ def fit_with_url(text: str, url: str) -> str:
     return cut
 
 
-def main():
-    raw = IN.read_text().strip()
-    t = raw
-    t = strip_banned_phrases(t)
+def clean(text: str) -> str:
+    t = strip_banned_phrases(text)
     t = strip_banned_words(t)
     t = fix_not_x_but_y(t)
     t = replace_em_dash(t)
-    t = collapse_whitespace(t)
+    return collapse_whitespace(t)
 
+
+def main():
+    raw = IN.read_text().strip()
+    cleaned = clean(raw)
     url = get_source_url()
-    fitted = fit_with_url(t, url)
-
+    fitted = fit_with_url(cleaned, url)
     OUT.write_text(fitted)
     print(fitted)
+
+    if OPINION_IN.exists():
+        op_raw = OPINION_IN.read_text().strip()
+        op_clean = clean(op_raw)
+        if len(op_clean) > 220:
+            op_clean = op_clean[:217].rstrip() + "..."
+        OPINION_OUT.write_text(op_clean)
+        print("---take---")
+        print(op_clean)
 
 
 if __name__ == "__main__":

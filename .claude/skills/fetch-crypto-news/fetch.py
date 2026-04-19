@@ -11,6 +11,7 @@ import requests
 WORKSPACE = Path(__file__).resolve().parents[3] / "workspace"
 WORKSPACE.mkdir(exist_ok=True)
 OUT = WORKSPACE / "news.json"
+SEEN = WORKSPACE / "seen.json"
 
 MAX_AGE = timedelta(hours=12)
 NOW = datetime.now(timezone.utc)
@@ -23,6 +24,26 @@ LOUD_VERBS = {
 BIG_TICKERS = {
     "btc", "bitcoin", "eth", "ethereum", "sol", "solana", "xrp", "ripple",
 }
+STOPWORDS = {
+    "the", "a", "an", "and", "or", "but", "of", "to", "in", "on", "for",
+    "with", "by", "from", "as", "at", "is", "are", "was", "were", "be",
+    "been", "has", "have", "had", "will", "would", "could", "should",
+    "this", "that", "these", "those", "says", "said", "new", "its", "his",
+    "her", "who", "what", "when", "where", "why", "how", "over", "after",
+    "into", "about",
+}
+JACCARD_THRESHOLD = 0.5
+
+
+def content_words(title: str) -> set[str]:
+    words = re.findall(r"[a-z$]+", title.lower())
+    return {w for w in words if len(w) >= 4 and w not in STOPWORDS}
+
+
+def is_similar(a: set[str], b: set[str]) -> bool:
+    if not a or not b:
+        return False
+    return len(a & b) / len(a | b) >= JACCARD_THRESHOLD
 
 
 def normalize_title(t: str) -> str:
@@ -67,7 +88,7 @@ def fetch_cryptocompare():
             "https://min-api.cryptocompare.com/data/v2/news/?lang=EN",
             timeout=15,
         )
-        data = r.json().get("Data", [])
+        data = r.json().get("Data") or []
         for n in data[:40]:
             ts = n.get("published_on")
             if not ts:
@@ -126,15 +147,36 @@ def main():
             continue
         fresh.append(it)
 
-    seen = {}
+    seen_in_batch = {}
     for it in fresh:
         key = normalize_title(it["title"])
-        if key and key not in seen:
-            seen[key] = it
-    unique = list(seen.values())
+        if key and key not in seen_in_batch:
+            seen_in_batch[key] = it
+    unique = list(seen_in_batch.values())
 
-    unique.sort(key=lambda x: (score(x), x["published_at"]), reverse=True)
-    top = unique[:3]
+    already_sent = []
+    if SEEN.exists():
+        try:
+            already_sent = json.loads(SEEN.read_text())
+        except Exception:
+            already_sent = []
+    sent_urls = {s.get("url", "") for s in already_sent}
+    sent_keys = {s.get("title_key", "") for s in already_sent}
+    sent_bags = [content_words(s.get("title", "")) for s in already_sent]
+
+    filtered = []
+    for it in unique:
+        if it["url"] in sent_urls:
+            continue
+        if normalize_title(it["title"]) in sent_keys:
+            continue
+        bag = content_words(it["title"])
+        if any(is_similar(bag, prev) for prev in sent_bags):
+            continue
+        filtered.append(it)
+
+    filtered.sort(key=lambda x: (score(x), x["published_at"]), reverse=True)
+    top = filtered[:3]
 
     OUT.write_text(json.dumps(top, ensure_ascii=False, indent=2))
     print(f"Saved {len(top)} items -> {OUT}")
