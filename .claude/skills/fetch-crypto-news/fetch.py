@@ -1,6 +1,7 @@
 import json
 import re
 import string
+import urllib.parse
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
@@ -197,6 +198,7 @@ def fetch_cryptocompare():
         r = requests.get(
             "https://min-api.cryptocompare.com/data/v2/news/?lang=EN",
             timeout=15,
+            headers={"User-Agent": "Mozilla/5.0"},
         )
         data = r.json().get("Data") or []
         for n in data[:40]:
@@ -215,6 +217,42 @@ def fetch_cryptocompare():
     return items
 
 
+def fetch_reddit():
+    items = []
+    try:
+        req = urllib.request.Request(
+            "https://www.reddit.com/r/CryptoCurrency/hot.json?limit=40",
+            headers={"User-Agent": "crypto-tweet-bot/1.0 (contact via github)"},
+        )
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read())
+        for child in data.get("data", {}).get("children", []):
+            d = child.get("data", {})
+            if d.get("stickied") or d.get("over_18"):
+                continue
+            ts = d.get("created_utc")
+            if not ts:
+                continue
+            title = (d.get("title") or "").strip()
+            url = d.get("url_overridden_by_dest") or ("https://reddit.com" + d.get("permalink", ""))
+            summary = (d.get("selftext") or "")[:300].strip()
+            items.append({
+                "title": title,
+                "url": url,
+                "source": "Reddit/r/CryptoCurrency",
+                "summary": summary,
+                "published_at": datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(),
+            })
+    except Exception as ex:
+        print(f"[Reddit] error: {ex}")
+    return items
+
+
+def fetch_google_news(query: str, label: str):
+    url = f"https://news.google.com/rss/search?q={urllib.parse.quote(query)}&hl=en-US&gl=US&ceid=US:en"
+    return fetch_rss(url, f"GoogleNews/{label}")
+
+
 def score(item) -> int:
     s = 0
     title_low = item["title"].lower()
@@ -230,21 +268,16 @@ def score(item) -> int:
 
 
 def main():
-    jobs = [
-        (fetch_rss, "https://cryptopanic.com/news/rss/", "CryptoPanic"),
-        (fetch_rss, "https://www.coindesk.com/arc/outboundfeeds/rss/", "CoinDesk"),
-        (fetch_rss, "https://decrypt.co/feed", "Decrypt"),
-        (fetch_cryptocompare, None, None),
-    ]
     all_items = []
-    with ThreadPoolExecutor(max_workers=4) as ex:
-        futures = []
-        for job in jobs:
-            fn = job[0]
-            if fn is fetch_cryptocompare:
-                futures.append(ex.submit(fn))
-            else:
-                futures.append(ex.submit(fn, job[1], job[2]))
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        futures = [
+            ex.submit(fetch_google_news, "bitcoin OR ethereum OR crypto", "crypto"),
+            ex.submit(fetch_google_news, "defi OR solana OR altcoin", "defi"),
+            ex.submit(fetch_reddit),
+            ex.submit(fetch_cryptocompare),
+            ex.submit(fetch_rss, "https://www.coindesk.com/arc/outboundfeeds/rss/", "CoinDesk"),
+            ex.submit(fetch_rss, "https://decrypt.co/feed", "Decrypt"),
+        ]
         for f in futures:
             all_items.extend(f.result())
 
