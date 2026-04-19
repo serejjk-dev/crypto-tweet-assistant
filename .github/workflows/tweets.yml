@@ -1,13 +1,14 @@
-name: Crypto Tweet Drafts
+name: Crypto Tweet Drafts (backup)
 
 on:
-  schedule:
-    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 concurrency:
   group: crypto-tweets
   cancel-in-progress: false
+
+permissions:
+  contents: write
 
 jobs:
   run:
@@ -15,6 +16,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -26,16 +29,6 @@ jobs:
 
       - name: Prepare workspace
         run: mkdir -p workspace
-
-      - name: Restore state
-        uses: actions/cache/restore@v4
-        with:
-          path: |
-            workspace/seen.json
-            workspace/drafts.log
-          key: crypto-state-${{ github.run_id }}
-          restore-keys: |
-            crypto-state-
 
       - name: Fetch news
         run: python .claude/skills/fetch-crypto-news/fetch.py
@@ -52,11 +45,16 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python .claude/skills/send-to-telegram/send.py
 
-      - name: Save state
+      - name: Commit state back
         if: always()
-        uses: actions/cache/save@v4
-        with:
-          path: |
-            workspace/seen.json
-            workspace/drafts.log
-          key: crypto-state-${{ github.run_id }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add workspace/seen.json workspace/drafts.log 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "state: update seen/drafts [skip ci]"
+            git pull --rebase
+            git push
+          fi

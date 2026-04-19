@@ -1,2 +1,4 @@
 .env
-workspace/
+workspace/*
+!workspace/seen.json
+!workspace/drafts.log
