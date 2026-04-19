@@ -3,3 +3,4 @@ workspace/*
 !workspace/seen.json
 !workspace/drafts.log
 !workspace/news.json
+!workspace/tweet_final.txt

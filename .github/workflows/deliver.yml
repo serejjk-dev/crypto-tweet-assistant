@@ -1,0 +1,62 @@
+name: Deliver Tweet
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'workspace/tweet_final.txt'
+  workflow_dispatch:
+
+concurrency:
+  group: crypto-deliver
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Check tweet file
+        id: check
+        run: |
+          if [ ! -s workspace/tweet_final.txt ]; then
+            echo "empty=true" >> $GITHUB_OUTPUT
+          else
+            echo "empty=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send to Telegram
+        if: steps.check.outputs.empty == 'false'
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python .claude/skills/send-to-telegram/send.py
+
+      - name: Commit state back
+        if: steps.check.outputs.empty == 'false'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add workspace/seen.json workspace/drafts.log
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "state: update seen/drafts after delivery [skip ci]"
+            git pull --rebase
+            git push
+          fi
