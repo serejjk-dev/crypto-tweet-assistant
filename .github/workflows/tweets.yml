@@ -1,0 +1,62 @@
+name: Crypto Tweet Drafts
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: crypto-tweets
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install deps
+        run: pip install requests feedparser python-dotenv
+
+      - name: Prepare workspace
+        run: mkdir -p workspace
+
+      - name: Restore state
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            workspace/seen.json
+            workspace/drafts.log
+          key: crypto-state-${{ github.run_id }}
+          restore-keys: |
+            crypto-state-
+
+      - name: Fetch news
+        run: python .claude/skills/fetch-crypto-news/fetch.py
+
+      - name: Rewrite tweet
+        run: python .claude/skills/crypto-slang-tone/rewrite.py
+
+      - name: Humanize
+        run: python .claude/skills/humanizer/humanize.py
+
+      - name: Send to Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python .claude/skills/send-to-telegram/send.py
+
+      - name: Save state
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            workspace/seen.json
+            workspace/drafts.log
+          key: crypto-state-${{ github.run_id }}
