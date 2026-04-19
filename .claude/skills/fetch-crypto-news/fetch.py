@@ -1,11 +1,13 @@
 import json
 import re
 import string
+import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 from pathlib import Path
+from xml.etree import ElementTree as ET
 
-import feedparser
 import requests
 
 WORKSPACE = Path(__file__).resolve().parents[3] / "workspace"
@@ -71,31 +73,121 @@ def normalize_title(t: str) -> str:
     return t
 
 
-def parse_date(entry) -> datetime | None:
-    for key in ("published_parsed", "updated_parsed"):
-        val = entry.get(key)
-        if val:
-            return datetime(*val[:6], tzinfo=timezone.utc)
-    return None
+ATOM_NS = "{http://www.w3.org/2005/Atom}"
+
+
+def parse_rfc_date(s: str) -> datetime | None:
+    if not s:
+        return None
+    try:
+        d = parsedate_to_datetime(s)
+        if d.tzinfo is None:
+            d = d.replace(tzinfo=timezone.utc)
+        return d.astimezone(timezone.utc)
+    except Exception:
+        pass
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00")).astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def text_of(el, *names) -> str:
+    if el is None:
+        return ""
+    for n in names:
+        child = el.find(n)
+        if child is not None and child.text:
+            return child.text.strip()
+    return ""
+
+
+def _strip_cdata(s: str) -> str:
+    if not s:
+        return ""
+    s = s.replace("<![CDATA[", "").replace("]]>", "")
+    return s.strip()
+
+
+def _parse_lenient_rss(xml_text: str, source: str):
+    items = []
+    for m in re.finditer(r"<item\b[^>]*>(.*?)</item>", xml_text, re.DOTALL | re.IGNORECASE):
+        inner = m.group(1)
+        def grab(tag):
+            mt = re.search(rf"<{tag}\b[^>]*>(.*?)</{tag}>", inner, re.DOTALL | re.IGNORECASE)
+            return _strip_cdata(mt.group(1)) if mt else ""
+        title = grab("title")
+        link = grab("link")
+        pub = grab("pubDate") or grab("dc:date")
+        raw_summary = grab("description") or grab("content:encoded")
+        published = parse_rfc_date(pub)
+        if not published or not title or not link:
+            continue
+        summary = re.sub(r"<[^>]+>", "", raw_summary)[:300].strip()
+        items.append({
+            "title": title,
+            "url": link,
+            "source": source,
+            "summary": summary,
+            "published_at": published.isoformat(),
+        })
+        if len(items) >= 40:
+            break
+    return items
 
 
 def fetch_rss(url: str, source: str):
     items = []
+    xml_bytes = b""
     try:
-        feed = feedparser.parse(url)
-        for e in feed.entries[:40]:
-            published = parse_date(e)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            xml_bytes = r.read()
+    except Exception as ex:
+        print(f"[{source}] fetch error: {ex}")
+        return items
+
+    try:
+        root = ET.fromstring(xml_bytes)
+        entries = root.findall(".//item")
+        is_atom = False
+        if not entries:
+            entries = root.findall(f".//{ATOM_NS}entry")
+            is_atom = True
+
+        for e in entries[:40]:
+            if is_atom:
+                title = text_of(e, f"{ATOM_NS}title")
+                link_el = e.find(f"{ATOM_NS}link")
+                link = (link_el.get("href") if link_el is not None else "") or ""
+                pub = text_of(e, f"{ATOM_NS}published", f"{ATOM_NS}updated")
+                raw_summary = text_of(e, f"{ATOM_NS}summary", f"{ATOM_NS}content")
+            else:
+                title = text_of(e, "title")
+                link = text_of(e, "link")
+                pub = text_of(e, "pubDate", "{http://purl.org/dc/elements/1.1/}date")
+                raw_summary = text_of(e, "description", "{http://purl.org/rss/1.0/modules/content/}encoded")
+
+            published = parse_rfc_date(pub)
             if not published:
                 continue
+            summary = re.sub(r"<[^>]+>", "", raw_summary)[:300].strip()
             items.append({
-                "title": (e.get("title") or "").strip(),
-                "url": (e.get("link") or "").strip(),
+                "title": (title or "").strip(),
+                "url": (link or "").strip(),
                 "source": source,
-                "summary": re.sub(r"<[^>]+>", "", e.get("summary", ""))[:300].strip(),
+                "summary": summary,
                 "published_at": published.isoformat(),
             })
+    except ET.ParseError as ex:
+        print(f"[{source}] strict parse failed ({ex}), falling back to lenient")
+        try:
+            text = xml_bytes.decode("utf-8", errors="ignore")
+            items = _parse_lenient_rss(text, source)
+        except Exception as ex2:
+            print(f"[{source}] lenient parse error: {ex2}")
     except Exception as ex:
-        print(f"[{source}] error: {ex}")
+        print(f"[{source}] parse error: {ex}")
     return items
 
 
