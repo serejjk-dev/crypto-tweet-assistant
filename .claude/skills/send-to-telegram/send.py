@@ -12,7 +12,6 @@ from dotenv import load_dotenv
 ROOT = Path(__file__).resolve().parents[3]
 WORKSPACE = ROOT / "workspace"
 TWEET = WORKSPACE / "tweet_final.txt"
-OPINION = WORKSPACE / "opinion_final.txt"
 NEWS = WORKSPACE / "news.json"
 SEEN = WORKSPACE / "seen.json"
 LOG = WORKSPACE / "drafts.log"
@@ -92,10 +91,6 @@ def main():
     title = top.get("title", "")
     title_key = normalize_title(title)
 
-    opinion = ""
-    if OPINION.exists():
-        opinion = OPINION.read_text().strip()
-
     seen = load_seen()
     for s in seen:
         if s.get("url") == url or s.get("title_key") == title_key:
@@ -108,11 +103,8 @@ def main():
 
     body = (
         f"<code>{escape_html(tweet)}</code>\n"
-        f"{escape_html(url)}\n"
         f"{len(tweet)} chars · {escape_html(source)}"
     )
-    if opinion:
-        body += f"\n\n<b>hot take:</b> {escape_html(opinion)}"
 
     resp = requests.post(
         f"https://api.telegram.org/bot{TOKEN}/sendMessage",

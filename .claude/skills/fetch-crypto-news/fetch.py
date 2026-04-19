@@ -20,9 +20,27 @@ LOUD_VERBS = {
     "hacked", "launches", "approves", "sues", "lists", "delists",
     "pumps", "crashes", "partners", "files", "rugs", "freezes", "bans",
     "exploits", "exploited", "seizes", "raids", "halts",
+    "collapses", "plunges", "jumps", "surges", "soars", "tumbles",
+    "raises", "dumps", "drains", "drained", "tanks", "rockets",
+    "plummets", "slashes", "unveils", "debuts", "ships",
 }
 BIG_TICKERS = {
     "btc", "bitcoin", "eth", "ethereum", "sol", "solana", "xrp", "ripple",
+}
+CRYPTO_TERMS = {
+    "crypto", "cryptocurrency", "blockchain", "defi", "dao", "nft",
+    "token", "tokens", "coin", "coins", "wallet", "wallets",
+    "bitcoin", "btc", "ethereum", "eth", "solana", "sol", "xrp",
+    "stablecoin", "stablecoins", "cex", "dex", "cefi",
+    "protocol", "protocols", "chain", "web3", "ledger",
+    "staking", "mining", "miner", "miners", "dapp", "dapps",
+    "airdrop", "validator", "validators", "onchain", "on-chain",
+    "ethereum", "binance", "coinbase", "kraken", "ftx",
+    "usdt", "usdc", "bnb", "doge", "shib", "pepe", "ada",
+    "aave", "uniswap", "chainlink", "polygon", "avalanche",
+    "rollup", "rollups", "l1", "l2", "layer", "bridge", "tvl",
+    "memecoin", "memecoins", "altcoin", "altcoins", "degen",
+    "wallet", "sec", "etf",
 }
 STOPWORDS = {
     "the", "a", "an", "and", "or", "but", "of", "to", "in", "on", "for",
@@ -144,6 +162,10 @@ def main():
             continue
         published = datetime.fromisoformat(it["published_at"])
         if NOW - published > MAX_AGE:
+            continue
+        blob = (it["title"] + " " + it.get("summary", "")).lower()
+        blob_words = set(re.findall(r"[a-z0-9]+", blob))
+        if not (blob_words & CRYPTO_TERMS):
             continue
         fresh.append(it)
 
