@@ -37,8 +37,8 @@
   {
     "sent_at": "2026-04-20T16:21:25.464726+00:00",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObUNtX3ZGRzBEdnNuT09VejI2R3cxRXdXMGpsUlZvZDZabnVIMFFPQmxyX2J1YXpyLVhZWEpHS1gzaEJSSXBhREtyQzE1SVZzOF9ST3BvVFdJVVhNMUNzc25YSlRDNWlQVEhBaVJhNEt2VUVsSWl1OTdLa25USEx3cDRESlJYdEJuZHZwVmxaSExlazVKakR3TlpIRQ?oc=5",
-    "title_key": "grayscale’s solana etf debuts on nyse arca prediction market unmoved crypto briefing",
-    "title": "Grayscale’s Solana ETF debuts on NYSE Arca, prediction market unmoved - Crypto Briefing"
+    "title_key": "grayscale\u2019s solana etf debuts on nyse arca prediction market unmoved crypto briefing",
+    "title": "Grayscale\u2019s Solana ETF debuts on NYSE Arca, prediction market unmoved - Crypto Briefing"
   },
   {
     "sent_at": "2026-04-20T17:27:10.016801+00:00",
@@ -75,5 +75,11 @@
     "url": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
     "title_key": "arbitrum freezes 71 million in ether tied to kelp dao exploit",
     "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit"
+  },
+  {
+    "sent_at": "2026-04-21T18:30:39.334106+00:00",
+    "url": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
+    "title": "DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain",
+    "title_key": "doordash is bringing stablecoin payments to masses with stripebacked blockchain"
   }
 ]
