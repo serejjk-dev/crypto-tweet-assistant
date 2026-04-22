@@ -1,1 +1,1 @@
-$XRP made its debut on Solana this week, bringing the payments-focused token to a network better known for meme coins and DeFi speculation. When liquidity calls, ideology tends to stay home.
+OP Labs shipped a privacy feature for Ethereum DeFi apps, obscuring transaction data from public view. Crypto's original pitch was radical transparency. Turns out users want the finance without the fishbowl.
