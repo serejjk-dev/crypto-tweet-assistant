@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-20T22:20:49.987819+00:00",
-    "url": "https://decrypt.co/364911/ravedao-token-crashes-sheds-6-6-billion-exchanges-probe-alleged-manipulation",
-    "title_key": "ravedao token crashes sheds 66 billion in value as exchanges probe alleged manipulation",
-    "title": "RaveDAO Token Crashes, Sheds $6.6 Billion in Value as Exchanges Probe Alleged Manipulation"
-  },
-  {
     "sent_at": "2026-04-21T00:39:43.688052+00:00",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWtYcUxjeXdUN2RMeG1Pdm9hcjFBTlpMQ0RSRVBjLTBmcER6YXJuQTlOaWQySC1pcHl4dzBSTzBVUGF5cTZLTTEyRUVRZlFkeFE1RU40Q1RBYllEdl8zRXBWYmFVMEwyUUZuRlhhOEdtbUFUNXZaSEdyaTVqUFRrSmlkWmUyYVE?oc=5",
     "title_key": "ripple cto sounds alarm on defi security as rlusd expands dailycoin",
@@ -64,5 +58,11 @@
     "url": "https://decrypt.co/365127/gsr-actively-managed-bitcoin-ethereum-solana-etf-nasdaq",
     "title_key": "gsr launches actively managed bitcoin ethereum and solana basket etf on nasdaq",
     "title": "GSR Launches Actively Managed Bitcoin, Ethereum and Solana Basket ETF on Nasdaq"
+  },
+  {
+    "sent_at": "2026-04-22T22:27:03.295163+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWVVQTFNIUWdhNzhfRGNpR1g3c1NTRjRtWlo3ZGJEZVU0MUZBUmdxcVd6N2k5dWxTaEpzRVdkRGxlSTNmcVN3Tk5GbjJEeFYyZzNmTUsySHZrRFNRVVZfNTNoZmNYVU53VmxZMFdqMnBMdDR0RFgtREFqSnFXbl9yVUo1RmZVS04wazBoZ1NoWXd3MUItbUkxdWFqZ09jVV96bXln?oc=5",
+    "title_key": "bitcoin btc taps 11week high this popular altcoin soars by 22 market watch cryptopotato",
+    "title": "Bitcoin (BTC) Taps 11-Week High, This Popular Altcoin Soars by 22%: Market Watch - CryptoPotato"
   }
 ]
