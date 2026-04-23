@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-21T06:29:45.782552+00:00",
-    "url": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
-    "title_key": "arbitrum freezes 71 million in ether tied to kelp dao exploit",
-    "title": "Arbitrum freezes $71 million in ether tied to Kelp DAO exploit"
-  },
-  {
     "sent_at": "2026-04-21T18:30:39.334106+00:00",
     "url": "https://www.coindesk.com/business/2026/04/21/doordash-is-bringing-stablecoin-payments-to-masses-with-stripe-backed-blockchain",
     "title": "DoorDash is bringing stablecoin payments to masses with Stripe-backed blockchain",
@@ -64,5 +58,11 @@
     "url": "https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc",
     "title_key": "us government runs a bitcoin node but not mining btc us admiral",
     "title": "US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral"
+  },
+  {
+    "sent_at": "2026-04-23T14:24:09.050287+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdy1jdk1fa3pTY1dYcm1BbGdCOXJFM1JXdkNZbzBZQThSa3pHRGZjTzFuSWx5QV9JWlFfN1dIVzNweVNkd1U2WTBkalBiWEhfQUVycS0yUW1fcEFBZE9zRlZMNXZXQkRlN3cxU0pkZE04MHpUQUh3SDVrc3lEaFRnTzdR?oc=5",
+    "title_key": "ocbc launches 526m tokenized gold fund on solana crypto briefing",
+    "title": "OCBC launches $526M tokenized gold fund on Solana - Crypto Briefing"
   }
 ]
