@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-21T04:16:24.035946+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWlNHUWtpWW5NdWZvbmZBNk5NaUVMam5YR0hReVNxMjYwczJjTHFOdmcwbXgtR0kxZ3FIbU1tWGZ6X2QwQ1pCOUVya3VpNmxHSDN1QTlvdlRPcy1Dell4WVUtekNVQmNkMmdlcWh1OXN6SFYtR216ZkhfZ2M1T0JLbXItUHdYakZOMzFwUFRYNi0xeE5yZ1YxUVUydk9HYVduN19wZGlJbXYwR2UwN28xQlh1V2V5XzlSV0NTRnR1VG5hMUFiRFB5NGNJbjk4R2hLNHIxMzJn?oc=5",
-    "title_key": "crypto news bitcoin ethereum and xrp pull back on hormuz tensions while pepeto emerges as the rare entry to watch financefeeds",
-    "title": "Crypto News: Bitcoin, Ethereum, and XRP Pull Back on Hormuz Tensions While Pepeto Emerges as the Rare Entry to Watch - FinanceFeeds"
-  },
-  {
     "sent_at": "2026-04-21T06:29:45.782552+00:00",
     "url": "https://www.coindesk.com/markets/2026/04/21/arbitrum-freezes-usd71-million-in-ether-tied-to-kelp-dao-exploit",
     "title_key": "arbitrum freezes 71 million in ether tied to kelp dao exploit",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSSDV4aUZ5NVdYVVRNb1ZHU0ZtVFpRVWpzZDBUY1BzSXE5UnBNSzM3dEstVWVXWDBUTkxYSnV0SE5iOHBYOURCNTRxZVhNRzRLaVFVX1ZUVmFJNFk?oc=5",
     "title_key": "solana outpaces ethereum with 253b transactions – will soleth finally react cryptonewsnet",
     "title": "Solana outpaces Ethereum with 25.3B transactions – Will SOL/ETH finally react? - Cryptonews.net"
+  },
+  {
+    "sent_at": "2026-04-23T04:22:07.562938+00:00",
+    "url": "https://decrypt.co/365221/us-government-runs-bitcoin-node-not-mining-btc",
+    "title_key": "us government runs a bitcoin node but not mining btc us admiral",
+    "title": "US Government Runs a Bitcoin Node, But Not Mining BTC: US Admiral"
   }
 ]
