@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-22T04:14:41.372056+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2RUTHRCaDZPMVV1Q0Frd25FdlpiaHUxYXl5aFFsUE05dFRsbTdZWlRiN3U5ZmgzSGxVY0lwTldQdnIwMXRFS2tsZ2JqaTJlcGtJenJjVnU2dW01bXZjaWV3bEsweXUyaGJzcE93dEFBR00yNnpQRXNIV0xaUDJVNGUzcGhVQWR4VjNULUpScm5EVDcwMkJlemVwS2Z0RXhFYmdqYk5JOG10YmRVWFZLUDVuY3VudGYwY1g0bXJ6cWw?oc=5",
-    "title_key": "news explorer — privacy boost by op labs launches for defi apps in ethereum ecosystem decrypt",
-    "title": "News Explorer — Privacy Boost by OP Labs Launches for DeFi Apps in Ethereum Ecosystem - Decrypt"
-  },
-  {
     "sent_at": "2026-04-22T08:17:33.375771+00:00",
     "url": "https://www.coindesk.com/policy/2026/04/21/tron-s-justin-sun-sues-trump-linked-world-liberty-financial-over-frozen-assets",
     "title_key": "trons justin sun sues trumplinked world liberty financial over frozen assets",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT3FaeEZFSTN2UTF5Zi1qNl95aXhidWZab2wwMTRBc19McUFPVmExYmJwSlA3bTFxXzUyMjAtazRfTlhiakNWM21GMXdhZTJieWNGVU1Fdk8xZHIzX3B6RDRyOEo1OVlfRzhoVEgwRDdYajgzVXQxLXJVNUszM2h1LXpsWGRpOWszemNvRFpMd01wcm5GVEhEWm9KdWQ2aTg0U2diemk3WnF5V0t2R0FWMXU0SlBDT29yZmNrVQ?oc=5",
     "title_key": "solana price prediction sol holds 80 despite 71 drop from ath — can it recover 247 wall st",
     "title": "Solana Price Prediction: SOL Holds $80 Despite 71% Drop From ATH — Can It Recover? - 24/7 Wall St."
+  },
+  {
+    "sent_at": "2026-04-24T08:10:54.438353+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jenBONnl6Z0hrZ2R0WHhxa0V2N2NGWEZaYXhzSGdVOHp2WmxBQ3Z3NE9VMHVsRU9JMmMwXzd5dmNZYXM3amF4MQ?oc=5",
+    "title_key": "anchorage expands solana staking with marinadepowered strategies mexc",
+    "title": "Anchorage Expands Solana Staking with Marinade-Powered Strategies - MEXC"
   }
 ]
