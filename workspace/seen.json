@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-24T14:32:21.707765+00:00",
-    "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-holder-metaplanet-raises-usd50-million-in-zero-interest-bonds-to-buy-more-btc",
-    "title_key": "bitcoinholder metaplanet raises 50 million to buy more btc",
-    "title": "Bitcoin-holder Metaplanet raises $50 million to buy more BTC"
-  },
-  {
     "sent_at": "2026-04-24T18:24:32.477107+00:00",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjNnSDFiVmFxVU95MmFnSmRJUi1GcFI4WmZuMHY3YmpkUUlETTJ1YkZQenJJLWxHRzU5LTN0cGVYaDYwMGNJVjZkMFFRMDlXTlg5U1pWTHEtZEtURVRhVmNzUm8tYlNTVEVWUVRjWFFIY080M0FfWjg4b2hjWFJnMmJnbzhHdTNaQTc4TVhxZHY5ckFOREQ5X19MMNIBoAFBVV95cUxQZklxNDFiUHhHQzlJQlZZUEhXbGRvX2NRMU9Ua0ptMGJ5YXQ1ZnBSVGxkekxuUnNXUG1OVy1wanNVVVNzZkFIc0VfbFVFdlpuQnY3TGVzR3pPemZ0cllwZkpLZUhkOUpyVm1kOW4yV0ZBLW41ME1kQ1hrenBxZm5rczJTSWNabnlnV1Q2Nk5aazBKOXNvZnRtWWVsN1N0Vzgt?oc=5",
     "title_key": "skr price jumps 40 as solana mobile buzz ignites momentum coinpedia",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBUMjNzblp6aHhhS2MxNUJBdHNVTjQwR0ZHRWdZaGpGdk1vS2ZUYnpJNWl6ZGoxM05OUDBHR1gzUDNkRE9abDM0bkk3aUwtUUJQaDBwczBlLUd2RjN1ZklybHlvWDh4SlhYd2g1MGtR?oc=5",
     "title_key": "orca jumps 63 in 24 hours as solana dex volumes surge yellowcom",
     "title": "Orca Jumps 63% In 24 Hours As Solana DEX Volumes Surge - Yellow.com"
+  },
+  {
+    "sent_at": "2026-04-26T16:11:11.409811+00:00",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemlwUmNRVXBUSU5YdDJiRzZXbmJidkVzYUNCUGlFS0ozZzJoZ0I0eGlHUjBhYVhOVWNJYV9BM3FLelFaTXJQQ2FlMVdxb1dyOXc3MEwtQ3AtVnFFek1EeUZJdlI4Um5namdkcjNXSklLclkydGdGWkZEOUtETnQtRk92Q25SOWVZcHBoQUZMNTEtdTc0enNFNXNtMS1qRkh2VjQtSTM1UnhMbUhVVXZVSWZKUVdUUFlwQWdZUUFOSQ?oc=5",
+    "title_key": "freezing dormant btc would trigger worst single day repricing in bitcoin’s history says maximalist coindesk",
+    "title": "Freezing dormant BTC would trigger worst single day repricing in bitcoin’s history, says maximalist - CoinDesk"
   }
 ]
