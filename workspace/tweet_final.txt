@@ -1,1 +1,1 @@
-XPower Finance and Blazpay teamed up to let users earn yield across chains without switching apps or bridging manually. These integration announcements drop weekly. Most become footnotes. A few actually ship.
+Jupiter Lend raised its borrowing limit to $40M on Solana, letting users take larger loans against crypto collateral. The protocol is better known for its swap aggregator. Apparently one financial product wasn't enough.
