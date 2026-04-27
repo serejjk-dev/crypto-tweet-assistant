@@ -1,1 +1,1 @@
-Elfa AI launched an on-chain agent execution platform on Solana, letting autonomous AI systems run live transactions without human sign-off. We've barely figured out AI alignment, and now the agents have their own wallets.
+Aven launched a Visa card that lets customers pledge their $BTC as collateral and borrow up to $1 million without selling. Crypto-backed loans have been a DeFi staple for years. Aven just made them legible to someone with a credit score.
