@@ -1,1 +1,1 @@
-Jupiter Lend raised its borrowing limit to $40M on Solana, letting users take larger loans against crypto collateral. The protocol is better known for its swap aggregator. Apparently one financial product wasn't enough.
+Aave deployed on Solana - its first non-EVM chain - shortly after Solana Foundation provided USDT liquidity to help stabilize the protocol following the Kelp hack. The handshake now has a smart contract.
