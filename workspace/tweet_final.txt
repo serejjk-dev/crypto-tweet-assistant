@@ -1,1 +1,1 @@
-Strategy added $255M in $BTC this week, buying near a 12-week high while 10-year Treasuries yield 9.6%. That's a real return on bonds for the first time in a decade. Saylor's answer: still BTC.
+Elfa AI launched an on-chain agent execution platform on Solana, letting autonomous AI systems run live transactions without human sign-off. We've barely figured out AI alignment, and now the agents have their own wallets.
