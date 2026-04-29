@@ -217,11 +217,11 @@ def fetch_cryptocompare():
     return items
 
 
-def fetch_reddit():
+def fetch_reddit(subreddit: str = "CryptoCurrency", label: str = "CryptoCurrency"):
     items = []
     try:
         req = urllib.request.Request(
-            "https://www.reddit.com/r/CryptoCurrency/hot.json?limit=40",
+            f"https://www.reddit.com/r/{subreddit}/hot.json?limit=40",
             headers={"User-Agent": "crypto-tweet-bot/1.0 (contact via github)"},
         )
         with urllib.request.urlopen(req, timeout=15) as r:
@@ -239,12 +239,46 @@ def fetch_reddit():
             items.append({
                 "title": title,
                 "url": url,
-                "source": "Reddit/r/CryptoCurrency",
+                "source": f"Reddit/r/{label}",
                 "summary": summary,
                 "published_at": datetime.fromtimestamp(ts, tz=timezone.utc).isoformat(),
             })
     except Exception as ex:
-        print(f"[Reddit] error: {ex}")
+        print(f"[Reddit/{label}] error: {ex}")
+    return items
+
+
+def fetch_coingecko_trending():
+    items = []
+    try:
+        r = requests.get(
+            "https://api.coingecko.com/api/v3/search/trending",
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        data = r.json()
+        coins = data.get("coins") or []
+        ts = NOW.isoformat()
+        for entry in coins[:7]:
+            c = entry.get("item") or {}
+            name = c.get("name") or ""
+            symbol = (c.get("symbol") or "").upper()
+            rank = c.get("market_cap_rank")
+            score_v = c.get("score", 0)
+            if not name or not symbol:
+                continue
+            title = f"{name} (${symbol}) trending on CoinGecko"
+            if rank:
+                title += f", market cap rank #{rank}"
+            items.append({
+                "title": title,
+                "url": f"https://www.coingecko.com/en/coins/{c.get('slug') or symbol.lower()}",
+                "source": f"CoinGecko/trending#{score_v}",
+                "summary": f"{name} (ticker {symbol}) is one of the top searches on CoinGecko right now.",
+                "published_at": ts,
+            })
+    except Exception as ex:
+        print(f"[CoinGecko/trending] error: {ex}")
     return items
 
 
@@ -253,14 +287,44 @@ def fetch_google_news(query: str, label: str):
     return fetch_rss(url, f"GoogleNews/{label}")
 
 
+AIRDROP_TERMS = {
+    "airdrop", "airdrops", "snapshot", "snapshots", "claim", "claims",
+    "claimable", "eligibility", "eligible", "tge", "distribution",
+    "qualifies", "qualify",
+}
+SWAP_TERMS = {
+    "uniswap", "jupiter", "pancakeswap", "raydium", "curve", "balancer",
+    "1inch", "matcha", "cowswap", "dex", "aggregator", "swap", "swaps",
+    "router", "liquidity",
+}
+TRENDING_TERMS = {
+    "trending", "viral", "memecoin", "memecoins", "pumping", "rallies",
+    "explodes", "skyrockets", "moonshot", "hot",
+}
+PRICE_NOISE_TERMS = {
+    "prediction", "predictions", "forecast", "target", "targets",
+    "analysis", "analyst", "analysts",
+}
+
+
 def score(item) -> int:
     s = 0
     title_low = item["title"].lower()
-    words = set(re.findall(r"[a-z]+", title_low))
+    summary_low = (item.get("summary") or "").lower()
+    blob = title_low + " " + summary_low
+    words = set(re.findall(r"[a-z]+", blob))
     if words & LOUD_VERBS:
         s += 3
     if words & BIG_TICKERS:
         s += 2
+    if words & AIRDROP_TERMS:
+        s += 4
+    if words & SWAP_TERMS:
+        s += 3
+    if words & TRENDING_TERMS:
+        s += 2
+    if words & PRICE_NOISE_TERMS:
+        s -= 3
     published = datetime.fromisoformat(item["published_at"])
     if NOW - published < timedelta(hours=3):
         s += 1
@@ -269,14 +333,21 @@ def score(item) -> int:
 
 def main():
     all_items = []
-    with ThreadPoolExecutor(max_workers=6) as ex:
+    with ThreadPoolExecutor(max_workers=10) as ex:
         futures = [
             ex.submit(fetch_google_news, "bitcoin OR ethereum OR crypto", "crypto"),
             ex.submit(fetch_google_news, "defi OR solana OR altcoin", "defi"),
-            ex.submit(fetch_reddit),
+            ex.submit(fetch_google_news, "airdrop OR snapshot crypto OR token claim", "airdrop"),
+            ex.submit(fetch_google_news, "uniswap OR jupiter OR pancakeswap OR DEX OR aggregator", "swap"),
+            ex.submit(fetch_google_news, "memecoin OR pepe OR doge OR bonk OR shib trending", "memecoin"),
+            ex.submit(fetch_google_news, "twitter OR x.com crypto wallet OR swap", "x-swap"),
+            ex.submit(fetch_reddit, "CryptoCurrency", "CryptoCurrency"),
+            ex.submit(fetch_reddit, "CryptoMoonShots", "CryptoMoonShots"),
+            ex.submit(fetch_coingecko_trending),
             ex.submit(fetch_cryptocompare),
             ex.submit(fetch_rss, "https://www.coindesk.com/arc/outboundfeeds/rss/", "CoinDesk"),
             ex.submit(fetch_rss, "https://decrypt.co/feed", "Decrypt"),
+            ex.submit(fetch_rss, "https://airdrops.io/feed/", "AirdropsIO"),
         ]
         for f in futures:
             all_items.extend(f.result())

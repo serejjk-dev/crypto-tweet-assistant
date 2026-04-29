@@ -1,4 +1,6 @@
 .env
+.DS_Store
+.claude/scheduled_tasks.lock
 workspace/*
 !workspace/seen.json
 !workspace/drafts.log

@@ -5,11 +5,14 @@
 
 ## Пайплайн
 
-1. **fetch-crypto-news** — параллельно опрашивает 4 бесплатных
-   источника (CryptoPanic RSS, CryptoCompare News API, CoinDesk RSS,
-   Decrypt RSS), мёржит, убирает дубли по нормализованному
-   заголовку, отбрасывает старше 12 часов, оставляет топ-3.
-   Результат: `workspace/news.json`.
+1. **fetch-crypto-news** — параллельно опрашивает 13 источников:
+   Google News (6 запросов: crypto / defi / airdrop / swap-DEX /
+   memecoin / X-swap), Reddit (r/CryptoCurrency, r/CryptoMoonShots),
+   CoinGecko trending, CryptoCompare, CoinDesk, Decrypt, airdrops.io.
+   Мёржит, убирает дубли по нормализованному заголовку и Jaccard,
+   отбрасывает старше 12 часов, ранжирует с бонусами для
+   airdrop / swap-DEX / trending тем и штрафом за «price prediction»
+   шум. Результат: топ-3 в `workspace/news.json`.
 
 2. **Выбор топ-1** из `workspace/news.json` (первый элемент,
    он самый интересный по скору).
