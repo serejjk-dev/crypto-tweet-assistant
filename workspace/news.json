@@ -1,9 +1,16 @@
 [
   {
-    "title": "DeFi raises $300M for Kelp\u2019s rsETH holders after exploit, no ETH price impact - Crypto Briefing",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#4",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-04-29T23:40:15.114869+00:00"
+  },
+  {
+    "title": "DeFi raises $300M for Kelp’s rsETH holders after exploit, no ETH price impact - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1FnVHgyTUh4MnlvVnpWeUdaYkNiaDZkVF9xdndsZ2NfOGJSRXluc2EwdzJGRmhTZHA2cDFSazBmYklfZUQxa3pRTEhzaUthM3lKZllzNHJTMXZ5bnVSWG5WTmxCSmZjUHJGZU41Wmg1RnNHYmFfMmgzZVU5aWZNN2Fsc1VxdXhmTDZhLXVzNHN5UF9GWVdvR1RXWGF4T1NMS2VqOQ?oc=5",
     "source": "GoogleNews/defi",
-    "summary": "DeFi raises $300M for Kelp\u2019s rsETH holders after exploit, no ETH price impact&nbsp;&nbsp;Crypto Briefing",
+    "summary": "DeFi raises $300M for Kelp’s rsETH holders after exploit, no ETH price impact  Crypto Briefing",
     "published_at": "2026-04-29T18:11:43+00:00"
   },
   {
@@ -12,12 +19,5 @@
     "source": "CoinDesk",
     "summary": "Tether has moved to combine bitcoin treasury, mining, and financial services under one roof.",
     "published_at": "2026-04-29T22:12:53+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#4",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-04-29T23:40:15.114869+00:00"
   }
 ]
