@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-04-28T20:06:55.465203+00:00",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdVJQRk9FMVdHRUMyZ28tY1JveVRNMzZLMndIT3o3V25pVVNXOWpCMVBQNjU4eHpPbDdkSG1UZDhhNHFKZVo3UmwtZE1TSHlSWkZrN2Rucm45RDJCV3htdmRXenJUc1JxMHhBcUZzVXBBbThvLXZkUVB6Z3Z0MlpSVXF4c0kwQXgtOGlfNkN5ZWVtSmNuYWtlVDZ0NzRpczV2N3lERndB?oc=5",
-    "title_key": "bitcoin and solana jump to skyhigh fomo levels watch out sanbase",
-    "title": "Bitcoin and Solana Jump to Sky-High FOMO Levels, Watch Out! - Sanbase"
-  },
-  {
-    "sent_at": "2026-04-28T22:05:20.285758+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZVkZMNE5IdjM5Q1EzRldNTzhoOVYwREFsMXdxUmVmVkJqcUtDLUNZdjlCY3NTRjFnRHIzNDZSeHZlbjZIc05fb1pZM2hxTkNlX2prMVkwN1FnLWVD?oc=5",
-    "title_key": "redstone launches settlement layer to address rwa liquidity gap in defi lending cryptonewsnet",
-    "title": "RedStone launches settlement layer to address RWA liquidity gap in DeFi lending - Cryptonews.net"
-  },
-  {
     "sent_at": "2026-04-29T02:24:06.752443+00:00",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMEx4SkVUUE14TDFIclRvTHhnVURhbDVJMGpSSlJrQS1rMGN2bjJIS056V2VscVdPdkQzSE1tZW5EaHVVTWc4YVkwZTRsTHJnRS1KaGdNUko0cmV0NUk2cS1YeTF2U0xIaEtNSl9ZcjFDSmNQSVN3RzgwNm1ramVQY1VST2c3bUZ5RVA5R0g3czlSak9qV3ZWOHdsdlQ4T3Z0ZEpheXFja19hdHJSZzcyWWRlamlNMngyREx3WnNReVh0U3BkQjFyOTkwNklSUktPVm9rQUdXWlRPcWJDQ1YtUldBbnFmNWdLSENnSXJyU0tzNkh0?oc=5",
     "title_key": "crypto markets today april 28 bitcoin slips slightly as geopolitical tensions weigh on risk sentiment the motley fool",
@@ -70,5 +58,11 @@
     "url": "https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high",
     "title_key": "dogecoin zooms 10 breaking away from bitcoin as open interest hits a yearly peak",
     "title": "Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak"
+  },
+  {
+    "sent_at": "2026-05-01T00:16:40.570468+00:00",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmdYVVNmMzlnc2NxOGRmQVdwSnAza0JybDRqZVE2V29wdEI3bHpFY081Y2JvYjY0NlRxaXVKTVAyYWVEdzJKZlBORVBFLWRjc1pmZ2NoLVp3N2RaSlE2eTVMNXFnWEVES3FiXzMwZmp2R080aWhaWHdCUGxRdTM1SmNXaGg2eTBSVnRmNUVaMTlaV3pMeGVkQkNVdjJJTzZfUzdhTQ?oc=5",
+    "title_key": "solana yield protocol carrot shuts down after drift exploit drains 8m in tvl bitcoin news",
+    "title": "Solana Yield Protocol Carrot Shuts Down After Drift Exploit Drains $8M in TVL - Bitcoin News"
   }
 ]
