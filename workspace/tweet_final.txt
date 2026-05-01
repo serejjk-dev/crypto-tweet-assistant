@@ -1,1 +1,1 @@
-Dogecoin jumped 10% and decoupled from $BTC today, as open interest in DOGE futures hit a year-high of 15.36 billion tokens - fresh positions piling in. Same dog, new leverage. Probably nothing.
+Carrot, a Solana-based yield protocol, shut down after an exploit on Drift Protocol drained $8M in user funds. DeFi composability is elegant in theory. The part they skip: one upstream bug and the whole stack unwinds.
