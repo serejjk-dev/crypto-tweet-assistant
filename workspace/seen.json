@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-29T16:27:06.410232+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOFFMaXFXelk5NTFYWC1QM0ttcnBYTTFXZENhVUF1QUlUMW05Rm43MDdoSGk2OHU5Y2laeGVXbGlKZFBsc3Q2TWlDT1pNM2JFaHRGZWQ1X2ZzVVhiMVE5TGVsdUpTZHhJanM2VHc3R01hcGYyc1pzazBBWkg1OXd2bmdlVVN1Wnd6a05UTVdaTU1vVW9KclF4SF8yWW1BZWNibTV6RTZjaGo?oc=5",
-    "title_key": "solana multisig protocol squads raises 18m usd to scale stablecoin platform altitude cryptonews",
-    "title": "Solana multisig protocol Squads raises 18M USD to scale stablecoin platform Altitude - crypto.news"
-  },
-  {
     "sent_at": "2026-04-29T22:30:11.280709+00:00",
     "url": "https://decrypt.co/366087/meta-launches-usdc-stablecoin-creator-payouts-on-solana-and-polygon-via-stripe",
     "title_key": "meta launches usdc stablecoin creator payouts on solana and polygon via stripe",
@@ -20,8 +14,8 @@
   {
     "sent_at": "2026-04-30T04:12:47.124417+00:00",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX1FnVHgyTUh4MnlvVnpWeUdaYkNiaDZkVF9xdndsZ2NfOGJSRXluc2EwdzJGRmhTZHA2cDFSazBmYklfZUQxa3pRTEhzaUthM3lKZllzNHJTMXZ5bnVSWG5WTmxCSmZjUHJGZU41Wmg1RnNHYmFfMmgzZVU5aWZNN2Fsc1VxdXhmTDZhLXVzNHN5UF9GWVdvR1RXWGF4T1NMS2VqOQ?oc=5",
-    "title_key": "defi raises 300m for kelp’s rseth holders after exploit no eth price impact crypto briefing",
-    "title": "DeFi raises $300M for Kelp’s rsETH holders after exploit, no ETH price impact - Crypto Briefing"
+    "title_key": "defi raises 300m for kelp\u2019s rseth holders after exploit no eth price impact crypto briefing",
+    "title": "DeFi raises $300M for Kelp\u2019s rsETH holders after exploit, no ETH price impact - Crypto Briefing"
   },
   {
     "sent_at": "2026-04-30T06:07:13.975400+00:00",
@@ -70,5 +64,11 @@
     "title_key": "moonpay launches debit mastercard that lets ai agents pay with stablecoins",
     "title": "MoonPay Launches Debit Mastercard That Lets AI Agents Pay With Stablecoins",
     "sent_at": "2026-05-01T16:31:25.005303+00:00"
+  },
+  {
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90M2pCTERNWnEtTWFrRzRGTndtT0dGU2pPOGJjNWJ1eGhDMFBnOVVXMmZDckJUUS1MMDVZYVpnLVU4Wk90QVVBMGVmcUh4ejEwT3ZNVW1uVnVVbW1wUXpkWWNWRGloT3k3b1BESC1OSWdCVG5I?oc=5",
+    "title_key": "dex volume extends decline in april outflows reach spot and futures markets  cryptopolitan",
+    "title": "DEX volume extends decline in April, outflows reach spot and futures markets - Cryptopolitan",
+    "sent_at": "2026-05-01T18:26:27.996391+00:00"
   }
 ]
