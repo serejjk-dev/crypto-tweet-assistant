@@ -1,1 +1,1 @@
-Carrot, a Solana-based yield protocol, shut down after an exploit on Drift Protocol drained $8M in user funds. DeFi composability is elegant in theory. The part they skip: one upstream bug and the whole stack unwinds.
+Bloomberg's piece on Bitcoin 2026 makes a simple argument: the longtime believers have outgrown the price. They've held through enough cycles that the number stopped being the point. Few understand how long that takes.
