@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-04-30T18:15:37.063334+00:00",
-    "url": "https://www.coindesk.com/markets/2026/04/30/dogecoin-zooms-10-in-breakaway-from-bitcoin-as-open-interest-hits-year-high",
-    "title_key": "dogecoin zooms 10 breaking away from bitcoin as open interest hits a yearly peak",
-    "title": "Dogecoin zooms 10%, breaking away from bitcoin as open interest hits a yearly peak"
-  },
-  {
     "sent_at": "2026-05-01T00:16:40.570468+00:00",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVmdYVVNmMzlnc2NxOGRmQVdwSnAza0JybDRqZVE2V29wdEI3bHpFY081Y2JvYjY0NlRxaXVKTVAyYWVEdzJKZlBORVBFLWRjc1pmZ2NoLVp3N2RaSlE2eTVMNXFnWEVES3FiXzMwZmp2R080aWhaWHdCUGxRdTM1SmNXaGg2eTBSVnRmNUVaMTlaV3pMeGVkQkNVdjJJTzZfUzdhTQ?oc=5",
     "title_key": "solana yield protocol carrot shuts down after drift exploit drains 8m in tvl bitcoin news",
@@ -62,8 +56,8 @@
   {
     "sent_at": "2026-05-02T08:33:54.756412+00:00",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDhyNTc1WmNXOUJMX0IzcDFHTUJSS3VVcnlBaXdtT3g5UFh1WUJwbzhSWEU4NVdoQ2JYZURoUk1xdVprV2RTdFZvRG9mZ0JhMXczNXRnR2lESnYwRXJxVmxCSmxWQXJUeTNwQndJY2oxUEFNQ1FPSi1DSjl0Q0lFbG1veG40YlV5OHpuZzZ3VzlhdkxGSFI1bXJnbG9PNWxJTmFuSm9xQjNoSkhJZ2tfU0NDek15RkdMS2Z0MUE4bGNMUk5MU1l3ZW9ZX2RIdw?oc=5",
-    "title_key": "april’s 2b etf boom bitcoin ethereum xrp funds post largest inflows in 2026 tradingview",
-    "title": "April’s $2B ETF Boom: Bitcoin, Ethereum, XRP Funds Post Largest Inflows In 2026 - TradingView"
+    "title_key": "april\u2019s 2b etf boom bitcoin ethereum xrp funds post largest inflows in 2026 tradingview",
+    "title": "April\u2019s $2B ETF Boom: Bitcoin, Ethereum, XRP Funds Post Largest Inflows In 2026 - TradingView"
   },
   {
     "sent_at": "2026-05-02T10:24:51.981938+00:00",
@@ -82,5 +76,11 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3EtNDZpamE4bW1GV1BIOVhWRVd1MlZMOUQ3MnVFd1JGS2xqTGlORGRYZWNrRWJuSWFYZFBPZ3VUR1hRZi1yX1dWRkpvS1lzMk9oVmVlNTlQUGNpVU1WOTRybjRIcE1hZzdJc2QxdU05NmVQX0V4aHU2T1hjMFFxdDRkOThCQmdWei01a1d1d2ZHOUFROU8zNVdDLUN1QXdq?oc=5",
     "title_key": "developer claims he can crack 700 million lost bitcoin wallet yahoo finance",
     "title": "Developer Claims He Can Crack $700 Million Lost Bitcoin Wallet - Yahoo Finance"
+  },
+  {
+    "sent_at": "2026-05-02T22:09:39.702826+00:00",
+    "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+    "title_key": "bitcoins hazardous airdrop why developers are warning against paul sztorcs ecash fork",
+    "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc's eCash fork"
   }
 ]
