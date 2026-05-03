@@ -1,1 +1,1 @@
-Western Union, the 175-year-old money transfer giant, unveiled plans to launch a stablecoin on Solana. They charge 5-8% per cross-border transfer. Solana does the same for $0.001. The infrastructure changed. The business model probably won't.
+AllUnity expanded EURAU, its euro-pegged stablecoin, to Solana, letting European users send euros on-chain without converting to dollars first. USDC and USDT have owned this space. The euro is finally making its case.
