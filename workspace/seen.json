@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-02T22:09:39.702826+00:00",
-    "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
-    "title_key": "bitcoins hazardous airdrop why developers are warning against paul sztorcs ecash fork",
-    "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc's eCash fork"
-  },
-  {
     "sent_at": "2026-05-03T00:43:33.116673+00:00",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQREtOSnoxLTY2SmRJelZUM3h6RTg5eWNXWDgzeGt5cDN1aDZkMUVpZjBqREMzd2ZfZkhyNnR5Z3NmcjdEZFpjMURQcGRXUnE1eGd5bXZZbXhFRnhSTmNyOG5RZUhwNVdCZGZCQnRpSnlCTTFlam85cW0zZjVVMlUxYm0tUHhzU1BrMTNCcHRpZ0UwRDJpMHlmcEd3?oc=5",
     "title_key": "sol price to 100 as western union unveils solana stablecoin plan coingape",
@@ -70,5 +64,11 @@
     "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
     "title_key": "krakens parent company payward alleges 25 million crypto custody fraud in lawsuit against etana and firms ceo",
     "title": "Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO"
+  },
+  {
+    "sent_at": "2026-05-04T22:11:10.574945+00:00",
+    "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
+    "title_key": "hut 8 swaps coinbase loan for cheaper falconx deal slashing borrowing costs as it bets big on ai",
+    "title": "Hut 8 swaps Coinbase loan for cheaper FalconX deal, slashing borrowing costs as it bets big on AI"
   }
 ]
