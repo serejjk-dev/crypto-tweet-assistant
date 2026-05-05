@@ -1,1 +1,1 @@
-Jito Labs launched JTX, a self-custody trading tool for Solana that lets users buy and sell tokens without handing wallet control to a platform. Turns out 'not your keys, not your coins' also applies while you're actively trading, not just holding.
+Securitize, Jump Crypto, and Jupiter launched tokenized U.S. stocks on Solana. Retail traders can now hold real equity shares on-chain via a DeFi interface. Mirror Protocol ran this play on Terra in 2021. Different infrastructure, same pending question.
