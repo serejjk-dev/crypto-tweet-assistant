@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-03T16:10:25.852776+00:00",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSzVHc1BiZVZBcTZSajBwb045blB5NXRnNFNiNGxzQkNUSk9ab0tXc1FzMnpGdExDRnJuMi1ma1JJYzFBYWNwVzRCVVdHV0Zvbm9sZlZJN1JZV0g0Y3FxeWZlbUhLd0dFYnNERVFQcTVLZUFHSEdtWW00M0RvVHRmUG5abVZYaTAzMGlubzFROEFrVXE5Y3ktcXRkVmVTOVZv?oc=5",
-    "title_key": "latam insights brazil bans crypto transfers as meta launches usdc payouts bitcoin news",
-    "title": "Latam Insights: Brazil Bans Crypto Transfers as Meta Launches USDC Payouts - Bitcoin News"
-  },
-  {
     "sent_at": "2026-05-04T02:07:00.711419+00:00",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRjRjRDk1bjlTRlJranYtLXhSbmhqY055X28tRFhrNFBPSXZQWGVsQ0o1S2daNmpiTmU0T0NkMmZHVnBXOHprczhxaENBYWhGVmlxMXhfY1BnQQ?oc=5",
     "title_key": "ethereum exit queue explodes 72000 after defi hack wave cryptonewsnet",
@@ -64,5 +58,11 @@
     "title": "Jito Labs launches self-custody trading tool as activity heats up on Solana - CoinDesk",
     "title_key": "jito labs launches selfcustody trading tool as activity heats up on solana  coindesk",
     "sent_at": "2026-05-05T20:10:43.705066+00:00"
+  },
+  {
+    "sent_at": "2026-05-05T22:09:52.975290+00:00",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM0Rsdk9Zdl94Z2MzZ0NWTVBHNVFQRDE2R3hGUmNCMmItaktVWG1BaEcyVlBQbjliMXp2Nm4taTVlQ0NZdVhiT1ZYNGRpWnhpWEVSczJJb3lyNndCdkp3WDhkWjVXOU1LN3pzUlBPT2ZwbjBMcGVhN0lqSE5BajU0MGFvTV9mM1hrcFNjUVRjcGdrOTdfZjM5QjU4Q3hfcVU?oc=5",
+    "title_key": "securitize jump jupiter launch tokenized equities on solana blockchain crypto briefing",
+    "title": "Securitize, Jump, Jupiter launch tokenized equities on Solana blockchain - Crypto Briefing"
   }
 ]
