@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#5",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-05-06T15:54:19.446878+00:00"
+  },
+  {
     "title": "Solana and Google Cloud Launch Pay.sh for AI Agent Payments Using USDC - Glenbrook Partners",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXVuWkxSWEdiUkhXNVAxaFpYSDRoczkzS2JYa08xNXNvTmFsRlAyNlV2SzRhQkRFM1UwWi05eG9iM3FLeC1JV1lHaEg4RmVFZUwxMlE4T3NPOExiZHBwcnk1TmpXSEtGWmdnWGJRUklFV1dHVlJGSHZZYWQyc0VXV21aUmRzT3hyT3NtN25GaTVNWnlGOGhrcjU0Q25tdjJLSjRraGxmUE13aUk?oc=5",
     "source": "GoogleNews/defi",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/crypto",
     "summary": "Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading&nbsp;&nbsp;Investor's Business Daily",
     "published_at": "2026-05-06T13:37:00+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-05-06T15:54:19.446878+00:00"
   }
 ]
