@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-04T20:13:20.865511+00:00",
-    "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
-    "title_key": "krakens parent company payward alleges 25 million crypto custody fraud in lawsuit against etana and firms ceo",
-    "title": "Kraken's parent company Payward alleges $25 million crypto custody fraud in lawsuit against Etana and firm's CEO"
-  },
-  {
     "sent_at": "2026-05-04T22:11:10.574945+00:00",
     "url": "https://www.coindesk.com/markets/2026/04/28/hut-8-swaps-coinbase-credit-line-for-cheaper-falconx-deal-slashing-borrowing-costs-as-it-bets-big-on-ai",
     "title_key": "hut 8 swaps coinbase loan for cheaper falconx deal slashing borrowing costs as it bets big on ai",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXVuWkxSWEdiUkhXNVAxaFpYSDRoczkzS2JYa08xNXNvTmFsRlAyNlV2SzRhQkRFM1UwWi05eG9iM3FLeC1JV1lHaEg4RmVFZUwxMlE4T3NPOExiZHBwcnk1TmpXSEtGWmdnWGJRUklFV1dHVlJGSHZZYWQyc0VXV21aUmRzT3hyT3NtN25GaTVNWnlGOGhrcjU0Q25tdjJLSjRraGxmUE13aUk?oc=5",
     "title_key": "solana and google cloud launch paysh for ai agent payments using usdc glenbrook partners",
     "title": "Solana and Google Cloud Launch Pay.sh for AI Agent Payments Using USDC - Glenbrook Partners"
+  },
+  {
+    "sent_at": "2026-05-06T20:14:06.916458+00:00",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
   }
 ]
