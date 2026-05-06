@@ -1,1 +1,1 @@
-Kelp claims LayerZero approved the bridge setup blamed for a $292M North Korea-linked exploit, then pointed fingers afterward. Kelp has since migrated to Chainlink. Vetted is apparently not the same as safe.
+Drift, a Solana lending protocol, lost $295 million to North Korean hackers and is now offering users tokenized claims backed by future protocol revenue while law enforcement investigates. DeFi's trustless promise now comes with a federal case on the side.
