@@ -1,29 +1,5 @@
 [
   {
-    "sent_at": "2026-05-04T02:07:00.711419+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tRjRjRDk1bjlTRlJranYtLXhSbmhqY055X28tRFhrNFBPSXZQWGVsQ0o1S2daNmpiTmU0T0NkMmZHVnBXOHprczhxaENBYWhGVmlxMXhfY1BnQQ?oc=5",
-    "title_key": "ethereum exit queue explodes 72000 after defi hack wave cryptonewsnet",
-    "title": "Ethereum Exit Queue Explodes 72,000% After DeFi Hack Wave - Cryptonews.net"
-  },
-  {
-    "sent_at": "2026-05-04T10:30:02.415752+00:00",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNHN5LWpOUnR5aFZpSTl0TWVuQ0hHMXQzTlRHb3RUMi1fLTMteEM0SHIyZGU0clA2TEoxOWFmeFl3bDNxMGhOZmJFQnNBZktVN0RxUU43dm91WU5IclFSYy13akc5Y2lGTVpqNG43cXZiRkFINnQ1cTQ5SkdJVF9Hc2JNQ1diNDNqaEUxV3BDcjJObTRnYlhmSS1nYmMzeUJKbXZNekd2RkgyUl9Wb3RybA?oc=5",
-    "title_key": "doge price dogecoin jumps 4 to lead gains among majors as bitcoin zooms higher coindesk",
-    "title": "DOGE price: Dogecoin jumps 4% to lead gains among majors as bitcoin zooms higher - CoinDesk"
-  },
-  {
-    "sent_at": "2026-05-04T12:39:43.597695+00:00",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSFNYTTZHSGNMZmNkai1SdmNXUDhTX0hJRFh5ckV1SlR1VERFTlgtUWpRRW9EWmpleVRxLWNVcmxvUXhnWklvcGFIOVhVaG1Zd1NNeFVRdXRTMzA4bjNMYzZoQ3JMdE5xLW9FNkYwSEQ5S05VZ09UTGhOWHFjY2w3Q0d4QmVXb2xjNXR1eGhCa3RvY1J6OUFpUE84dHQ1bFk?oc=5",
-    "title_key": "bitcoin surges to 80000 amid usiran tensions first time since january crypto briefing",
-    "title": "Bitcoin surges to $80,000 amid US-Iran tensions, first time since January - Crypto Briefing"
-  },
-  {
-    "sent_at": "2026-05-04T16:21:16.610013+00:00",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc0dCWGNsOS03VDA0ai1SaExzQ0duaGxLejhmYmFGSEtCTTRoWWtLUDdHVFpMSjRLRElkQ21LR3AxbkZwSHRJUy1IMnlOZ0o2RXVPYXlqa1ZRa1NhakVOVTJEMlFINkg5YWdLQmJQSHlhN19KMi1qdHlXd3gwQWo0SVlSSnM?oc=5",
-    "title_key": "sdny bans former crypto lending ceo enters suspended 47b judgment resolving ftc claims jd supra",
-    "title": "SDNY bans former crypto lending CEO, enters suspended $4.7B judgment resolving FTC claims - JD Supra"
-  },
-  {
     "sent_at": "2026-05-04T20:13:20.865511+00:00",
     "url": "https://www.coindesk.com/business/2026/05/04/kraken-s-parent-company-payward-alleges-usd25-million-crypto-custody-fraud-in-lawsuit-against-etana-and-firm-s-ceo",
     "title_key": "krakens parent company payward alleges 25 million crypto custody fraud in lawsuit against etana and firms ceo",
@@ -82,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2dRRWhqckhTUlJIVGhadDRIWG5rdGw3Q0xweXFWbTNnamo1UjQ0TFloTzhXRlFoa2ZPMF9xNWNtcXhyS0lUZG00UV91Q0ozNHp0Y3k0a2RmUzVPSFlNNm92Uk1RYlk0U3pMWXlsUmpENkRwbHhNNkxSVzNwb3pyTEpJUzVVbjVpMlhFZ2N1TDZSaUpnQTRQRXFPam42VkVjTEtaNjBsdkEwMmJkT2NaWk81WWlnMXVnMUMwVW15MA?oc=5",
     "title_key": "bitcoin miner soars on 98 bil data center deal morgan stanley debuts crypto trading  investors business daily",
     "title": "Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading - Investor's Business Daily"
+  },
+  {
+    "sent_at": "2026-05-06T18:14:05.035683+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXVuWkxSWEdiUkhXNVAxaFpYSDRoczkzS2JYa08xNXNvTmFsRlAyNlV2SzRhQkRFM1UwWi05eG9iM3FLeC1JV1lHaEg4RmVFZUwxMlE4T3NPOExiZHBwcnk1TmpXSEtGWmdnWGJRUklFV1dHVlJGSHZZYWQyc0VXV21aUmRzT3hyT3NtN25GaTVNWnlGOGhrcjU0Q25tdjJLSjRraGxmUE13aUk?oc=5",
+    "title_key": "solana and google cloud launch paysh for ai agent payments using usdc glenbrook partners",
+    "title": "Solana and Google Cloud Launch Pay.sh for AI Agent Payments Using USDC - Glenbrook Partners"
   }
 ]
