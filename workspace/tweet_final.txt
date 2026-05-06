@@ -1,1 +1,1 @@
-Morgan Stanley launched direct crypto trading for retail customers, adding $BTC and $ETH to the same platform where clients manage their stock portfolios. The same firm that spent years warning clients away from crypto is now charging fees to buy it.
+Google Cloud and Solana launched Pay.sh, letting AI agents initiate $USDC payments on-chain without any human in the loop. After years of 'AI x crypto' roadmaps, the product finally looks like a shell script.
