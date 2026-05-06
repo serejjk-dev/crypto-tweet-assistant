@@ -1,1 +1,1 @@
-Bitcoin topped CoinGecko's trending charts today and still holds the #1 spot by market cap - same as it has for most of the last 15 years. Retail searches are climbing. They usually lead something. What that something is only becomes clear in retrospect.
+Ekubo DEX users lost $1.4 million after attackers used long-standing token approvals to drain wallets without any new user interaction required. Old permissions don't expire. Attackers just wait.
