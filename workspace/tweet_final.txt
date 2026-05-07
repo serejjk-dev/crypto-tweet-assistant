@@ -1,1 +1,1 @@
-Pavel Durov claims $TON settles transactions 6,000x faster than $BTC, citing fresh benchmarks for his Telegram-linked blockchain. Bitcoin was never built for speed. Beating it is the floor, not the ceiling.
+Ethereum co-founder Vitalik Buterin made a $4 token swap and got sandwiched by JaredfromSubway, the network's most notorious MEV bot, with $1M in volume to extract profit. He's been pushing encrypted mempools to stop this exact attack. Outcome: unchanged.
