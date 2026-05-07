@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-05-05T02:13:44.775350+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5waTVmQmNIRkxVcWxSaURaSU9OWXBiM2dSVVRYXzdKbFJ5LWUteUhmVkc3b1QzNC02TUdzclcwTUFuY3FCbEF5aXd3Ny1sREdTcV93Rw?oc=5",
-    "title_key": "defi development launches 200m atm to keep buying solana cryptonewsnet",
-    "title": "DeFi Development launches $200M ATM to keep buying Solana - Cryptonews.net"
-  },
-  {
-    "sent_at": "2026-05-05T12:14:07.001497+00:00",
-    "url": "https://decrypt.co/366761/morning-minute-crypto-vc-haun-raises-1b-despite-market-slump",
-    "title_key": "morning minute crypto vc haun raises 1b despite market slump",
-    "title": "Morning Minute: Crypto VC Haun Raises $1B Despite Market Slump"
-  },
-  {
-    "url": "https://www.coindesk.com/business/2026/05/05/crypto-doesn-t-need-regulation-its-value-is-being-outside-regulatory-apparatus-says-arthur-hayes",
-    "title": "Crypto's value is from being outside regulatory apparatus, says Arthur Hayes",
-    "title_key": "cryptos value is from being outside regulatory apparatus says arthur hayes",
-    "sent_at": "2026-05-05T18:05:55.067397+00:00"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPODV1WG82Q3BWSnE4TmtZQ083aGdjb3BtRThFZ3FDNkJtdTNsY1Z4ekxsTzY5RmZybmlQcUppZ2pPVHhYZmhyOUx0azRvU2ZNd2kxWm5YeDlrbElrMVAxczVaWkl5NnA2aEJVd2s4cDdyOVJHeDZyOFBNb1NIQkw1cUpZYkF2d2h1T0ZXNVBhN29XNlBuTmgySkF4eWVncGNJNy1kNzhJNUVYQQ?oc=5",
     "title": "Jito Labs launches self-custody trading tool as activity heats up on Solana - CoinDesk",
     "title_key": "jito labs launches selfcustody trading tool as activity heats up on solana  coindesk",
@@ -76,5 +58,11 @@
     "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
     "title_key": "bermuda pushes stablecoin payments with usdc airdrop as it courts crypto firms regulators",
     "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators"
+  },
+  {
+    "sent_at": "2026-05-07T20:05:30.489963+00:00",
+    "url": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
+    "title_key": "jaredfromsubway bot front runs vitalik buterins 4 token swap with 1 million in volume",
+    "title": "'JaredfromSubway' bot front runs Vitalik Buterin's $4 token swap with $1 million in volume"
   }
 ]
