@@ -1,1 +1,1 @@
-Solana Foundation and Google Cloud launched Pay.sh, letting AI agents make real-time USDC payments on $SOL. Banks spent decades building payment rails. AI agents just skipped the line.
+Solana Foundation and Google Cloud built a stablecoin payment layer for AI agents to transact autonomously in $USDC. The AI economy needed a bank account before it needed a brain. Priorities sorted.
