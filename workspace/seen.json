@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-05-06T18:14:05.035683+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXVuWkxSWEdiUkhXNVAxaFpYSDRoczkzS2JYa08xNXNvTmFsRlAyNlV2SzRhQkRFM1UwWi05eG9iM3FLeC1JV1lHaEg4RmVFZUwxMlE4T3NPOExiZHBwcnk1TmpXSEtGWmdnWGJRUklFV1dHVlJGSHZZYWQyc0VXV21aUmRzT3hyT3NtN25GaTVNWnlGOGhrcjU0Q25tdjJLSjRraGxmUE13aUk?oc=5",
-    "title_key": "solana and google cloud launch paysh for ai agent payments using usdc glenbrook partners",
-    "title": "Solana and Google Cloud Launch Pay.sh for AI Agent Payments Using USDC - Glenbrook Partners"
-  },
-  {
-    "sent_at": "2026-05-06T20:14:06.916458+00:00",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
-  },
-  {
-    "sent_at": "2026-05-06T22:10:01.158481+00:00",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0dCRXJnZ3FFZ0wyc3VrTzlMVVRlUUpDRmhfaEY3M1QtLTg0TWtFdDVxQW1OSVU1MG00RFI3LUdELXQtSUdEcWJRNko2dDhCNE1oNFE4dlJoM2NZYzRkZThDemdYNDBrMC0yNnNfU1kwSEZoczNINVN6MU5vazUxNnJNd2YzOHlWZ2JfLUplMTBSME4t?oc=5",
-    "title_key": "ekubo dex users drained for 14m in token approval exploit yahoo finance",
-    "title": "Ekubo DEX Users Drained for $1.4M in Token Approval Exploit - Yahoo Finance"
-  },
-  {
     "sent_at": "2026-05-07T00:04:37.014367+00:00",
     "url": "https://decrypt.co/366947/bitcoin-jumps-to-three-month-high-above-82k-on-report-of-us-iran-agreement",
     "title_key": "bitcoin jumps to threemonth high above 82k on report of usiran agreement",
@@ -82,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGFOQ3U0cmpWVGQ5dUVTbTU5SEtZR1luNFVYMDNBTGVLUktoOG90ek5NWUhFbmYxZkwxZHRUWXJ4Z0c0RzBRdnI4LWk5LXlMcjlBdFJJV1lpXzZmRGx5S3pOSGY3MFJabGk5YWNEVHhwVlVsNlBwWGctRGlDQlFLMExCZXRqTW93NzBlcHdSeFJzT1h4dFM4QUlOY3o?oc=5",
     "title_key": "bitcoin price crashes near zero on revolut blamed on thirdparty service disruption  yahoo finance",
     "title": "Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption - Yahoo Finance"
+  },
+  {
+    "sent_at": "2026-05-08T22:10:22.671113+00:00",
+    "url": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
+    "title_key": "stablecoins have their permission slip now comes the hard part",
+    "title": "Stablecoins have their 'permission slip.' Now comes the hard part."
   }
 ]
