@@ -1,1 +1,1 @@
-Arbitrum's DAO voted to release $71M in exploit-frozen $ETH to an Aave-led recovery fund, though governance rules delay any transfer by eight days. The U.S. government is also fighting to seize those same funds. Two courts, same ETH.
+$BTC briefly appeared as $0.02 on Revolut after a third-party price feed failed. No crash happened. Most retail platforms source price displays from external vendors. When those vendors break, the number in your app means nothing.

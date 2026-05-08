@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-06T16:08:51.735942+00:00",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2dRRWhqckhTUlJIVGhadDRIWG5rdGw3Q0xweXFWbTNnamo1UjQ0TFloTzhXRlFoa2ZPMF9xNWNtcXhyS0lUZG00UV91Q0ozNHp0Y3k0a2RmUzVPSFlNNm92Uk1RYlk0U3pMWXlsUmpENkRwbHhNNkxSVzNwb3pyTEpJUzVVbjVpMlhFZ2N1TDZSaUpnQTRQRXFPam42VkVjTEtaNjBsdkEwMmJkT2NaWk81WWlnMXVnMUMwVW15MA?oc=5",
-    "title_key": "bitcoin miner soars on 98 bil data center deal morgan stanley debuts crypto trading  investors business daily",
-    "title": "Bitcoin Miner Soars On $9.8 Bil Data Center Deal, Morgan Stanley Debuts Crypto Trading - Investor's Business Daily"
-  },
-  {
     "sent_at": "2026-05-06T18:14:05.035683+00:00",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXVuWkxSWEdiUkhXNVAxaFpYSDRoczkzS2JYa08xNXNvTmFsRlAyNlV2SzRhQkRFM1UwWi05eG9iM3FLeC1JV1lHaEg4RmVFZUwxMlE4T3NPOExiZHBwcnk1TmpXSEtGWmdnWGJRUklFV1dHVlJGSHZZYWQyc0VXV21aUmRzT3hyT3NtN25GaTVNWnlGOGhrcjU0Q25tdjJLSjRraGxmUE13aUk?oc=5",
     "title_key": "solana and google cloud launch paysh for ai agent payments using usdc glenbrook partners",
@@ -82,5 +76,11 @@
     "url": "https://www.coindesk.com/markets/2026/05/08/arbitrum-approves-usd71-million-eth-release-despite-u-s-seizure-fight",
     "title_key": "arbitrum approves 71 million eth release despite us seizure fight",
     "title": "Arbitrum approves $71 Million ETH release despite U.S. seizure fight"
+  },
+  {
+    "sent_at": "2026-05-08T18:10:14.431107+00:00",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGFOQ3U0cmpWVGQ5dUVTbTU5SEtZR1luNFVYMDNBTGVLUktoOG90ek5NWUhFbmYxZkwxZHRUWXJ4Z0c0RzBRdnI4LWk5LXlMcjlBdFJJV1lpXzZmRGx5S3pOSGY3MFJabGk5YWNEVHhwVlVsNlBwWGctRGlDQlFLMExCZXRqTW93NzBlcHdSeFJzT1h4dFM4QUlOY3o?oc=5",
+    "title_key": "bitcoin price crashes near zero on revolut blamed on thirdparty service disruption  yahoo finance",
+    "title": "Bitcoin Price Crashes Near Zero on Revolut, Blamed on Third-Party Service Disruption - Yahoo Finance"
   }
 ]
