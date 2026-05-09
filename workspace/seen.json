@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-07T02:10:16.356505+00:00",
-    "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
-    "title_key": "bermuda pushes stablecoin payments with usdc airdrop as it courts crypto firms regulators",
-    "title": "Bermuda pushes stablecoin payments with USDC airdrop as it courts crypto firms, regulators"
-  },
-  {
     "sent_at": "2026-05-07T20:05:30.489963+00:00",
     "url": "https://www.coindesk.com/tech/2026/05/07/jaredfromsubway-bot-front-runs-vitalik-buterin-s-usd4-token-swap-with-usd1-million-in-volume",
     "title_key": "jaredfromsubway bot front runs vitalik buterins 4 token swap with 1 million in volume",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LeFNBQ3JJSG95VzZfcUs2U25PSzY3RUdHQUpSazdHcDJNYjVmbThxNUJHZ04tbUc5X2Z1RURST0tYRDQ5UF9lcjFGMFg3VTlkQ3VlSTBaNnl4aDJiOE5IVmdGcmgwV2haRGVpbDJMLXlWOGljX3IzQ09n?oc=5",
     "title_key": "exodus launches xo cash stablecoin for ai agents on solana crypto briefing",
     "title": "Exodus launches XO Cash stablecoin for AI agents on Solana - Crypto Briefing"
+  },
+  {
+    "sent_at": "2026-05-09T02:11:51.094108+00:00",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
   }
 ]
