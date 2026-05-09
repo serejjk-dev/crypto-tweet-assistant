@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-07T00:04:37.014367+00:00",
-    "url": "https://decrypt.co/366947/bitcoin-jumps-to-three-month-high-above-82k-on-report-of-us-iran-agreement",
-    "title_key": "bitcoin jumps to threemonth high above 82k on report of usiran agreement",
-    "title": "Bitcoin Jumps to Three-Month High Above $82K on Report of US-Iran Agreement"
-  },
-  {
     "sent_at": "2026-05-07T02:10:16.356505+00:00",
     "url": "https://www.coindesk.com/policy/2026/05/06/bermuda-pushes-stablecoin-payments-with-usdc-airdrop-as-it-courts-crypto-firms-regulators",
     "title_key": "bermuda pushes stablecoin payments with usdc airdrop as it courts crypto firms regulators",
@@ -70,5 +64,11 @@
     "url": "https://www.coindesk.com/policy/2026/05/08/stablecoins-have-their-permission-slip-now-comes-the-hard-part",
     "title_key": "stablecoins have their permission slip now comes the hard part",
     "title": "Stablecoins have their 'permission slip.' Now comes the hard part."
+  },
+  {
+    "sent_at": "2026-05-09T00:15:41.633246+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5LeFNBQ3JJSG95VzZfcUs2U25PSzY3RUdHQUpSazdHcDJNYjVmbThxNUJHZ04tbUc5X2Z1RURST0tYRDQ5UF9lcjFGMFg3VTlkQ3VlSTBaNnl4aDJiOE5IVmdGcmgwV2haRGVpbDJMLXlWOGljX3IzQ09n?oc=5",
+    "title_key": "exodus launches xo cash stablecoin for ai agents on solana crypto briefing",
+    "title": "Exodus launches XO Cash stablecoin for AI agents on Solana - Crypto Briefing"
   }
 ]
