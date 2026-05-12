@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-10T00:08:26.878671+00:00",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTHZhNUZ4M2swSk9lTF9nU0d2ODA2NlI3Y2N0WHNXbHY1MEF2ejkxd0ltS1V0TWpzRjIxZEVmOU5zNnhVUWtWa1ROdXVQaGIweXp2LWUtdVNuMVZJelBEV2dINGh4NHlKUjRPUmZGV1BIbWduZnVWa0NJWU91Wmx2UUdoTHRmdWVEeWVUZ0I4ZlhXV2F0?oc=5",
-    "title_key": "ethereum regains lead in dex trading volume over solana intellectia ai",
-    "title": "Ethereum Regains Lead in DEX Trading Volume Over Solana - Intellectia AI"
-  },
-  {
     "sent_at": "2026-05-10T08:08:28.356906+00:00",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGh1Z29Yc3l2WTI2bTNZS0xGem9YV2hZWmFyLV9DZmpSRlV1Qm94VHcwckI3Z3ZSVW9WQ2h4aWNmelRnTF9jTm5tazdWZ1lFRG9ZaUQzdDRiYzZ0SHg4c2d2Q1RsN0VMaGttT2ljVjlxeXI3M3JLSHN3MGw0TVRWNg?oc=5",
     "title_key": "aura on solana surges 164 in 24 hours as meme coin speculation returns yellowcom",
@@ -14,8 +8,8 @@
   {
     "sent_at": "2026-05-10T10:06:14.547048+00:00",
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWnVERUtSdVlIUlFJdGhFZDFLZGVndTJaWWprblhHTWtTTS1zZDA0ZWJjU1FhVkJ2QWlzQXdodnlpR1QyTERXdFV0N3RCZWF5cVYzR1ktbnR1dEJqcnlDOXpJRFI0ZFJuTW02d2ROWGlFOENIWE90ZFE4RHBMWGhFTGRiVkhkcnBKRW9QQ3pJQ3dKSzh0Qm1ndWdmdF9qSmxYVE03dDAwU0FjOXZpSFFTaENyM2EyM0hkems0TlJwTzBDQ2lubExvZ1oxakpSNkVSakFCdlJ5MUJzeUZTT2lEYlZ3TVFlVXdXYk5NRmJxZw?oc=5",
-    "title_key": "stuck in scottsdale alleged ‘bitcoin boy bandits’ dream of california return east valley tribune",
-    "title": "Stuck in Scottsdale, alleged ‘bitcoin boy bandits’ dream of California return - East Valley Tribune"
+    "title_key": "stuck in scottsdale alleged \u2018bitcoin boy bandits\u2019 dream of california return east valley tribune",
+    "title": "Stuck in Scottsdale, alleged \u2018bitcoin boy bandits\u2019 dream of California return - East Valley Tribune"
   },
   {
     "sent_at": "2026-05-10T12:22:09.089859+00:00",
@@ -32,8 +26,8 @@
   {
     "sent_at": "2026-05-10T18:06:47.378741+00:00",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPN1Bsb1hjcjJUZThYdGhHcUtHTktNVU8ybndnWUhTdmc4U0tobjJQd1owRDlVUWExUkVEMjN5RVFpZTdmTmZaamk1ZE90ZnNqR3pvUXZPRzhlQk9JUVZRbFV3NlZBUTd1R0VGdGl5QlZ1bk41RGxhd1hYNXNGSVVlZzVYTzBkcThFMVBoblZlakFnTmUxUWJUbVBSaTllVElkdjNXblE4cnlrdEEwVzlnUTh6LWNIZTZuOEdoZ0VzVzhYckU0ZDhJenFZekRwamFmY3ctQUQ1bTBkSHRqajdfNVRYbE85d2l4R3RMdEhMQWQxZkRv?oc=5",
-    "title_key": "alchemy’s 20m solana fund fuels sol hype while alphapepe builds the x100 bet before listing streetinsider",
-    "title": "Alchemy’s $20M Solana Fund Fuels SOL Hype While AlphaPepe Builds the x100 Bet Before Listing - StreetInsider"
+    "title_key": "alchemy\u2019s 20m solana fund fuels sol hype while alphapepe builds the x100 bet before listing streetinsider",
+    "title": "Alchemy\u2019s $20M Solana Fund Fuels SOL Hype While AlphaPepe Builds the x100 Bet Before Listing - StreetInsider"
   },
   {
     "sent_at": "2026-05-11T00:19:44.685609+00:00",
@@ -68,7 +62,13 @@
   {
     "sent_at": "2026-05-11T22:08:29.827204+00:00",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGs5SUpIRktvU1pFSUFFRXVJWWN5TVhTcVFqOWZiVGNURUJTejhSb1NLR00zajkxdzlKal9HZXJPZXJ3MWVZd0NHZUdnQjhpMF9Ka19PQ2dLcFh5dVNqd2tfS2M2U3lVVGNqblFpYTZSdnp6dFllY2djanNZcFlkSnpFRklDaW8zeUpHX1FBcWdTeXh2dWI5anpsaGVWYzFlR3c?oc=5",
-    "title_key": "wall street’s stablecoin darling raises 222 million to starve ethereum gizmodo",
-    "title": "Wall Street’s Stablecoin Darling Raises $222 Million to Starve Ethereum - Gizmodo"
+    "title_key": "wall street\u2019s stablecoin darling raises 222 million to starve ethereum gizmodo",
+    "title": "Wall Street\u2019s Stablecoin Darling Raises $222 Million to Starve Ethereum - Gizmodo"
+  },
+  {
+    "sent_at": "2026-05-12T04:06:25.205993+00:00",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "title_key": "solana sol trending on coingecko market cap rank 7",
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
   }
 ]
