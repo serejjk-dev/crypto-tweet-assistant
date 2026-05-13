@@ -1,1 +1,1 @@
-The Ethereum Foundation published a 'Clear Signing' standard requiring wallets to show human-readable transaction details, not hex blobs. Phishing attacks stole billions exploiting that exact gap. The standard took five years and several billion in losses to ship.
+Orderly Network launched a Module Marketplace for DEX builders - assemble order books, liquidity, and execution from pre-built pieces. Shipping a DEX just got cheaper. Trading on one is still a different story.
