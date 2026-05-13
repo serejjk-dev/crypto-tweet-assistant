@@ -1,1 +1,1 @@
-Bitcoin climbed back above $81,000 after hotter-than-expected CPI data, with $BNB and $DOGE leading altcoin gains. Inflation is supposed to kill risk assets. Crypto didn't get the memo.
+Ethereum Foundation released a clear signing standard so wallets show users what a transaction does in plain text before they approve it. wallets have asked people to sign unreadable contract data since 2015. probably nothing.
