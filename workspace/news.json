@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+    "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+    "source": "CoinDesk",
+    "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
+    "published_at": "2026-05-12T17:31:53+00:00"
+  },
+  {
     "title": "JPMorgan Files to Launch Tokenized Money Market Fund on Ethereum",
     "url": "https://decrypt.co/367664/jpmorgan-tokenized-money-market-fund-ethereum",
     "source": "Decrypt",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/swap",
     "summary": "Orderly launches Module Marketplace for DEX builders&nbsp;&nbsp;Crypto Briefing",
     "published_at": "2026-05-12T11:10:29+00:00"
-  },
-  {
-    "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
-    "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
-    "source": "CoinDesk",
-    "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
-    "published_at": "2026-05-12T17:31:53+00:00"
   }
 ]

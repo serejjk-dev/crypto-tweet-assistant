@@ -1,1 +1,1 @@
-JPMorgan filed to launch a tokenized money market fund on Ethereum, letting institutional clients hold shares as on-chain tokens. The bank whose CEO called Bitcoin a fraud in 2017 now needs a public blockchain to run its most traditional product.
+The Ethereum Foundation published a 'Clear Signing' standard requiring wallets to show human-readable transaction details, not hex blobs. Phishing attacks stole billions exploiting that exact gap. The standard took five years and several billion in losses to ship.
