@@ -1,1 +1,1 @@
-An unnamed altcoin surpassed both Ethereum and Solana in weekly price gains, claiming the top spot on performance charts. Every cycle throws up one of these. Rarely the same coin twice.
+PumpBot, a Solana volume-trading bot, launched a six-DEX routing engine with Jito anti-MEV protection today. A tool built to inflate trading volumes now offering traders protection from bots that do the same. Probably nothing
