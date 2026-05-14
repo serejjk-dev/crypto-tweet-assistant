@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-05-12T04:06:25.205993+00:00",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "title_key": "solana sol trending on coingecko market cap rank 7",
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
-  },
-  {
-    "sent_at": "2026-05-12T06:09:22.364428+00:00",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamNZaFA2VENfalA3V1pWcUQtRnRxby0yR2s3M25QckFlZFZQTVEyWUp3WmxyZnRxd2FpSnd6d2pMaDZzeVpZYVZvVEg0cmJfTWlKeG1CU1NMcHJ3akxjaGYwM0htZG9UN2s0cjdjaU5hV25sOGhlaVhIODZSOWN6TGJDZVRyd1VMUWptM2JfMHIxb3dfaVhHaDVVVnNUbUpz?oc=5",
-    "title_key": "bitget launches solanabased preipo access to openai disruption banking",
-    "title": "Bitget Launches Solana-Based Pre-IPO Access to OpenAI - Disruption Banking"
-  },
-  {
     "sent_at": "2026-05-12T10:07:58.879790+00:00",
     "url": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
     "title_key": "aave launches binding arbitrum vote to move 71 million in disputed eth",
@@ -82,5 +70,11 @@
     "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
     "title_key": "anthropic openai tokens plunge as ai firms say preipo share transfers are invalid",
     "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid"
+  },
+  {
+    "sent_at": "2026-05-14T10:05:19.585506+00:00",
+    "url": "https://www.coingecko.com/en/coins/venice-token",
+    "title_key": "venice token vvv trending on coingecko market cap rank 89",
+    "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #89"
   }
 ]
