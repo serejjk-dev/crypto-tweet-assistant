@@ -1,1 +1,1 @@
-Orderly Network shipped an MCP integration so AI agents can open, manage, and close perpetual futures positions on its DEX - no human required. DeFi spent years removing middlemen. Turns out the replacement is a chatbot.
+Onramp raised $12.5M to grow its multi-institution $BTC custody platform, which splits client assets across several custodians. FTX made 'single custodian risk' a household phrase. The fundraise follows logically.
