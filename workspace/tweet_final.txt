@@ -1,1 +1,1 @@
-$SOL has been classified as a digital commodity under US law, placing it in the same regulatory category as $BTC and $ETH. The SEC spent years calling it an unregistered security. Markets shrugged.
+Thorchain halted all trading Friday after an attacker drained $10.8 million from its cross-chain pools, sending $RUNE down 12%. Cross-chain protocols call it liquidity. Auditors call it complexity. Attackers call it a wallet.
