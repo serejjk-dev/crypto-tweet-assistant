@@ -1,1 +1,1 @@
-Strive, a Bitcoin-focused investment firm, is rolling out daily dividend payments for holders of its SATA preferred shares. Michael Saylor called it impressive. Turns out anti-fiat conviction and daily cash payouts are not mutually exclusive.
+Orderly Network shipped an MCP integration so AI agents can open, manage, and close perpetual futures positions on its DEX - no human required. DeFi spent years removing middlemen. Turns out the replacement is a chatbot.
