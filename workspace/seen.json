@@ -1,11 +1,5 @@
 [
   {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSRVBoZDEtRW50SDNWYTh4VEFtUGJDejM5aW84am9oVDhCXzVPTXdidGVyZmlHVGZCWUhtVlhmU09KMkVZbnpyc0R1U241R0hVdG9CaA?oc=5",
-    "title": "KRW Stablecoin KRWQ Launches on Solana to Expand Liquidity - bloomingbit",
-    "title_key": "krw stablecoin krwq launches on solana to expand liquidity bloomingbit",
-    "sent_at": "2026-05-13T20:06:30.277153+00:00"
-  },
-  {
     "sent_at": "2026-05-13T22:10:38.291033+00:00",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzE3Q0lTeUdlU2dlMTk5UUVvMzdTNlhjWTNmRWlwVUgtSlk2SUR2bGZ0VkJNdEhWMmY3MlIxcG5iTmgySGxkdUdEMlBIRWdxbWpMdUthSVc3X1RPcDZHbU0wb1Q0RUpnbUxRSHdZenZBeldBdlFydE1mR3dQWXpJRlk3Y0hfNUpNczFpclJR?oc=5",
     "title_key": "charles schwab launches bitcoin ethereum trading for us blockchainnews",
@@ -76,5 +70,11 @@
     "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
     "title_key": "thorchain halts trading after 10 million crosschain exploit rune token drops 12",
     "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%"
+  },
+  {
+    "sent_at": "2026-05-15T20:09:08.252422+00:00",
+    "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
+    "title_key": "bitcoin tumbles below 79000 as rising bond yields inflation worries rattle markets",
+    "title": "Bitcoin tumbles below $79,000 as rising bond yields, inflation worries rattle markets"
   }
 ]
