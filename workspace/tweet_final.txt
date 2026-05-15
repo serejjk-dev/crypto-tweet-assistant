@@ -1,1 +1,1 @@
-PumpBot, a Solana volume-trading bot, launched a six-DEX routing engine with Jito anti-MEV protection today. A tool built to inflate trading volumes now offering traders protection from bots that do the same. Probably nothing
+Strive, a Bitcoin-focused investment firm, is rolling out daily dividend payments for holders of its SATA preferred shares. Michael Saylor called it impressive. Turns out anti-fiat conviction and daily cash payouts are not mutually exclusive.
