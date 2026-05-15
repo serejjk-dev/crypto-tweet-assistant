@@ -1,12 +1,5 @@
 [
   {
-    "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
-    "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
-    "source": "CoinDesk",
-    "summary": "The cross-chain liquidity protocol paused all trading and signing on Friday after an attacker drained roughly $10.8 million across Bitcoin, Ethereum, BSC, and Base.",
-    "published_at": "2026-05-15T10:21:12+00:00"
-  },
-  {
     "title": "Bitcoin tumbles below $79,000 as rising bond yields, inflation worries rattle markets",
     "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
     "source": "CoinDesk",
@@ -14,10 +7,17 @@
     "published_at": "2026-05-15T14:41:50+00:00"
   },
   {
+    "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
+    "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+    "source": "CoinDesk",
+    "summary": "The cross-chain liquidity protocol paused all trading and signing on Friday after an attacker drained roughly $10.8 million across Bitcoin, Ethereum, BSC, and Base.",
+    "published_at": "2026-05-15T10:21:12+00:00"
+  },
+  {
     "title": "Gemini Stock Jumps on Revenue Rise, $100M Bitcoin Investment From Winklevoss Capital",
     "url": "https://decrypt.co/367978/gemini-stock-jumps-revenue-rise-100m-bitcoin-investment-winklevoss",
     "source": "Decrypt",
-    "summary": "Crypto exchange Gemini secured a $100 million Bitcoin investment from its founders’ fund, and revealed a 42% YOY Q1 revenue bump.",
+    "summary": "Crypto exchange Gemini secured a $100 million Bitcoin investment from its founders\u2019 fund, and revealed a 42% YOY Q1 revenue bump.",
     "published_at": "2026-05-15T14:11:42+00:00"
   }
 ]
