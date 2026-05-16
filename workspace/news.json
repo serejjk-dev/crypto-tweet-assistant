@@ -1,23 +1,23 @@
 [
   {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#2",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-05-16T15:37:51.537389+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#3",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-05-16T15:37:51.537389+00:00"
+  },
+  {
     "title": "$STREAM Surges 50% in 24 Hours as Streamflow Staking Hits 45% APY on Solana - markets.businessinsider.com",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOTNUNUxYZlFiZy1FRmhXUnNZaHJjdGVsb0VYa1NraVQtc2hJaFJ5WTdscllHUVpoSHU5Wl8tYlVrem9jN3JuYXhjRFJ0eGdhRWFaUDhvWXBIc3FHUng0Qk1scDczV0VfdTZtM2RXOVNFLTVuVlZ2QjViT0ptVmNhcGR6SDhJWERTVlF1OEY4Njl0eTNiQXV2X1BpdUszTk1Ecl9kQl9sWV9JT2UteWwxaFlfNmRHVnNhNnVPOW5aaVY1RmdIb1JHQnV4SQ?oc=5",
     "source": "GoogleNews/defi",
     "summary": "$STREAM Surges 50% in 24 Hours as Streamflow Staking Hits 45% APY on Solana&nbsp;&nbsp;markets.businessinsider.com",
     "published_at": "2026-05-16T09:57:55+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#0",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-05-16T11:31:56.567378+00:00"
-  },
-  {
-    "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
-    "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
-    "source": "CoinDesk",
-    "summary": "The token jumped 5% after a Senate committee moved the market-structure bill forward, reviving hopes that legal clarity can pull deeper institutional money into XRP products.",
-    "published_at": "2026-05-16T11:30:00+00:00"
   }
 ]
