@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-05-13T22:10:38.291033+00:00",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNzE3Q0lTeUdlU2dlMTk5UUVvMzdTNlhjWTNmRWlwVUgtSlk2SUR2bGZ0VkJNdEhWMmY3MlIxcG5iTmgySGxkdUdEMlBIRWdxbWpMdUthSVc3X1RPcDZHbU0wb1Q0RUpnbUxRSHdZenZBeldBdlFydE1mR3dQWXpJRlk3Y0hfNUpNczFpclJR?oc=5",
-    "title_key": "charles schwab launches bitcoin ethereum trading for us blockchainnews",
-    "title": "Charles Schwab: Launches Bitcoin, Ethereum Trading for US - blockchain.news"
-  },
-  {
-    "sent_at": "2026-05-14T00:19:10.728302+00:00",
-    "url": "https://decrypt.co/367796/claude-ai-cracked-lost-bitcoin-wallet-owner-claims",
-    "title_key": "bitcoin owner claims claude ai cracked lost wallet password netting 400k in btc",
-    "title": "Bitcoin Owner Claims Claude AI Cracked Lost Wallet Password, Netting $400K in BTC"
-  },
-  {
-    "sent_at": "2026-05-14T02:09:18.409662+00:00",
-    "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
-    "title_key": "anthropic openai tokens plunge as ai firms say preipo share transfers are invalid",
-    "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid"
-  },
-  {
     "sent_at": "2026-05-14T10:05:19.585506+00:00",
     "url": "https://www.coingecko.com/en/coins/venice-token",
     "title_key": "venice token vvv trending on coingecko market cap rank 89",
@@ -76,5 +58,11 @@
     "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
     "title_key": "bitcoin tumbles below 79000 as rising bond yields inflation worries rattle markets",
     "title": "Bitcoin tumbles below $79,000 as rising bond yields, inflation worries rattle markets"
+  },
+  {
+    "sent_at": "2026-05-16T02:14:09.323811+00:00",
+    "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
+    "title_key": "lombard finance dumps layerzero will use chainlink to power 1 billion in bitcoin assets",
+    "title": "Lombard Finance Dumps LayerZero, Will Use Chainlink to Power $1 Billion in Bitcoin Assets"
   }
 ]
