@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-15T20:09:08.252422+00:00",
-    "url": "https://www.coindesk.com/markets/2026/05/15/bitcoin-tumbles-below-usd79-000-as-rising-bond-yields-inflation-worries-rattle-markets",
-    "title_key": "bitcoin tumbles below 79000 as rising bond yields inflation worries rattle markets",
-    "title": "Bitcoin tumbles below $79,000 as rising bond yields, inflation worries rattle markets"
-  },
-  {
     "sent_at": "2026-05-16T02:14:09.323811+00:00",
     "url": "https://decrypt.co/368100/lombard-finance-dumps-layerzero-chainlink-1-billion-bitcoin-assets",
     "title_key": "lombard finance dumps layerzero will use chainlink to power 1 billion in bitcoin assets",
@@ -34,5 +28,11 @@
     "url": "https://www.coingecko.com/en/coins/solana",
     "title_key": "solana sol trending on coingecko market cap rank 7",
     "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
+  },
+  {
+    "sent_at": "2026-05-17T22:10:28.884119+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBpcWtxX05tdVFXVU8tTC15c3lxMk1rOGQyeVlyT082eEpGb082NFdYZE41LVFOMEtueHFEbHNNM3JOeTFLZ2dr?oc=5",
+    "title_key": "jump crypto quietly launches firedancer on solana mainnet mexc exchange",
+    "title": "Jump Crypto Quietly Launches Firedancer on Solana Mainnet - MEXC Exchange"
   }
 ]
