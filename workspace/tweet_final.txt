@@ -1,1 +1,1 @@
-Solana's DEX volume has dropped and short interest is growing as traders price in real competition from rival chains. $SOL held the top spot in on-chain trading for two years. Defending that position looks harder than winning it.
+PancakeSwap joined BitAgent's ERC-8183 marketplace, letting AI agents run DeFi workflows on-chain without human input. The bots no longer just execute your orders - they design them, route them, and take a fee. You're just the collateral.
