@@ -1,1 +1,1 @@
-$128 million left Aave's lending pools, one of DeFi's largest, raising questions about how thin liquidity gets when users actually need it. Every lending protocol looks fine right up until the queue forms.
+Uniswap's $UNI token is now tradeable natively on Solana, with no Ethereum bridge required. Ethereum's most-used DEX just gave its governance token a home on the competing chain. Probably nothing.
