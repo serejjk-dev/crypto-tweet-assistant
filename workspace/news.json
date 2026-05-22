@@ -1,12 +1,5 @@
 [
   {
-    "title": "$128 mln leaves Aave, raises liquidity concerns across DeFi - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBpcHl2NlZSaElIZF85NjI3cGswRWg1Z0dxZjlYQVJxOVhVaVZzMHhVOGloNXg0aF83dlhGN1lFQVdQYkUwa2tiWlhCYllFZWdKTTQxbQ?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "$128 mln leaves Aave, raises liquidity concerns across DeFi&nbsp;&nbsp;Cryptonews.net",
-    "published_at": "2026-05-22T09:41:12+00:00"
-  },
-  {
     "title": "Uniswap’s UNI token now trades natively on Solana - Startup Fortune",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNi1CLVROSnBqVzA4TjVTQmZKMi1QNzlpNklHSGptUE9jMnVYcWNlMkVGU005Y2xBekdtVXNFWlVCb1NsUXZqZV9FRWhHWHIyRnRnTm9JVGEzU2o5Y0xNVlo4M2Ntak03N1lrQUdWT1BMcjhTbkpDM3lnVTREbVluZmFB?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-05-22T09:37:28+00:00"
   },
   {
-    "title": "Solana treasury firm Solmate raises $11.4M in premium stock offering - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XMjhvclh5c3o3am5zSE02VnVSX0hSYW1iRS1IeUlZVUVyUDRWbTVJektnLTVxa2FsdWUzLVp0cnNUNmxldVFteTRUOXpOQld0WGJtOG40Rno?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Solana treasury firm Solmate raises $11.4M in premium stock offering&nbsp;&nbsp;Cryptonews.net",
-    "published_at": "2026-05-21T22:42:00+00:00"
+    "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+    "source": "CoinDesk",
+    "summary": "Internet Computer (ICP), up 4.3% from Thursday, joined NEAR Protocol (NEAR) as a top performer.",
+    "published_at": "2026-05-22T13:14:46+00:00"
+  },
+  {
+    "title": "NEAR Protocol Jumps 28% on Privacy, AI, and Scaling Upgrades",
+    "url": "https://decrypt.co/368737/near-protocol-jumps-28-on-privacy-ai-and-scaling-upgrades",
+    "source": "Decrypt",
+    "summary": "NEAR rallied by 45% this week on a series of upgrades positioning it as a potential settlement layer for AI agents and confidential finance.",
+    "published_at": "2026-05-22T11:30:22+00:00"
   }
 ]
