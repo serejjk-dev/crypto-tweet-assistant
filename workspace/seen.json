@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-21T00:13:13.643495+00:00",
-    "url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
-    "title_key": "hype surges 101 this year what’s driving hyperliquid’s growth",
-    "title": "HYPE Surges 101% This Year: What’s Driving Hyperliquid’s Growth?"
-  },
-  {
     "sent_at": "2026-05-21T04:11:40.995922+00:00",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcnVXT0pUNW43QVZMUzRwLUprZzVpbHBRY2RfeVZKcmpjMk82WlFVdVdWZTlYZjBTb1RHZXBjVTNYalZTVEhGMGxKQTBpMGRycm5jeVNTSEd3TENLS3A4TmxNTnpXbG03OG9Ddmk2VVY4UWhwNGo2WmxpbWlscnJkdFkyTldCaTAw?oc=5",
     "title_key": "cryptocurrencies bitcoin tumbles to 3week low etf database",
@@ -70,5 +64,11 @@
     "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
     "title_key": "coindesk 20 performance update near surges 194 as index trades flat",
     "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat"
+  },
+  {
+    "sent_at": "2026-05-23T02:11:12.416439+00:00",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "title_key": "solana sol trending on coingecko market cap rank 7",
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
   }
 ]
