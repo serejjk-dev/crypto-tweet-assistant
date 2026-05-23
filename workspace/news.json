@@ -1,12 +1,5 @@
 [
   {
-    "title": "PopDEX Raises $30 Million as VCs Bet Big on Perp DEX Comeback - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90dHJPbVlzdU9nRGJfYk1SNHo5ekRMZV9aT0FRcUVFdjRNdGZjZkFhaG95MHVzVXJZVng4YUxFYUpOYmNvRGw5YXl2Q3NRQmRyRWxwbDdCQjNQU1JaMmVBN0k4YUNyM1ltV2U1bjFjSlA5WnVCdFRKZ0lqMA?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "PopDEX Raises $30 Million as VCs Bet Big on Perp DEX Comeback&nbsp;&nbsp;BeInCrypto",
-    "published_at": "2026-05-23T13:31:38+00:00"
-  },
-  {
     "title": "Ethereum transaction fees hit all-time lows as activity surges - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAtVDQ3SjZQVkRBX0VsY1dqdW91QXpKSm9ja1dnTVd3QzV5TGZDWDJidnpFdEhWMnNnakRmdm8zYy1hRXdMZ1FDcElXQW1haEcyaUdDdlJ4UGdyQ3RiVkplV1BJX1h4Rk1MRlkxY0syZ2ZVcUt1VEJZY29xTQ?oc=5",
     "source": "GoogleNews/crypto",
@@ -14,10 +7,17 @@
     "published_at": "2026-05-23T14:12:05+00:00"
   },
   {
-    "title": "NEAR Protocol ($NEAR) trending on CoinGecko, market cap rank #36",
+    "title": "NEAR Protocol ($NEAR) trending on CoinGecko, market cap rank #34",
     "url": "https://www.coingecko.com/en/coins/near",
-    "source": "CoinGecko/trending#2",
+    "source": "CoinGecko/trending#1",
     "summary": "NEAR Protocol (ticker NEAR) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-05-23T16:00:01.596758+00:00"
+    "published_at": "2026-05-23T17:53:22.468911+00:00"
+  },
+  {
+    "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #79",
+    "url": "https://www.coingecko.com/en/coins/venice-token",
+    "source": "CoinGecko/trending#4",
+    "summary": "Venice Token (ticker VVV) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-05-23T17:53:22.468911+00:00"
   }
 ]
