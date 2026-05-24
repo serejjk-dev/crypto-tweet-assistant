@@ -1,1 +1,1 @@
-Ethereum fees have compressed since Dencun as L2s took most activity off mainnet, cutting ETH burn to a fraction of post-Merge highs. If the deflationary case was the investment thesis for $ETH, someone should probably update the model.
+Coinbase's Base L2 outpaced Solana in 24-hour decentralized exchange volume this week. Coinbase has spent years listing $SOL and making fees on every trade. Now it's also profiting from the chain beating it.
