@@ -1,1 +1,1 @@
-Venice Protocol is an AI inference service that doesn't log or train on user prompts - $VVV tokens gate access, and it's one of today's trending searches on CoinGecko. Most AI companies see your queries as product. Venice charges for the opposite.
+A Facet co-founder proposed EIP-8182 to add native private transfers to $ETH, targeting the Hegota upgrade. Tornado Cash got sanctioned for doing this in 2022. Now it's a core protocol feature.
