@@ -1,1 +1,1 @@
-A Facet co-founder proposed EIP-8182 to add native private transfers to $ETH, targeting the Hegota upgrade. Tornado Cash got sanctioned for doing this in 2022. Now it's a core protocol feature.
+Solana's real-world asset ecosystem hit $2.5 billion in tokenized value, making it one of the larger RWA networks in crypto. $SOL's price is still under pressure. Fundamentals and market sentiment keep running on separate clocks.
