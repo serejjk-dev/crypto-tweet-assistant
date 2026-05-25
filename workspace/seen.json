@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-05-23T14:10:20.663462+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaWVYOEx1RUx4bDZYZDJGWGItcjFBQXZkbmU5RVVoNWZuRXJHR2hiTTk1ZVpUbnNURm8xemt6RDlfQ0ZTYktCSlVlMHBwODlzZnZYd2QydzdjVjRoZm8yWWZRWURvRnphYzAydEg1V2FyWHNDTDEtNzlleDV3ZDdwTlZQei1uQjB1UXdLUWQ3ZnVfMzQ0N2hjX0pFaXhnVXhDektvUGxLNDVpMW1rbHBiMTR1MVR5T2Zod2c?oc=5",
-    "title_key": "bitcoin tanks to 74300 as spot etfs bleed 226 billion in two weeks coindesk",
-    "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks - CoinDesk"
-  },
-  {
-    "sent_at": "2026-05-23T16:13:17.963267+00:00",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90dHJPbVlzdU9nRGJfYk1SNHo5ekRMZV9aT0FRcUVFdjRNdGZjZkFhaG95MHVzVXJZVng4YUxFYUpOYmNvRGw5YXl2Q3NRQmRyRWxwbDdCQjNQU1JaMmVBN0k4YUNyM1ltV2U1bjFjSlA5WnVCdFRKZ0lqMA?oc=5",
-    "title_key": "popdex raises 30 million as vcs bet big on perp dex comeback beincrypto",
-    "title": "PopDEX Raises $30 Million as VCs Bet Big on Perp DEX Comeback - BeInCrypto"
-  },
-  {
-    "sent_at": "2026-05-23T20:04:52.425967+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMExvWEFYRU9xdXFtSzdselYtNUs4c1hqYnhlNXFaTWVScHlpaUVaazJpREJHRXVlenpkZjBjcGt5RVhnYkduRmRPUWNwc2pOdDJ5SzY2bFQ4eHQ0cGc2em81bmtReUFWRDcyTXBuWm9TVjZWOUg3c21wcG5zUmlMZnlpc3VLNnZTQjJwUlRxcXk0aTg0Y2ZJLWktMEJwSmZ2NHlrNFlvU1NOemxyQXBQZ01Ha2tqUmx2TlM0U0xQNDBUNUt2ZEtOZm9VSzluWjFpUHZCUEtPeHAxZHBtaHJYeExUWk1NN2ZRZGVnY29XemYtckpxRFI4?oc=5",
-    "title_key": "as bitcoin trades near 80k moneyflare launches ai crypto trading bot for smarter digital asset automation marketsbusinessinsidercom",
-    "title": "As Bitcoin Trades Near $80K, MoneyFlare Launches AI Crypto Trading Bot for Smarter Digital Asset Automation - markets.businessinsider.com"
-  },
-  {
     "sent_at": "2026-05-24T12:04:46.902358+00:00",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbDRxTzRNMW9QbnNRN1psVk8wRzhzX01WR2wzYmdPbFlFcTZKaE1VR0lLdUZkczBNZVF3TmdhZF9wQkZ5aS1rdF9KRGpiVVBOa1FwM1Y3NkYtTUVRTXFwdnB3TDlZZzd5MTBXZkVOWHhYbkxLUzNQeVdGaVRVdm9CY0U3ZkRQMHlvLXZ5S01qeXFzb0dHZ1HSAZsBQVVfeXFMTXN6NWlkYWVGQkx6eEpGLXNFSk1Cdi1oYUpfUXNrSFF4YjQ0bVRTRVA2eXVIS0ZDNXpxZktRWTduR1Q4cFVHQkNGdWhYSE02Mkh4cTRUdmRVaW9NMjN4dlJaTVdFSjVZTkU2NlQwdzlaUGtoeVNHWERtdjNhcmNEc3ZOM25lTGdUZ0JMQnpta1lWQUZ6Ni1BQUZ1YU0?oc=5",
     "title_key": "is the market mispricing ethereum what eths fee compression tells us ambcrypto",
@@ -64,5 +46,11 @@
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeThUdFRETlR0U2VtNm51Q3FId0ZBeTdmeXZsd0ZLMTVXOWNwa0Z4ZWp1TWFPcjR0bzhueFJHR0doSnlqSEN6Vi16U25ERmVqeXVNWEJzTVNLZDNMcE9rcE5qLWc2XzhfNmlWVDdvRlc2bGQ0anR5amlDdWU0UXBxRkU1NGNzOGJ3em93dkpzTXM2dEZSajJ4OXJJRDR0RnFHT3ZPem9IcGN3S3VtX2YtUHJteC00OVFEaTRQRWwyLS1DTDlENUd6WVBNakhvbWhOcnRadDdXLUxxdw?oc=5",
     "title_key": "will solana’s 250 billion rwa ecosystem help shrug off bearish pressure fxstreet",
     "title": "Will Solana’s $2.50 billion RWA ecosystem help shrug off bearish pressure? - FXStreet"
+  },
+  {
+    "sent_at": "2026-05-25T20:11:06.833767+00:00",
+    "url": "https://airdrops.io/blog/monetrix-airdrop-genesis-guide/",
+    "title_key": "monetrix airdrop farming the onchain ethena before genesis opens",
+    "title": "Monetrix airdrop: farming the on-chain Ethena before Genesis opens"
   }
 ]
