@@ -1,1 +1,1 @@
-Solana now accounts for 40% of all DEX spot volume in cross-chain tokens, pulling ahead of Hyperliquid for the first time. Hyperliquid built a dedicated L1 to own that space. $SOL got there anyway.
+Coinbase's Base launched an MCP server that lets AI assistants like Claude and ChatGPT execute DeFi swaps, deposits, and transfers on-chain. AI agents with wallets are either the next big primitive or the most efficient way to drain a protocol. probably nothing
