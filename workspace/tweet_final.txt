@@ -1,1 +1,1 @@
-XRP Ledger Foundation published an AMM v2 standard for the XRPL DEX, rewriting how automated market makers govern swaps on $XRP infrastructure. DeFi primitives Uniswap shipped in 2020 are now getting formalized on XRP.
+South Korea arrested suspects behind CatFi, a Solana memecoin, in the first rugpull prosecution under its new crypto law. Someone in crypto finally has to face a judge. Other jurisdictions still call it 'market dynamics.'
