@@ -1,1 +1,1 @@
-Jupiter Lend hit $2B in TVL after $SOL's ETF boom pulled fresh capital toward Solana's DeFi lending markets. The ETF crowd gets price exposure. The yield is for the people who skipped the wrapper.
+ZigZag cut gas fees on its Ethereum orderbook DEX, making on-chain limit orders cheaper to fill. Orderbooks lost to AMMs years ago mostly because of gas costs. Now that gas is lower, ZigZag is checking if the verdict was final.
