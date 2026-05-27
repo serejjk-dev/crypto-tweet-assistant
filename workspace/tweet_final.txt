@@ -1,1 +1,1 @@
-Citrea launched $CTR, the governance token for its ZK-rollup on Bitcoin, as the Bitcoin DeFi sector starts generating real liquidity. Bitcoin maxis spent 10 years saying DeFi was Ethereum's problem. Citrea disagrees.
+XRP Ledger Foundation published an AMM v2 standard for the XRPL DEX, rewriting how automated market makers govern swaps on $XRP infrastructure. DeFi primitives Uniswap shipped in 2020 are now getting formalized on XRP.
