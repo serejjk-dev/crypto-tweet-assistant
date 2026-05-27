@@ -1,1 +1,1 @@
-XRP Ledger Foundation published an AMM v2 specification for XRPL's built-in DEX, laying out the upgrade path for how its liquidity pools price assets. XRPL has had a native exchange since 2012. That it's on AMM v2 in 2026 is either diligence or a very long beta.
+Jupiter Exchange launched Offerbook, a peer-to-peer lending product now in public beta on Solana, where users set rates and lend directly to borrowers. A swap aggregator adding lending is textbook vertical integration - if the collateral holds.
