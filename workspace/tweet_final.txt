@@ -1,1 +1,1 @@
-ZigZag cut gas fees on its Ethereum orderbook DEX, making on-chain limit orders cheaper to fill. Orderbooks lost to AMMs years ago mostly because of gas costs. Now that gas is lower, ZigZag is checking if the verdict was final.
+Citrea launched its CTR token on its Bitcoin ZK-rollup, adding to a growing stack of protocols trying to turn $BTC into a DeFi base layer. Satoshi wrote a whitepaper about peer-to-peer cash. The market decided it wants yield.
