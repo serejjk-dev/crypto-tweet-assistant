@@ -1,1 +1,1 @@
-South Korea arrested suspects behind CatFi, a Solana memecoin, in the first rugpull prosecution under its new crypto law. Someone in crypto finally has to face a judge. Other jurisdictions still call it 'market dynamics.'
+XRP Ledger Foundation published an AMM v2 specification for XRPL's built-in DEX, laying out the upgrade path for how its liquidity pools price assets. XRPL has had a native exchange since 2012. That it's on AMM v2 in 2026 is either diligence or a very long beta.
