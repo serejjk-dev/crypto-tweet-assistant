@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#4",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-05-27T23:53:53.350402+00:00"
+  },
+  {
     "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets - CoinDesk",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzlNTHJaTUlBTThPTmdCajgxY0toVGZhandxWGdObng2R3dJMVFvVzZjUHZzZWs0RDRIZFpLYUpNaEFnU2dJbEltYTc2bDdhZjZiR0ZrYkxLT0RVaEgtWXVEdFRzNUVxVGxON1dIM01ZeWlqbzgzS1M2SjNhLTRIRW1DYVBvRUNmcVM3cDViNU1HeEFYUlJhOXdkTzFSX1N2UVM3cENrUU5BUzA0UUhHM0JFNUNSbU8w?oc=5",
     "source": "GoogleNews/defi",
@@ -12,12 +19,5 @@
     "source": "CoinDesk",
     "summary": "The launch comes as crypto companies increasingly focus on tokenizing traditional financial assets, a market many in the industry see as a major growth opportunity.",
     "published_at": "2026-05-27T13:00:00+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#4",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-05-27T23:53:53.350402+00:00"
   }
 ]

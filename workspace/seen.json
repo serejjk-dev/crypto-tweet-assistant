@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-25T22:04:45.725338+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb184d2pnOTdqU2tlWUZSbm1KdHVKTzBtV1dMdnJKT1N5SlZCbDJKMDJubUYtYUIyNVV1VTBoMFdnekJVcXBRTU9QNEFOT08zX3R6dDdtV0h2WE00YjVEZFNwbmp4NkFWT3dsVlljUUdPQkJBYnhwRlo3c2FLMUl4WGlyU2pXM1ZoVE9rUlp4SV9Lc0J4bFpPUW5tQk0xb0I5S0E?oc=5",
-    "title_key": "tom lee outlines liquidity catalyst for ethereum firm bitmine following russell index update yahoo finance",
-    "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update - Yahoo Finance"
-  },
-  {
     "sent_at": "2026-05-26T10:11:36.441433+00:00",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhNE9zX0xVZlJxZnhmZ01SbHc0NGxiSzVycE0xMDRJVXRhUERKZmtMXzRLOERnOWZ2Yk0wTmNxc1NDWVoxdG53NmN5SXd2R2pVS1FibnhrQ2l6bXpFTGM4RTV4elNDemlxM1E?oc=5",
     "title_key": "fake uniswap site drains 400000 from multiple wallets investigator warns beincrypto",
@@ -14,8 +8,8 @@
   {
     "sent_at": "2026-05-26T14:13:14.181296+00:00",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWJEcTEtVlRpU0xqdFpKQWhFaDgtcTE3c0dMODdqZFJrVFdub0NiRUNQSWRVblJYV1diZ3MzQlJ5bF9wT3V3NnJHMDhDT1dwQWdDTzJ3V1h1SEF1Vnh5MlNmWkF4LUlSQUxuSGZncmQ0bEQ1cmM1dnhiQ3NoTUs4RjdBXzJSZE9QQ3ZTbWZFSHBZSjNSeExFUWFacw?oc=5",
-    "title_key": "fake uniswap google ad drains trader’s entire crypto portfolio in seconds usa herald",
-    "title": "Fake Uniswap Google Ad Drains Trader’s Entire Crypto Portfolio in Seconds - USA Herald"
+    "title_key": "fake uniswap google ad drains trader\u2019s entire crypto portfolio in seconds usa herald",
+    "title": "Fake Uniswap Google Ad Drains Trader\u2019s Entire Crypto Portfolio in Seconds - USA Herald"
   },
   {
     "sent_at": "2026-05-26T18:10:31.053743+00:00",
@@ -38,7 +32,7 @@
   {
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeEpfZ0VlbTlfNjZ0QllfRGMyQ2Z1NGtGeDRPeWtRSWhsamlKSkE4dUlKM2xwaXRCUEhUU0tlYkVWbkphSXFqTlF6bml0NzVQUUpaRlhEXzNIa3JEQkdkN2JyTU5GQXVxNFc3ZG10b1FIMEZqYmdRRHNuazNVbXA0bWdB0gGHAUFVX3lxTE9sLVFMN2w3MHN5cjJlcWIwSFQwZjBuUHI1T3J1b1BPS2k3TmN6UWNNNnhxUkt5Qm1hN2xoTUpwbDZtZmRnYWZaaHZlSWpsdENwczdvRmU2OTdic0RYX1U4dl9UdjJIblIzRExUelVNZmo0aDkxXzdaTFBVWUhBLWd0RDZ6aExBbw?oc=5",
     "title_key": "solana how sols etf boom pushed jupiter lend tvl above 2b  ambcrypto",
-    "title": "Solana: How SOL’s ETF boom pushed Jupiter Lend TVL above $2B - AMBCrypto",
+    "title": "Solana: How SOL\u2019s ETF boom pushed Jupiter Lend TVL above $2B - AMBCrypto",
     "sent_at": "2026-05-27T00:12:20.610301+00:00"
   },
   {
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZWtiVFVQa1g3SEx0OXRlZXAzTnJHakVwSHk1UG9kdHlybWc4OGZERGxVMXk2RFRuamNSS1Z3cldydGVqZ1dZTDhFRGNSV1FoaHJqT1JnT0xmVXVEbzMwWksyWkNSOHZLdzlsV0ZCTFpXQm8?oc=5",
     "title_key": "jupiter exchange launches offerbook in public beta for peertopeer lending on solana crypto briefing",
     "title": "Jupiter Exchange launches Offerbook in public beta for peer-to-peer lending on Solana - Crypto Briefing"
+  },
+  {
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "sent_at": "2026-05-28T00:16:08.638536+00:00"
   }
 ]
