@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-28T22:10:58.362005+00:00",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSHRzTnd6eDhCa3VWUzViVldVM1RnekdRWnpxN3RFeWtBZUdvZUNOVzFqRFpEUHZ3NUMtbC1fVkk1ZEFITzc5QnRHck1rSUwtZnBINVRtUTYtZmlENFd4MTJzUkNfSzNheGRYak9IQUVDN1BkakFWS1pUVWZkaVJ4Z183X09sZ19aSElGLXl2RXZjSk1xS3ZnMnFHVVNBZw?oc=5",
-    "title_key": "donald trump claims he saved crypto — has he actually moved bitcoin’s price yahoo finance",
-    "title": "Donald Trump Claims He Saved Crypto — Has He Actually Moved Bitcoin’s Price? - Yahoo Finance"
-  },
-  {
     "sent_at": "2026-05-29T04:11:31.771481+00:00",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeThBaDVzRUY5ODhHNzM0OHVJRlplcEtrdnNwazNtRXA5LWJBel83RXhjcUNCckx5TGEwR2lXUGdCaGlzOUNEOHpiTWZPSDhDcXpRY3dQUFRGZFdGaFRsTFRTNUE4TXc0RngwbWs1ZkZPVVFYSDJxTU96d3VUQUxXRWVaNzU5MGhYdWhCeFFOeWJIUDNLUEJrbFcxb2FkcUVjdkhMMzBxTkxaRWJXN05PRlpLQmdub2VjanJMN2pLZ3J5RlN0M1BBMkgyRVg?oc=5",
     "title_key": "streamex launches 247 secondary liquidity for gldy via orca on solana tradingview",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjJScUZDNDZ6NEs1OXA0UW8yWko5ZkhLVVNKdXJremhSXy1qMmdSeGR3OEJVcTZodnBHOTBMTFZZTlRKYTBGZmtIX3hDM2UxQ3ZLWnpJR09lcGt1WU1mM2pTZ2FreW9Mdy11X2Y3X0NMeWVTT2ZwTE5yUjBJb2ZQSGxxZkl2MnJEc05RcWdBRmpJYnFKVnNFR2xrY1FLa3JrWkVyVVA0UEhlVGNNS3VKNmRhWXluM0FhcnZic0FPRjBDb2xQSXprOFZwcXBMRVZkS3c?oc=5",
     "title_key": "sec sues texas man over 123 million alleged crypto scheme built on fake ai trading bots coindesk",
     "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots - CoinDesk"
+  },
+  {
+    "sent_at": "2026-05-30T22:13:19.285318+00:00",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
   }
 ]
