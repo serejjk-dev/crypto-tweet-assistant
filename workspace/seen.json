@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
-    "sent_at": "2026-05-28T00:16:08.638536+00:00"
-  },
-  {
-    "sent_at": "2026-05-28T02:10:22.666206+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNzlNTHJaTUlBTThPTmdCajgxY0toVGZhandxWGdObng2R3dJMVFvVzZjUHZzZWs0RDRIZFpLYUpNaEFnU2dJbEltYTc2bDdhZjZiR0ZrYkxLT0RVaEgtWXVEdFRzNUVxVGxON1dIM01ZeWlqbzgzS1M2SjNhLTRIRW1DYVBvRUNmcVM3cDViNU1HeEFYUlJhOXdkTzFSX1N2UVM3cENrUU5BUzA0UUhHM0JFNUNSbU8w?oc=5",
-    "title_key": "solana dex orca launches new marketplace for tokenized realworld assets coindesk",
-    "title": "Solana DEX Orca launches new marketplace for tokenized real-world assets - CoinDesk"
-  },
-  {
     "sent_at": "2026-05-28T04:13:04.793787+00:00",
     "url": "https://decrypt.co/369218/ethereum-traders-increasingly-bearish-etfs-bleed-eth-sinks-near-2000",
     "title_key": "ethereum traders grow increasingly bearish as etfs bleed eth sinks near 2000",
@@ -76,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ySTFHYlI3eDNsTzZmTkpRMnFYUGQwVFA1SHpfcEpIbGJDUHo1dGZLb3RhSGZMbnZoZUpMbFd2MmZLSFY3OUFBeHFZN1duSUd5UW1jWHpPQXBmRWNWSm9Nem1WWTV1ei1XMlUwYXZUQ1ZqZ1Fi?oc=5",
     "title_key": "cme group launches 247 trading for ethereum futures alongside bitcoin and altcoin derivatives crypto briefing",
     "title": "CME Group launches 24/7 trading for Ethereum futures alongside Bitcoin and altcoin derivatives - Crypto Briefing"
+  },
+  {
+    "sent_at": "2026-05-30T04:12:10.020420+00:00",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUVEWkh6ejBSaHFBWUZFYUo1VEYyRW12TGszemdTWGduRDRxcjRLUU9NOEpiZ1FTcmJMUWlWQkdGOFVkMGpsT0VXTnktR1d4WG9vaUNEQ21nc1g0Zk8zWnpZSDR6U3ZQSGR6RkNpd1B4Rll4aEVUb1N5cUxKRU1TamhISktYNllnSS1SX0hNZTV5SHBFQ2tDSERrNjZTVXN2akVHbXp2RTJXRE9Yb0VodGthYVpzQQ?oc=5",
+    "title_key": "solana company hsdt launches 250m atm shelf to buy sol tokens stock titan",
+    "title": "Solana Company (HSDT) launches $250M ATM shelf to buy SOL tokens - Stock Titan"
   }
 ]
