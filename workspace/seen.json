@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-27T20:12:47.266631+00:00",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBLZWtiVFVQa1g3SEx0OXRlZXAzTnJHakVwSHk1UG9kdHlybWc4OGZERGxVMXk2RFRuamNSS1Z3cldydGVqZ1dZTDhFRGNSV1FoaHJqT1JnT0xmVXVEbzMwWksyWkNSOHZLdzlsV0ZCTFpXQm8?oc=5",
-    "title_key": "jupiter exchange launches offerbook in public beta for peertopeer lending on solana crypto briefing",
-    "title": "Jupiter Exchange launches Offerbook in public beta for peer-to-peer lending on Solana - Crypto Briefing"
-  },
-  {
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
@@ -76,5 +70,11 @@
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYkV0SjBTd1FFMWVJaFZGaV9fQkdmRzFrSlY2dEowOVEtYVEtWU9Zb1NxbFdrcU5JVXlJZHE5Z1pnMU1TNDY3ZVMzc2ZBRk5aZ2FBSzZtLWoxT2lOekpnam5qT0dBZHBRVEhYT1JXaGxKNWdMc0tlMENxdExKRThVOQ?oc=5",
     "title_key": "retired couple loses 76000 life savings to bitcoin atm scam sues bitcoin depot in federal court bitcoin magazine",
     "title": "Retired Couple Loses $76,000 Life Savings to Bitcoin ATM Scam, Sues Bitcoin Depot in Federal Court - Bitcoin Magazine"
+  },
+  {
+    "sent_at": "2026-05-30T00:10:42.262596+00:00",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ySTFHYlI3eDNsTzZmTkpRMnFYUGQwVFA1SHpfcEpIbGJDUHo1dGZLb3RhSGZMbnZoZUpMbFd2MmZLSFY3OUFBeHFZN1duSUd5UW1jWHpPQXBmRWNWSm9Nem1WWTV1ei1XMlUwYXZUQ1ZqZ1Fi?oc=5",
+    "title_key": "cme group launches 247 trading for ethereum futures alongside bitcoin and altcoin derivatives crypto briefing",
+    "title": "CME Group launches 24/7 trading for Ethereum futures alongside Bitcoin and altcoin derivatives - Crypto Briefing"
   }
 ]
