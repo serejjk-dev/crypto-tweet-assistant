@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ethereum Is Winning, But Its Token Holders Are Losing Faith. - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0xqUmNGb3NGU0pRR1I1V2l0MFQxSDZIaGdpNS12XzhMZzlwazRpXy1wQlhnR1lmd05mTkJoLVRpTXRKMjNNZnJqVjh4aUFSY1lERkJ0QXVOV3VreVVZdVVzMUVqalZ1M1lwZk5oUDY3cENSTUtLSzcyaHJYWmg5WkRnLThQUGxuWkFyd21qQUZKTF8zZTVXS2htZGx3N3NpeE84VEhQQ2Ixb0tP?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Ethereum Is Winning, But Its Token Holders Are Losing Faith.&nbsp;&nbsp;Forbes",
-    "published_at": "2026-05-30T23:17:46+00:00"
-  },
-  {
     "title": "Solana Beach council approves construction contract for Lomas Santa Fe project - San Diego Union-Tribune",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDZiM05BSnUyMFlLTGVBemFoSGxsb1VRa0lCbWQwd3VXVzdzem9BM2RDQXVCR0x5OVBpY1NQVUtCTUxvMWZObGYzOV9PQ1BBb0xiZHJJN0w4T3pTSjhQTDBYQndwWjVtbXI4MEZoQ0FINk9NOGJLQ29sRWszdUsxY3lxY0hoSWhNOGR0NmM0SXA3cmk5VFd4aWhzcHdkcmQycWI5aC1rUko3ZW8yQ0VJR3FvTEV3VlVRaFhoOUVnOTJHdGVRN3c?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-05-30T18:03:29+00:00"
   },
   {
-    "title": "Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQang2eERnQjZwMzI3dUJiQkhJcjM4OEJuWDNHa1FWa0NCZ2FiOUlpZE9WeDFmSDJkT3dKRnUtc0RjV1F4ZkQ2QzdabkJhakNoM2hvWFNSbW5IYUxVZVBEM3RoWFRHWDAxdGtDblV4Q1liUVR3Vlg1TEJYcTRzWExJVE1tR25pQlJpZW51YnU3N1I5Y0tJVGphb3VpNFplc1B0RDRV?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Marathon Digital Bets Its Bitcoin Mining Power Assets Can Fuel AI Data Center Growth&nbsp;&nbsp;Yahoo Finance",
-    "published_at": "2026-05-30T23:02:25+00:00"
+    "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions - Cryptonews.net",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96THlYLWt1RDhWLThwSnUwYmZES1BsVFNQYmVuZ29Eb01IbnNOX0llOVAxVVBvUHFGNDFPUjYxRDQ0V3k2Z2xsd2dhMWEtaGNpLTMxNg?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions&nbsp;&nbsp;Cryptonews.net",
+    "published_at": "2026-05-31T02:44:27+00:00"
+  },
+  {
+    "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions",
+    "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+    "source": "CoinDesk",
+    "summary": "A draft XRPL amendment notes that flash loan attacks are \"structurally impossible\" on the network because of how its transactions are built, an architectural quirk that has spared the chain from the exploit class that has cost Ethereum DeFi billions.",
+    "published_at": "2026-05-31T02:30:00+00:00"
   }
 ]
