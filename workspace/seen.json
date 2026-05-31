@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-05-29T04:11:31.771481+00:00",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeThBaDVzRUY5ODhHNzM0OHVJRlplcEtrdnNwazNtRXA5LWJBel83RXhjcUNCckx5TGEwR2lXUGdCaGlzOUNEOHpiTWZPSDhDcXpRY3dQUFRGZFdGaFRsTFRTNUE4TXc0RngwbWs1ZkZPVVFYSDJxTU96d3VUQUxXRWVaNzU5MGhYdWhCeFFOeWJIUDNLUEJrbFcxb2FkcUVjdkhMMzBxTkxaRWJXN05PRlpLQmdub2VjanJMN2pLZ3J5RlN0M1BBMkgyRVg?oc=5",
-    "title_key": "streamex launches 247 secondary liquidity for gldy via orca on solana tradingview",
-    "title": "Streamex launches 24/7 secondary liquidity for GLDY via Orca on Solana - TradingView"
-  },
-  {
-    "sent_at": "2026-05-29T06:11:34.048685+00:00",
-    "url": "https://airdrops.io/blog/base-airdrop-farming-playbook/",
-    "title_key": "base airdrop playbook how to position before the snapshot",
-    "title": "Base airdrop playbook: how to position before the snapshot"
-  },
-  {
     "sent_at": "2026-05-29T08:11:05.519287+00:00",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTjFsWnhNcVE5Umg2X1RnZlpxNHNkZjJpZnNrYzdXaUpMbThTaUJQQXpmVl9yRHBIMUdNNHRzNWtjWXpVc3d6M3RiMWk0dnBYZkhfTDRmaHNJZzJybUtnbFI2N3FXU3VhaWRXZTJYZGw4YzNNQ2pmLUpRZUE0ODRxalBjRkJYQXVTZ2ZnOQ?oc=5",
     "title_key": "pumpfuns 780m sol exit breaks the solana chart below 81 startup fortune",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0xqUmNGb3NGU0pRR1I1V2l0MFQxSDZIaGdpNS12XzhMZzlwazRpXy1wQlhnR1lmd05mTkJoLVRpTXRKMjNNZnJqVjh4aUFSY1lERkJ0QXVOV3VreVVZdVVzMUVqalZ1M1lwZk5oUDY3cENSTUtLSzcyaHJYWmg5WkRnLThQUGxuWkFyd21qQUZKTF8zZTVXS2htZGx3N3NpeE84VEhQQ2Ixb0tP?oc=5",
     "title_key": "ethereum is winning but its token holders are losing faith forbes",
     "title": "Ethereum Is Winning, But Its Token Holders Are Losing Faith. - Forbes"
+  },
+  {
+    "sent_at": "2026-05-31T06:11:49.511534+00:00",
+    "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
+    "title_key": "xrp ledgers new proposal blocks the flash loan attacks costing defi hundreds of millions",
+    "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions"
   }
 ]
