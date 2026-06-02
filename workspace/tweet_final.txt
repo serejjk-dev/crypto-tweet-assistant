@@ -1,1 +1,1 @@
-Phoenix brought its Solana-native order book exchange to mobile, letting traders place limit orders from their phones. Most mobile crypto apps are wallets with a swap button bolted on. This one's an actual exchange.
+Vitalik Buterin is rethinking how DeFi protocols should handle market crashes, saying the current approach leaves users exposed when volatility hits hardest. He helped design these protocols. Better late than after the next blow-up.
