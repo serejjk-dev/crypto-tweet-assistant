@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-31T06:11:49.511534+00:00",
-    "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
-    "title_key": "xrp ledgers new proposal blocks the flash loan attacks costing defi hundreds of millions",
-    "title": "XRP Ledger's new proposal blocks the flash loan attacks costing DeFi hundreds of millions"
-  },
-  {
     "sent_at": "2026-05-31T08:11:06.248343+00:00",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWnZzYlQxNDNjUkx5aERkdTJNdGVSMnFBSjZNMzg1b0NfSWlyazkyd3NVemtSRlpBNDI4YXhVQUNJV0lCbDNSLU91ZTJsQXVMU3ZiU0R3d21MZHVXc3I4YXU2ME5QZWZsUEJTMUJnaEtqQml1bXBKbUFNRGNBWFU2bkVCMG9WVWVrNVJnZGFGX3VXeW8wbHhsYlM4Yml2eWZsb2lUNEtaRFRnLXBjZzRMWjAyS3FTRnRIT2pvblBXcFo3d29UYVNhME14Mmp5TFFVM3BxeS1xMNIB3AFBVV95cUxQYnJuMDhPWlgtendUTGYyLS1nUHRwS3NLYXRMUjFsYm9YbmoyYU1TZHgyWlJjY0J3MEZqdXNqZEsySFp3aS1PWjVBSTVJaF9DQnFwZUctXzFDelFLRC1BVDFTTlJpQlZ4a21QRTZNbUptT0VQYUpVSWlFYjZuR25MdlVSUWFyMU5NR1NNYkxMTENqc0xlTnVadjRscUZHc000RGdIbzkyQzRWcjc4VjlPeExwWHdfVVA3TkhHcEVjYnRDbmMtazZObHFfRDd3RVA4T2pxMnlZd1RhNzV1?oc=5",
     "title_key": "bitmine doubles down on ethereum as etfs see outflows simplywallst",
@@ -70,5 +64,11 @@
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
+  },
+  {
+    "sent_at": "2026-06-02T08:10:50.488195+00:00",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aaUZuanlTSkZqN1dGS19yOEZCa0l0WllUNVdKWVJXR2NVRGN5eUFHeHdOUkVsTElIUGFBR2ZhcWUtTS16WFF3d0VaUjk4Q3d6SlhsdnA1cU9JUXZrZjdaWnQ1TjJsZm5LTTdnejc2Vy1vVWFRTnV6RngwaFo?oc=5",
+    "title_key": "solana dex volume crashes 82 as meme coin engine stalls beincrypto",
+    "title": "Solana DEX Volume Crashes 82% as Meme Coin Engine Stalls - BeInCrypto"
   }
 ]
