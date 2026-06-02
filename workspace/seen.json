@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-31T02:12:45.844361+00:00",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0xqUmNGb3NGU0pRR1I1V2l0MFQxSDZIaGdpNS12XzhMZzlwazRpXy1wQlhnR1lmd05mTkJoLVRpTXRKMjNNZnJqVjh4aUFSY1lERkJ0QXVOV3VreVVZdVVzMUVqalZ1M1lwZk5oUDY3cENSTUtLSzcyaHJYWmg5WkRnLThQUGxuWkFyd21qQUZKTF8zZTVXS2htZGx3N3NpeE84VEhQQ2Ixb0tP?oc=5",
-    "title_key": "ethereum is winning but its token holders are losing faith forbes",
-    "title": "Ethereum Is Winning, But Its Token Holders Are Losing Faith. - Forbes"
-  },
-  {
     "sent_at": "2026-05-31T06:11:49.511534+00:00",
     "url": "https://www.coindesk.com/tech/2026/05/29/xrp-ledger-s-new-proposal-blocks-the-flash-loan-attacks-costing-defi-hundreds-of-millions",
     "title_key": "xrp ledgers new proposal blocks the flash loan attacks costing defi hundreds of millions",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWU0Rkd0lub25iNEYtNnVkbmpYdjRiTjIxem9xVlhacEtNS1JzemhNSWNIWjNzRlRfSGdHVWVwNzRxWFRBUmJDWThYME1PZm5IRHFUckR4bFc1YjFnbmZKZGxpbEdWdFky?oc=5",
     "title_key": "phoenix launches mobile trading for solana users crypto briefing",
     "title": "Phoenix launches mobile trading for Solana users - Crypto Briefing"
+  },
+  {
+    "sent_at": "2026-06-02T02:13:09.747035+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQZWd4OUI2N1B3UVF5RU1OMUdiblllSzM3T2pHZlhsRTJhTUtRODdYU1ppYWRMWjBLa2xxUnNpZFczSzFKdG5vcHhuekNSU2VVQkhiRA?oc=5",
+    "title_key": "ethereums vitalik buterin is rethinking how defi handles market crashes cryptonewsnet",
+    "title": "Ethereum's Vitalik Buterin is rethinking how DeFi handles market crashes - Cryptonews.net"
   }
 ]
