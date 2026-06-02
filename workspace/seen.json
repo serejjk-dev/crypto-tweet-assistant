@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-05-31T12:13:07.164715+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RTXdQY0xoLV8xdXF5MTI2TGxSWkRfMnJBMlpPeVJTZTBUOWFOU19sWU9XTWNYUXRmXzEyTl83VDRBVnBESUZBV2ZyeHpLQTN6eFAzaEFQdTRuQQ?oc=5",
-    "title_key": "an update set to transform solana from top to bottom is coming the daily coin burn rate will increase by at least 16 times cryptonewsnet",
-    "title": "An Update Set to Transform Solana from Top to Bottom Is Coming: The Daily Coin Burn Rate Will Increase by at Least 16 Times - Cryptonews.net"
-  },
-  {
     "sent_at": "2026-05-31T22:12:25.411168+00:00",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSlZrMkZTM0JsbGl4LVhwRS1ZeXJtN3hZZzNnNkp6aVRERUdGc2V5c1BjamFSYThwZllhdE56QkdPX3JEVnNCNHlhTG1DVzBaM3dpNmdLS2RmZVp3NUw2ZjIyckpQQllrTFI0aXA0SktMVmN3VHBhWEdHOFBnaGNxOS16U3pXNUlqS3NJN3dGMjlyaUI2N1M5cDBWblVHV1Z2Yng2VGE0XzRDejlyQnEzbGxnRkU5VXpBS1VHS2JlMjJSNE4yNUgxT3laMWgwOUVhMXFZQUQtdWstWVlhMWc?oc=5",
     "title_key": "quantum computing advancing faster than expected could soon crack bitcoin security report claims crowdfund insider",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFlJTmJxLXREdlVIN1MzeFllbnM3M2d6eGo1ODRvOEVaXzFBWXRmemV3UHdUTm5mUGtEZDZSbHBYMmdlMy1lOEJEaWNsRWxVYmF6YTJEWXBnY053YlRBNTVjSTkwcXVSYmdUQ0lGLUxPUXUwYVI4UXNYbmpUX0xKT0hCUHFCNXpJOG5obGIwWGpyTEdveEtGUHl3UkZwbkpJelhMaTJhY25FdkhO?oc=5",
     "title_key": "bitcoin btc tumbles below 70000 for first time in two months bloombergcom",
     "title": "Bitcoin (BTC) Tumbles Below $70,000 for First Time in Two Months - Bloomberg.com"
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
+    "title_key": "hyperliquid is beating ethereum in trading volume on some days as big money rotates says falconx",
+    "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
+    "sent_at": "2026-06-02T18:10:29.187366+00:00"
   }
 ]
