@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-05-30T20:13:59.113106+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjJScUZDNDZ6NEs1OXA0UW8yWko5ZkhLVVNKdXJremhSXy1qMmdSeGR3OEJVcTZodnBHOTBMTFZZTlRKYTBGZmtIX3hDM2UxQ3ZLWnpJR09lcGt1WU1mM2pTZ2FreW9Mdy11X2Y3X0NMeWVTT2ZwTE5yUjBJb2ZQSGxxZkl2MnJEc05RcWdBRmpJYnFKVnNFR2xrY1FLa3JrWkVyVVA0UEhlVGNNS3VKNmRhWXluM0FhcnZic0FPRjBDb2xQSXprOFZwcXBMRVZkS3c?oc=5",
-    "title_key": "sec sues texas man over 123 million alleged crypto scheme built on fake ai trading bots coindesk",
-    "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots - CoinDesk"
-  },
-  {
-    "sent_at": "2026-05-30T22:13:19.285318+00:00",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
-  },
-  {
     "sent_at": "2026-05-31T02:12:45.844361+00:00",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0xqUmNGb3NGU0pRR1I1V2l0MFQxSDZIaGdpNS12XzhMZzlwazRpXy1wQlhnR1lmd05mTkJoLVRpTXRKMjNNZnJqVjh4aUFSY1lERkJ0QXVOV3VreVVZdVVzMUVqalZ1M1lwZk5oUDY3cENSTUtLSzcyaHJYWmg5WkRnLThQUGxuWkFyd21qQUZKTF8zZTVXS2htZGx3N3NpeE84VEhQQ2Ixb0tP?oc=5",
     "title_key": "ethereum is winning but its token holders are losing faith forbes",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFVaM3g1UklCQXVneDhJTnVTeTRoeHN6VlpDYnQ2TGtDMDBpMVVTYUgwaUxkS0FCTVBtVmctWXFBd0J5TGl2WDRfOVI5QXZCazVrMnRRaGJKNk50a0ZJQmhwY2RZdUUtMW44cWhmb3RPVDR5UDNOVkt3ZWNrR0c4NG55VFQ0VzRtQnktMXNxLTBMUmhnTTktMU5OV3RCdVE?oc=5",
     "title_key": "tomarket launches toma token airdrop on the open network coinmarketcap",
     "title": "Tomarket Launches TOMA Token Airdrop on The Open Network - CoinMarketCap"
+  },
+  {
+    "sent_at": "2026-06-02T00:12:16.116374+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWU0Rkd0lub25iNEYtNnVkbmpYdjRiTjIxem9xVlhacEtNS1JzemhNSWNIWjNzRlRfSGdHVWVwNzRxWFRBUmJDWThYME1PZm5IRHFUckR4bFc1YjFnbmZKZGxpbEdWdFky?oc=5",
+    "title_key": "phoenix launches mobile trading for solana users crypto briefing",
+    "title": "Phoenix launches mobile trading for Solana users - Crypto Briefing"
   }
 ]
