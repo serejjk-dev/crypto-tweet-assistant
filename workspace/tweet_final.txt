@@ -1,1 +1,1 @@
-Solana is shipping protocol-level subscription support, letting apps charge recurring payments without custom smart contract logic. Web2 solved subscriptions in 1999. $SOL just made it native.
+Bitcoin's 'fear gauge' - options implied volatility - jumped nearly 20% today, its biggest one-day spike since the February crash, as $BTC fell 13% in a week. Two months of unusual calm, then suddenly everyone wants insurance.
