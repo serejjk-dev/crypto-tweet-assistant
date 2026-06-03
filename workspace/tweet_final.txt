@@ -1,1 +1,1 @@
-Bitcoin fell 13% in a week to $67,000 as spot ETF holders - the supposedly 'patient' institutional money - hit the exit. ETFs made $BTC mainstream. They also made it easier to sell.
+Solana is shipping protocol-level subscription support, letting apps charge recurring payments without custom smart contract logic. Web2 solved subscriptions in 1999. $SOL just made it native.
