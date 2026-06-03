@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-01T06:12:54.267000+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/01/xrp-drops-to-usd1-32-as-sellers-overpower-exchange-outflows",
-    "title_key": "xrp drops to 132 as sellers overpower exchange outflows",
-    "title": "XRP drops to $1.32 as sellers overpower exchange outflows"
-  },
-  {
-    "sent_at": "2026-06-01T10:13:41.533760+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdEl3NE50ZXNfbFd0QW12UW9nUGNKcXhSOUVsZmt6TTVPOUNEdzdTVVlrRXA5S09NQmJiOGxvaVptaTdYWENJRXpLZi1OdEhKRU5DWG10dmNyNTFfSFA0anpZbnlCaHE1Qzl4V3RoUkU0enZ4VVJ0RXAyMFZid0J1dHM5b2h3VVZCSjBsbWVqazlVaWxhakg2Q3YxN1RmNnRaYk03UDZxMlVWNXFaXzE1Y2ppZEwwaUMxQVlwc0g4ZEtpLURhU2NTOUd5cw?oc=5",
-    "title_key": "here’s why rising institutional demand could push solana above 100 fxstreet",
-    "title": "Here’s why rising institutional demand could push Solana above $100 - FXStreet"
-  },
-  {
     "sent_at": "2026-06-01T14:12:29.791005+00:00",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFVaM3g1UklCQXVneDhJTnVTeTRoeHN6VlpDYnQ2TGtDMDBpMVVTYUgwaUxkS0FCTVBtVmctWXFBd0J5TGl2WDRfOVI5QXZCazVrMnRRaGJKNk50a0ZJQmhwY2RZdUUtMW44cWhmb3RPVDR5UDNOVkt3ZWNrR0c4NG55VFQ0VzRtQnktMXNxLTBMUmhnTTktMU5OV3RCdVE?oc=5",
     "title_key": "tomarket launches toma token airdrop on the open network coinmarketcap",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iY2djZmFFYzVZSU01Uk0wWmxzaDJIdWpaQlZjemZCbWFwcUNDaDFzQ0c3Rkw1RjN3TVhSWVZ4T2hUQ1pSdmRCRHV2M08yRGdGeDZPaU9Rc1J6NW5qek9mSVpOa1ZhVzhDa0VaMkdGXy00M0h6M0EzTEZGNUc?oc=5",
     "title_key": "bitcoin price crashes to 67000 range down 13 in a week amid etf outflows and market fears bitcoin magazine",
     "title": "Bitcoin Price Crashes to $67,000 Range, Down 13% in a Week Amid ETF Outflows and Market Fears - Bitcoin Magazine"
+  },
+  {
+    "sent_at": "2026-06-03T12:11:51.190237+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hejhyektSWVh3dnIyaGFFTW9Mb1liUFNLeldVQVI2aExIVF9FWV9GaDNEMzVWbXdLUzJZUGpYYTQ2QkZOR2E0?oc=5",
+    "title_key": "solana launches native onchain subscription infrastructure mexc",
+    "title": "Solana Launches Native On-Chain Subscription Infrastructure - MEXC"
   }
 ]
