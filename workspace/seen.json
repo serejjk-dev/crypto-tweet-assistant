@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-02T08:10:50.488195+00:00",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aaUZuanlTSkZqN1dGS19yOEZCa0l0WllUNVdKWVJXR2NVRGN5eUFHeHdOUkVsTElIUGFBR2ZhcWUtTS16WFF3d0VaUjk4Q3d6SlhsdnA1cU9JUXZrZjdaWnQ1TjJsZm5LTTdnejc2Vy1vVWFRTnV6RngwaFo?oc=5",
-    "title_key": "solana dex volume crashes 82 as meme coin engine stalls beincrypto",
-    "title": "Solana DEX Volume Crashes 82% as Meme Coin Engine Stalls - BeInCrypto"
-  },
-  {
     "sent_at": "2026-06-02T12:13:06.860825+00:00",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFlJTmJxLXREdlVIN1MzeFllbnM3M2d6eGo1ODRvOEVaXzFBWXRmemV3UHdUTm5mUGtEZDZSbHBYMmdlMy1lOEJEaWNsRWxVYmF6YTJEWXBnY053YlRBNTVjSTkwcXVSYmdUQ0lGLUxPUXUwYVI4UXNYbmpUX0xKT0hCUHFCNXpJOG5obGIwWGpyTEdveEtGUHl3UkZwbkpJelhMaTJhY25FdkhO?oc=5",
     "title_key": "bitcoin btc tumbles below 70000 for first time in two months bloombergcom",
@@ -70,5 +64,11 @@
     "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-selloff-continues-as-prices-slide-below-usd63-000-for-the-first-time-since-february",
     "title_key": "bitcoin tanks below 63000 for the first time since february as price selloff deepens",
     "title": "Bitcoin tanks below $63,000 for the first time since February as price selloff deepens"
+  },
+  {
+    "sent_at": "2026-06-04T08:12:36.532892+00:00",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "title_key": "solana sol trending on coingecko market cap rank 7",
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
   }
 ]
