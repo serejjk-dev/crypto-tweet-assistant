@@ -1,17 +1,5 @@
 [
   {
-    "url": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
-    "title_key": "hyperliquid is beating ethereum in trading volume on some days as big money rotates says falconx",
-    "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
-    "sent_at": "2026-06-02T18:10:29.187366+00:00"
-  },
-  {
-    "sent_at": "2026-06-02T20:11:23.378435+00:00",
-    "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
-    "title_key": "franklin templeton teams up with moonpay to let big investors swap stablecoins for yields 247",
-    "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7"
-  },
-  {
     "sent_at": "2026-06-03T02:11:51.487781+00:00",
     "url": "https://www.coindesk.com/business/2026/06/02/bitcoin-faces-identity-crisis-as-defi-quietly-builds-its-breakthrough-point",
     "title_key": "bitcoin faces an identity crisis and defi devs need to stop acting like tech bros",
@@ -70,5 +58,11 @@
     "url": "https://decrypt.co/369994/morning-minute-crypto-crashes-new-lows-in-sight",
     "title_key": "morning minute crypto crashes new lows in sight",
     "title": "Morning Minute: Crypto Crashes, New Lows In Sight"
+  },
+  {
+    "sent_at": "2026-06-04T20:12:15.172131+00:00",
+    "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
+    "title_key": "occ chief says democrats applying sole political pressure in world liberty charter choice",
+    "title": "OCC chief says Democrats applying sole political pressure in World Liberty charter choice"
   }
 ]
