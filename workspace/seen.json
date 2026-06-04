@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-02T12:13:06.860825+00:00",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZFlJTmJxLXREdlVIN1MzeFllbnM3M2d6eGo1ODRvOEVaXzFBWXRmemV3UHdUTm5mUGtEZDZSbHBYMmdlMy1lOEJEaWNsRWxVYmF6YTJEWXBnY053YlRBNTVjSTkwcXVSYmdUQ0lGLUxPUXUwYVI4UXNYbmpUX0xKT0hCUHFCNXpJOG5obGIwWGpyTEdveEtGUHl3UkZwbkpJelhMaTJhY25FdkhO?oc=5",
-    "title_key": "bitcoin btc tumbles below 70000 for first time in two months bloombergcom",
-    "title": "Bitcoin (BTC) Tumbles Below $70,000 for First Time in Two Months - Bloomberg.com"
-  },
-  {
     "url": "https://www.coindesk.com/markets/2026/06/02/hyperliquid-is-beating-ethereum-in-trading-volume-on-some-days-as-big-money-rotates-out-of-bitcoin-says-falconx",
     "title_key": "hyperliquid is beating ethereum in trading volume on some days as big money rotates says falconx",
     "title": "Hyperliquid is beating ethereum in trading volume on some days as big money rotates, says FalconX",
@@ -70,5 +64,11 @@
     "url": "https://www.coingecko.com/en/coins/solana",
     "title_key": "solana sol trending on coingecko market cap rank 7",
     "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
+  },
+  {
+    "sent_at": "2026-06-04T14:12:57.086415+00:00",
+    "url": "https://decrypt.co/369994/morning-minute-crypto-crashes-new-lows-in-sight",
+    "title_key": "morning minute crypto crashes new lows in sight",
+    "title": "Morning Minute: Crypto Crashes, New Lows In Sight"
   }
 ]
