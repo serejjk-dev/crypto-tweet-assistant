@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-03T04:13:19.091161+00:00",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iY2djZmFFYzVZSU01Uk0wWmxzaDJIdWpaQlZjemZCbWFwcUNDaDFzQ0c3Rkw1RjN3TVhSWVZ4T2hUQ1pSdmRCRHV2M08yRGdGeDZPaU9Rc1J6NW5qek9mSVpOa1ZhVzhDa0VaMkdGXy00M0h6M0EzTEZGNUc?oc=5",
-    "title_key": "bitcoin price crashes to 67000 range down 13 in a week amid etf outflows and market fears bitcoin magazine",
-    "title": "Bitcoin Price Crashes to $67,000 Range, Down 13% in a Week Amid ETF Outflows and Market Fears - Bitcoin Magazine"
-  },
-  {
     "sent_at": "2026-06-03T12:11:51.190237+00:00",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hejhyektSWVh3dnIyaGFFTW9Mb1liUFNLeldVQVI2aExIVF9FWV9GaDNEMzVWbXdLUzJZUGpYYTQ2QkZOR2E0?oc=5",
     "title_key": "solana launches native onchain subscription infrastructure mexc",
@@ -76,5 +70,11 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94LTlOeVpydTFZSkJLRDcxOWJUNVg2eGFHaGVLVjVQVVNwQWF1UWc1NExBd09JbE1LX0ZOcE5FcVFfMzNmWjBfZXJqSDZzZEV3R3A5eXQyLURkblNIdy1qaUZhWE51VTQ2a0d4SU41WQ?oc=5",
     "title_key": "solana proposal simd0550 aims to cut 15b in future sol emissions by doubling disinflation rate crypto briefing",
     "title": "Solana proposal SIMD-0550 aims to cut $1.5B in future SOL emissions by doubling disinflation rate - Crypto Briefing"
+  },
+  {
+    "sent_at": "2026-06-05T08:05:46.617269+00:00",
+    "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
+    "title_key": "zcash plummets 30 as shielded labs reveals a major bug that went undetected for four years",
+    "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years"
   }
 ]
