@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-03T12:11:51.190237+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5hejhyektSWVh3dnIyaGFFTW9Mb1liUFNLeldVQVI2aExIVF9FWV9GaDNEMzVWbXdLUzJZUGpYYTQ2QkZOR2E0?oc=5",
-    "title_key": "solana launches native onchain subscription infrastructure mexc",
-    "title": "Solana Launches Native On-Chain Subscription Infrastructure - MEXC"
-  },
-  {
     "sent_at": "2026-06-03T16:13:15.431054+00:00",
     "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash",
     "title_key": "bitcoins fear gauge surges nearly 20 its biggest jump since feb 5 crash",
@@ -82,5 +76,11 @@
     "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
     "title_key": "bitcoin plunges to near 62000 as the ai trade unwinds hype falls 14",
     "title": "Bitcoin plunges to near $62,000 as the AI trade unwinds, HYPE falls 14%"
+  },
+  {
+    "sent_at": "2026-06-05T16:07:41.465479+00:00",
+    "url": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
+    "title_key": "live updates bitcoin tumbles to 60000 as blowout jobs data zcash bug keeps pressure on crypto",
+    "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto"
   }
 ]
