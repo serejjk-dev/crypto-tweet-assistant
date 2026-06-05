@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-03T02:11:51.487781+00:00",
-    "url": "https://www.coindesk.com/business/2026/06/02/bitcoin-faces-identity-crisis-as-defi-quietly-builds-its-breakthrough-point",
-    "title_key": "bitcoin faces an identity crisis and defi devs need to stop acting like tech bros",
-    "title": "Bitcoin faces an 'identity crisis' and DeFi devs need to stop acting like tech bros"
-  },
-  {
     "sent_at": "2026-06-03T04:13:19.091161+00:00",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iY2djZmFFYzVZSU01Uk0wWmxzaDJIdWpaQlZjemZCbWFwcUNDaDFzQ0c3Rkw1RjN3TVhSWVZ4T2hUQ1pSdmRCRHV2M08yRGdGeDZPaU9Rc1J6NW5qek9mSVpOa1ZhVzhDa0VaMkdGXy00M0h6M0EzTEZGNUc?oc=5",
     "title_key": "bitcoin price crashes to 67000 range down 13 in a week amid etf outflows and market fears bitcoin magazine",
@@ -76,5 +70,11 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekJ2cnVPVlB6aTA3NjA1SGZNOXZ2TEEzbF9iQ21uNFhEMzFDbEJKOFdXWG5HWW43SGoxc25keDNva2VYWXpxX0dGOVg3TmtJNU9OV19SSFpYV2dnMXBSMHI2ekRzbmhqcDV0UFUtMHV2REdiVWt0QU9aQTNOQjVWVnpWMmV6Vk9JNlhiaXJfei1Md041ZzVEaVN3eXhNdjRFRnNDRW4zVWFET0dmX0JzazlkYThOZjctWnJ5N1N4NmdrOXhp0gHKAUFVX3lxTE9xdUt2dFFOd19Yb2Z3bm5wNzdKS0dxT3J0SmhaeW4xR3g4Z19rQi1vUFcxc3ZtMFlMdXFGT0V6OEJXWUFXaUt3Q3haRkQzZHEwdGVlUmJqNW80NjFic1pRRFZxOEh2aVZ6QjFFNUdYOUp0VmVpLUx1cVBTdzg2bjVKNkNIX295NFZGRHJST2w5WG03VXFaR2ZUb01NbVBYQzFORlU1Qjlxa1lseW1yaTVtTE1heEJVb3FWN2NnQXhMRWZqY3ViSDRpX1E?oc=5",
     "title_key": "bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates cnbc",
     "title": "Bitcoin is weathering its ugliest week in months as narrative fades and liquidity rotates - CNBC"
+  },
+  {
+    "sent_at": "2026-06-05T04:05:28.699452+00:00",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94LTlOeVpydTFZSkJLRDcxOWJUNVg2eGFHaGVLVjVQVVNwQWF1UWc1NExBd09JbE1LX0ZOcE5FcVFfMzNmWjBfZXJqSDZzZEV3R3A5eXQyLURkblNIdy1qaUZhWE51VTQ2a0d4SU41WQ?oc=5",
+    "title_key": "solana proposal simd0550 aims to cut 15b in future sol emissions by doubling disinflation rate crypto briefing",
+    "title": "Solana proposal SIMD-0550 aims to cut $1.5B in future SOL emissions by doubling disinflation rate - Crypto Briefing"
   }
 ]
