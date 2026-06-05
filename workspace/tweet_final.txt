@@ -1,1 +1,1 @@
-Solana's SIMD-0550 proposal would double the protocol's disinflation rate, cutting $1.5B in future $SOL emissions. Validators are voting to shrink their own payouts. Self-discipline is rare in crypto.
+Shielded Labs revealed that $ZEC carried a four-year-old bug enabling unlimited counterfeit token minting - nobody exploited it, but price still fell 30%. A privacy chain keeps many secrets; turns out some it kept from itself.
