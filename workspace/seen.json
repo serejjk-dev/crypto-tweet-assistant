@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-06-03T16:13:15.431054+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/03/bitcoin-s-fear-gauge-surges-nearly-20-its-biggest-jump-since-feb-5-crash",
-    "title_key": "bitcoins fear gauge surges nearly 20 its biggest jump since feb 5 crash",
-    "title": "Bitcoin's 'fear gauge' surges nearly 20%, its biggest jump since Feb. 5 crash"
-  },
-  {
-    "sent_at": "2026-06-03T18:11:10.104607+00:00",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZVNLMmZhTks4RTVqQVV2WHRtM2ZsYjc0Qkt2THYxUjA5RTFieTJ0OXNvbl95T2swbVpSME5SUExZSkxfSEFTNkNJRlBCNW1oRUZ5eG1IVXVXdjd1dG1LdVBGLURYMUFBV1ctdS1SNFFJRHMwX1ZWQmhGSUhpN1FDRXF1S1I3U0ZMVGRPbU9B?oc=5",
-    "title_key": "solana staking gets a new yield source as raiku launches rkusol blockster",
-    "title": "Solana Staking Gets a New Yield Source as Raiku Launches rkuSOL - Blockster"
-  },
-  {
-    "sent_at": "2026-06-03T22:11:30.197575+00:00",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlpEc2I4dl9KaHRydmRlRmNWUWNlbXBfSjJUaXJISlBWc2Q3T0dHS2dkWU43dmxaaEkxN1o1OUFXeWJUSXhvbVdlMDNGajFndm1wLUVCUHVDTE8tTGVJdnRJU3RrdllHOUlQeDBmRlJGam45RnBOS0R2ODZBLUdfQVg3RjlaODExR2FIME1ydWUtZjFy?oc=5",
-    "title_key": "bitcoin price will fall to 20000 says peter schiff — claims hodlers will ‘quit’ soon yahoo finance",
-    "title": "Bitcoin Price Will Fall to $20,000, Says Peter Schiff — Claims HODLers Will ‘Quit’ Soon - Yahoo Finance"
-  },
-  {
     "sent_at": "2026-06-04T02:12:23.550021+00:00",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVZZT1h5SDVfMlVxeFpvVUlmcWVoZ01yUHVTSXBXdGFtN0JTODJPY0d4SVhpb1pwNVBOR0JKc0JDRkZacWRMNk1pUFVRaGc5SGlkZ1N4RDBVUHpuNVdNem1lTzN3cTVMX0lpS3M5cFdNWUdJVk1UeXlmaUl1QmJjUEwxeC13dUd0dUdKcFZFV3J5RUZSWVZqSTR3?oc=5",
     "title_key": "ethereum price to 250000 claims tom lee  says traders are bearish at wrong time  yahoo finance",
@@ -82,5 +64,11 @@
     "url": "https://www.coindesk.com/tech/2026/06/05/live-updates-bitcoin-below-usd62-000-ahead-of-jobs-data-as-zcash-bug-rocks-crypto",
     "title_key": "live updates bitcoin tumbles to 60000 as blowout jobs data zcash bug keeps pressure on crypto",
     "title": "Live updates: bitcoin tumbles to $60,000 as blowout jobs data, Zcash bug keeps pressure on crypto"
+  },
+  {
+    "sent_at": "2026-06-06T00:07:42.776760+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15UFBLUFpFcWFITkdYNlowOEluVDNpY3dWOU84ek9mOTNQUDMxTTQyWmRBY1NZWnhOZWlTcnN1ZVFMejJwbDliQTVucklFNlRjeFp1TF9haw?oc=5",
+    "title_key": "breaking ripple affiliate sbi launches solana trading custody services cryptonewsnet",
+    "title": "Breaking: Ripple Affiliate SBI Launches Solana Trading & Custody Services - Cryptonews.net"
   }
 ]
