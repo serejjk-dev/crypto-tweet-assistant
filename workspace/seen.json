@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-04T14:12:57.086415+00:00",
-    "url": "https://decrypt.co/369994/morning-minute-crypto-crashes-new-lows-in-sight",
-    "title_key": "morning minute crypto crashes new lows in sight",
-    "title": "Morning Minute: Crypto Crashes, New Lows In Sight"
-  },
-  {
     "sent_at": "2026-06-04T20:12:15.172131+00:00",
     "url": "https://www.coindesk.com/policy/2026/06/04/occ-chief-says-democrats-applying-sole-political-pressure-in-world-liberty-charter-choice",
     "title_key": "occ chief says democrats applying sole political pressure in world liberty charter choice",
@@ -76,5 +70,11 @@
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
+  },
+  {
+    "sent_at": "2026-06-06T18:07:45.654262+00:00",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44cFVvWThZQzZRX1UtY19DanNfdFlGOFZ1YjlmcGxHdHZOQ0c5anBkTXAtbWtUc0gyZlhPTkdMLTFqU1NLT1c0dEFRWjFDNWpuSHNWSGZWdEJ1akRGRnNmSGhjRmpOOFcxQ3p6V0Nocw?oc=5",
+    "title_key": "pumpfun launches go platform for bizarre bounty tasks on solana crypto briefing",
+    "title": "Pump.fun launches GO platform for bizarre bounty tasks on Solana - Crypto Briefing"
   }
 ]
