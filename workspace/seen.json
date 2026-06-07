@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-05T08:05:46.617269+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/05/zcash-plummets-30-as-developer-reveals-a-major-bug-that-went-undetected-for-four-years",
-    "title_key": "zcash plummets 30 as shielded labs reveals a major bug that went undetected for four years",
-    "title": "Zcash plummets 30% as Shielded Labs reveals a major bug that went undetected for four years"
-  },
-  {
     "sent_at": "2026-06-05T10:06:35.132402+00:00",
     "url": "https://www.coindesk.com/markets/2026/06/05/bitcoin-plunges-to-near-usd62-000-as-the-ai-trade-unwinds-hype-falls-14",
     "title_key": "bitcoin plunges to near 62000 as the ai trade unwinds hype falls 14",
@@ -64,5 +58,11 @@
     "url": "https://www.coingecko.com/en/coins/venice-token",
     "title_key": "venice token vvv trending on coingecko market cap rank 84",
     "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #84"
+  },
+  {
+    "sent_at": "2026-06-07T08:09:36.061496+00:00",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2VaZ3BNUWRGZEZob0s1Q0tNV0d4dUtTaVgtUkNlZm5kOVZPelJtNTc0UXBiYUtpakNhNmhVT0VXWjRvc0VPcXNOdWJya2N6RnVSTjRRNENSbmcyWTRGeUJYNlhvNGtSc3RTd3BteF9iNnp6Q3dGOU5icDFTamdBSVN2Y3RRWnlOWncxWEhXUm9SSUst?oc=5",
+    "title_key": "solana drops 25 weekly as bitcoin falls below 60k testing key support amid low volume and macro pressures pluang",
+    "title": "Solana drops 25% weekly as Bitcoin falls below $60K, testing key support amid low volume and macro pressures. - Pluang"
   }
 ]
