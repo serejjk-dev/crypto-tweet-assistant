@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-06T00:07:42.776760+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15UFBLUFpFcWFITkdYNlowOEluVDNpY3dWOU84ek9mOTNQUDMxTTQyWmRBY1NZWnhOZWlTcnN1ZVFMejJwbDliQTVucklFNlRjeFp1TF9haw?oc=5",
-    "title_key": "breaking ripple affiliate sbi launches solana trading custody services cryptonewsnet",
-    "title": "Breaking: Ripple Affiliate SBI Launches Solana Trading & Custody Services - Cryptonews.net"
-  },
-  {
-    "sent_at": "2026-06-06T04:06:05.892449+00:00",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95LTVwWGRNS2pkTVI4SzhQcTB2MU9aZm8xQUZMVU8yVDNHVkFna1JkZXNhLU51LVpwMUdIRUZvVE82eTgtSXFHYnhxcWxBRjY3b0dQaVk2S1VfVWFmcjV6eVlUc1hDamdpWDBiR05QbzFyeUoxMFV6Z0xoU0RjSlE?oc=5",
-    "title_key": "solana mobile launches dapp spotlight for curated app discovery crypto briefing",
-    "title": "Solana Mobile launches dApp Spotlight for curated app discovery - Crypto Briefing"
-  },
-  {
     "sent_at": "2026-06-06T06:08:27.092979+00:00",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUlBaGVvMExybG1fLVF2ZzlQa3hBUHRPRVVZeER6SWdMdzZCQ2ROUnMtbkNKdlRkaFpOOVJBd3RQME53ZFVNWmlzb1Z4NC1GcXFJbU1LYUVDeElwQ0hiVXlVWkk3VVRXVW9LN3FtOGQtT2pzdUtxTWozOEtMRHFmVDdRMlByXzVyeF9rVkk5cTlSdFltV1ZwbTVLcGJFaEU3MndWOEdIcXA0NVhiQ1NFb3QwQ3lJd3pOX1B5UHNBRUxkUmIxbmNlaEdWd2g5MDVRMkUtSGdpWVQ?oc=5",
     "title_key": "bitcoin maximalists say the brutal price crash is just a temporary liquidity crunch caused by the ai boom coindesk",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rNDBjVEZHRzhrLW1Ud2FhSHppclFBNm5NU1dBajNvMS15OWRkZG5VaHRDbzhTTWM3bUdTeWk3OS0xaTJBdjYxUEtndWhlRkdseUZTSjNPV2dQeW9qZnhVN2Jlb3M3R0tD?oc=5",
     "title_key": "solana founder anatoly yakovenko mocks bernie sanders ai jobs warning  beincrypto",
     "title": "Solana Founder Anatoly Yakovenko Mocks Bernie Sanders’ AI Jobs Warning - BeInCrypto"
+  },
+  {
+    "sent_at": "2026-06-08T04:09:00.779802+00:00",
+    "url": "https://www.coingecko.com/en/coins/near",
+    "title_key": "near protocol near trending on coingecko market cap rank 37",
+    "title": "NEAR Protocol ($NEAR) trending on CoinGecko, market cap rank #37"
   }
 ]
