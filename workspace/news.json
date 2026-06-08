@@ -1,17 +1,17 @@
 [
   {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#6",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-08T19:59:37.825395+00:00"
-  },
-  {
     "title": "Morning Minute: Bitcoin Recovers After Fall Below $60k",
     "url": "https://decrypt.co/370303/morning-minute-bitcoin-recovers-after-fall-below-60k",
     "source": "Decrypt",
     "summary": "Crypto rebounded Monday after Friday's selloff, driven by strong jobs data, AI IPO liquidity drain and Saylor worries.",
     "published_at": "2026-06-08T12:21:16+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-06-08T19:59:37.825395+00:00"
   },
   {
     "title": "Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues",
