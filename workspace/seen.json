@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-06T12:06:19.411485+00:00",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
-  },
-  {
     "sent_at": "2026-06-06T18:07:45.654262+00:00",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE44cFVvWThZQzZRX1UtY19DanNfdFlGOFZ1YjlmcGxHdHZOQ0c5anBkTXAtbWtUc0gyZlhPTkdMLTFqU1NLT1c0dEFRWjFDNWpuSHNWSGZWdEJ1akRGRnNmSGhjRmpOOFcxQ3p6V0Nocw?oc=5",
     "title_key": "pumpfun launches go platform for bizarre bounty tasks on solana crypto briefing",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzNvc052d1EydGI4V0t6MW0wTjdGbVNIY2V3d0Fvb3hndkwyYU44U0NJeE9LY1VHWFU5cHg0QWZCTFh6OHBoakhrWC03QUF0NVJwU1NINWFYLVY2alBkZnBqbkJQVzhQeTR2eEVGbGJTcm54ZUxZQUpYa08xR3kzZlNfaDJpSEN2MV9OdENtamVJemR6Nk9ZVldkOVBxLUE?oc=5",
     "title_key": "arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers the arkansas democratgazette",
     "title": "Arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers - The Arkansas Democrat-Gazette"
+  },
+  {
+    "sent_at": "2026-06-08T12:08:33.242629+00:00",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVNxaDkzX2NZMU12MmZCNnVLV1MtZjFZMDZ5MXh6X1F0dDgyMEF4NS1scTQ1X2NGZ3FfQm0wUHBraWFZWEVCbktuVnUtM1JyUUF0azhiX1F0STYwRFdhWERRMFlpUmMwazhHVERrZ0xydm13STlPeDZnWG9CelpqOUlRYXlnTHVQQTdHVnN2eXZHZkJqckozaWdSVEdNWTNHRDJ3c3BDVDhXVE5zWnZ3SHY0alR3ZmdDYjBBMVVYMzcwblA1UmU0NTZoVE9UT2dfQUFMQlFvQko?oc=5",
+    "title_key": "duelbits launches tap trading a casino game tied to live solana price data european gaming",
+    "title": "Duelbits launches Tap Trading, a casino game tied to live Solana price data - European Gaming"
   }
 ]
