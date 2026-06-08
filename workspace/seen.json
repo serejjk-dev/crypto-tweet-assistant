@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-06T10:05:37.375782+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
-    "title_key": "wld plunges 20 as hayes dumps token a day after saying he would keep holding it",
-    "title": "WLD plunges 20% as Hayes dumps token a day after saying he would keep holding it"
-  },
-  {
     "sent_at": "2026-06-06T12:06:19.411485+00:00",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
@@ -64,5 +58,11 @@
     "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
     "title_key": "major cryptocurrencies under pressure as oil jumps 3",
     "title": "Major cryptocurrencies under pressure as oil jumps 3%"
+  },
+  {
+    "sent_at": "2026-06-08T10:07:19.709428+00:00",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzNvc052d1EydGI4V0t6MW0wTjdGbVNIY2V3d0Fvb3hndkwyYU44U0NJeE9LY1VHWFU5cHg0QWZCTFh6OHBoakhrWC03QUF0NVJwU1NINWFYLVY2alBkZnBqbkJQVzhQeTR2eEVGbGJTcm54ZUxZQUpYa08xR3kzZlNfaDJpSEN2MV9OdENtamVJemR6Nk9ZVldkOVBxLUE?oc=5",
+    "title_key": "arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers the arkansas democratgazette",
+    "title": "Arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers - The Arkansas Democrat-Gazette"
   }
 ]
