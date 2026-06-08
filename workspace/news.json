@@ -1,10 +1,10 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#1",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-08T17:42:34.626802+00:00"
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-06-08T19:59:37.825395+00:00"
   },
   {
     "title": "Morning Minute: Bitcoin Recovers After Fall Below $60k",
@@ -14,10 +14,10 @@
     "published_at": "2026-06-08T12:21:16+00:00"
   },
   {
-    "title": "Felix to Shut Down Hyperliquid-Based DEX on June 20 - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4yQWNsZmZJVTlQQ0Q3MzkyM0hPWlJ0djhueFB2R2VqX1Jqa0x5TEV0LXNwTW5STGhYd1B5T0FJa0dsdXFMaXFfMVIxVEFVR3lCVE90WU9uQQ?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "Felix to Shut Down Hyperliquid-Based DEX on June 20&nbsp;&nbsp;Cryptonews.net",
-    "published_at": "2026-06-08T17:01:20+00:00"
+    "title": "Blame bitcoin's tumble on rising inflation, not Strategy, 10xResearch argues",
+    "url": "https://www.coindesk.com/markets/2026/06/08/blame-bitcoin-s-tumble-on-rising-inflation-not-strategy-10xresearch-argues",
+    "source": "CoinDesk",
+    "summary": "The main driver behind bitcoin's weakness was ETF selling after red-hot April U.S. inflation data, 10x's Markus Thielen argued. The bounce may hinge on Wednesday's CPI data, he said.",
+    "published_at": "2026-06-08T14:37:27+00:00"
   }
 ]
