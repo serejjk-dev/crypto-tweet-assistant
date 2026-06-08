@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-06T06:08:27.092979+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTUlBaGVvMExybG1fLVF2ZzlQa3hBUHRPRVVZeER6SWdMdzZCQ2ROUnMtbkNKdlRkaFpOOVJBd3RQME53ZFVNWmlzb1Z4NC1GcXFJbU1LYUVDeElwQ0hiVXlVWkk3VVRXVW9LN3FtOGQtT2pzdUtxTWozOEtMRHFmVDdRMlByXzVyeF9rVkk5cTlSdFltV1ZwbTVLcGJFaEU3MndWOEdIcXA0NVhiQ1NFb3QwQ3lJd3pOX1B5UHNBRUxkUmIxbmNlaEdWd2g5MDVRMkUtSGdpWVQ?oc=5",
-    "title_key": "bitcoin maximalists say the brutal price crash is just a temporary liquidity crunch caused by the ai boom coindesk",
-    "title": "Bitcoin maximalists say the brutal price crash is just a temporary liquidity crunch caused by the AI boom - CoinDesk"
-  },
-  {
     "sent_at": "2026-06-06T10:05:37.375782+00:00",
     "url": "https://www.coindesk.com/markets/2026/06/06/wld-plunges-20-as-hayes-dumps-token-a-day-after-saying-he-would-keep-holding-it",
     "title_key": "wld plunges 20 as hayes dumps token a day after saying he would keep holding it",
@@ -64,5 +58,11 @@
     "url": "https://www.coingecko.com/en/coins/near",
     "title_key": "near protocol near trending on coingecko market cap rank 37",
     "title": "NEAR Protocol ($NEAR) trending on CoinGecko, market cap rank #37"
+  },
+  {
+    "sent_at": "2026-06-08T08:06:53.386468+00:00",
+    "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
+    "title_key": "major cryptocurrencies under pressure as oil jumps 3",
+    "title": "Major cryptocurrencies under pressure as oil jumps 3%"
   }
 ]
