@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-07T20:05:42.682016+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rNDBjVEZHRzhrLW1Ud2FhSHppclFBNm5NU1dBajNvMS15OWRkZG5VaHRDbzhTTWM3bUdTeWk3OS0xaTJBdjYxUEtndWhlRkdseUZTSjNPV2dQeW9qZnhVN2Jlb3M3R0tD?oc=5",
-    "title_key": "solana founder anatoly yakovenko mocks bernie sanders ai jobs warning  beincrypto",
-    "title": "Solana Founder Anatoly Yakovenko Mocks Bernie Sanders’ AI Jobs Warning - BeInCrypto"
-  },
-  {
     "sent_at": "2026-06-08T04:09:00.779802+00:00",
     "url": "https://www.coingecko.com/en/coins/near",
     "title_key": "near protocol near trending on coingecko market cap rank 37",
@@ -70,5 +64,11 @@
     "url": "https://airdrops.io/blog/spacex-ipo-spcx-onchain-airdrop/",
     "title_key": "spacex ipo spcx how to trade it onchain and farm airdrops before june 12",
     "title": "SpaceX IPO (SPCX): how to trade it onchain and farm airdrops before June 12"
+  },
+  {
+    "sent_at": "2026-06-09T22:06:11.501854+00:00",
+    "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
+    "title_key": "ethena lands janus henderson backing as asset manager invests in ena eyes usde distribution",
+    "title": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution"
   }
 ]
