@@ -1,17 +1,17 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-09T04:57:11.684406+00:00"
-  },
-  {
     "title": "Humanity Protocol token crashes more than 80% after a $32 million private-key hack",
     "url": "https://www.coindesk.com/tech/2026/06/09/humanity-protocol-token-crashes-more-than-80-after-a-usd32-million-private-key-hack",
     "source": "CoinDesk",
     "summary": "The decentralized identity project said attackers compromised the keys of a foundation member and are dumping the stolen H tokens for ether.",
     "published_at": "2026-06-09T04:54:48+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#2",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-06-09T04:57:11.684406+00:00"
   },
   {
     "title": "Chinese mining CEO says Strategy can survive a $30,000 bitcoin without selling",
