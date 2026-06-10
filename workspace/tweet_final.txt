@@ -1,1 +1,1 @@
-Real-world assets on Solana crossed $2.7 billion in total distribution, a new all-time high for the network. The chain that built its rep on memecoins and speed is now quietly becoming institutional infrastructure. few understand.
+Raydium, a Solana-based DEX, lost $1.34 million after attackers drained its legacy liquidity pools. In DeFi, 'legacy' is rarely a compliment - it means old code that still holds real money.
