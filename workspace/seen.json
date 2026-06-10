@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-08T10:07:19.709428+00:00",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzNvc052d1EydGI4V0t6MW0wTjdGbVNIY2V3d0Fvb3hndkwyYU44U0NJeE9LY1VHWFU5cHg0QWZCTFh6OHBoakhrWC03QUF0NVJwU1NINWFYLVY2alBkZnBqbkJQVzhQeTR2eEVGbGJTcm54ZUxZQUpYa08xR3kzZlNfaDJpSEN2MV9OdENtamVJemR6Nk9ZVldkOVBxLUE?oc=5",
-    "title_key": "arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers the arkansas democratgazette",
-    "title": "Arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers - The Arkansas Democrat-Gazette"
-  },
-  {
     "sent_at": "2026-06-08T12:08:33.242629+00:00",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLVNxaDkzX2NZMU12MmZCNnVLV1MtZjFZMDZ5MXh6X1F0dDgyMEF4NS1scTQ1X2NGZ3FfQm0wUHBraWFZWEVCbktuVnUtM1JyUUF0azhiX1F0STYwRFdhWERRMFlpUmMwazhHVERrZ0xydm13STlPeDZnWG9CelpqOUlRYXlnTHVQQTdHVnN2eXZHZkJqckozaWdSVEdNWTNHRDJ3c3BDVDhXVE5zWnZ3SHY0alR3ZmdDYjBBMVVYMzcwblA1UmU0NTZoVE9UT2dfQUFMQlFvQko?oc=5",
     "title_key": "duelbits launches tap trading a casino game tied to live solana price data european gaming",
@@ -64,5 +58,11 @@
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
+  },
+  {
+    "sent_at": "2026-06-10T12:07:57.958700+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMkhQZ0dxeHdWWkN0YjJkWUVnd3U5ZDBXLTFDTmtXdTZ1WWpySkhWc1dKdFd5eDZKMm9mTkFBTDFGZ0llRzNsMktmNVJVOWFOZ0dncU52RENUdw?oc=5",
+    "title_key": "chainalysis 367 million lost to defi hacks in six months as ai aids exploits cryptonewsnet",
+    "title": "Chainalysis: $36.7 Million Lost to DeFi Hacks in Six Months as AI Aids Exploits - Cryptonews.net"
   }
 ]
