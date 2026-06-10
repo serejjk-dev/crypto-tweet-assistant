@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-08T04:09:00.779802+00:00",
-    "url": "https://www.coingecko.com/en/coins/near",
-    "title_key": "near protocol near trending on coingecko market cap rank 37",
-    "title": "NEAR Protocol ($NEAR) trending on CoinGecko, market cap rank #37"
-  },
-  {
-    "sent_at": "2026-06-08T08:06:53.386468+00:00",
-    "url": "https://www.coindesk.com/tech/2026/06/08/major-cryptocurrencies-under-pressure-as-oil-jumps-3",
-    "title_key": "major cryptocurrencies under pressure as oil jumps 3",
-    "title": "Major cryptocurrencies under pressure as oil jumps 3%"
-  },
-  {
     "sent_at": "2026-06-08T10:07:19.709428+00:00",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzNvc052d1EydGI4V0t6MW0wTjdGbVNIY2V3d0Fvb3hndkwyYU44U0NJeE9LY1VHWFU5cHg0QWZCTFh6OHBoakhrWC03QUF0NVJwU1NINWFYLVY2alBkZnBqbkJQVzhQeTR2eEVGbGJTcm54ZUxZQUpYa08xR3kzZlNfaDJpSEN2MV9OdENtamVJemR6Nk9ZVldkOVBxLUE?oc=5",
     "title_key": "arkansas officials ask whether 2023 law on crypto mining also prohibits local bans on data centers the arkansas democratgazette",
@@ -70,5 +58,11 @@
     "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
     "title_key": "ethena lands janus henderson backing as asset manager invests in ena eyes usde distribution",
     "title": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution"
+  },
+  {
+    "sent_at": "2026-06-10T08:07:33.170564+00:00",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
   }
 ]
