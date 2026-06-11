@@ -1,1 +1,1 @@
-Raydium's legacy AMM pools on Solana were drained for $1.34M in a targeted exploit. The attacker hit the old pool architecture, not the newer version - exactly what 'deprecated but still live' means in DeFi. Old code doesn't retire. It gets exploited.
+SpaceX is listing on Nasdaq and Solana on the same day - its stock will exist simultaneously as a brokerage asset and an on-chain token, freely convertible between both. TradFi and DeFi just became the same thing.
