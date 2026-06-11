@@ -1,1 +1,1 @@
-CME Group launched futures on a crypto index bundling $BTC, $SOL, and $XRP into a single tradeable contract. CME has gone from listing $BTC alone in 2017 to packaging three assets into a basket product. Apparently, picking winners is for retail.
+Raydium's legacy AMM pools on Solana were drained for $1.34M in a targeted exploit. The attacker hit the old pool architecture, not the newer version - exactly what 'deprecated but still live' means in DeFi. Old code doesn't retire. It gets exploited.
