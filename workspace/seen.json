@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-10T08:07:33.170564+00:00",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1"
-  },
-  {
     "sent_at": "2026-06-10T12:07:57.958700+00:00",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMkhQZ0dxeHdWWkN0YjJkWUVnd3U5ZDBXLTFDTmtXdTZ1WWpySkhWc1dKdFd5eDZKMm9mTkFBTDFGZ0llRzNsMktmNVJVOWFOZ0dncU52RENUdw?oc=5",
     "title_key": "chainalysis 367 million lost to defi hacks in six months as ai aids exploits cryptonewsnet",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUbmE0QTNLeWR2ZGFjX1NEbmtmNWxiSWJGNThITWFRU3Uzcy1MSXpyNG5CTVFfRDlkSzJNN3RrQzZlV2VaSVVNUWpOejZLeWlwS2ppOGliS2hkdW8zY19QNDduVS1KUjY0TUdMSjNndw?oc=5",
     "title_key": "bitgo launches lightning earn to let institutions put bitcoin to work on lightning network bitcoin magazine",
     "title": "BitGo Launches Lightning Earn To Let Institutions Put Bitcoin To Work On Lightning Network - Bitcoin Magazine"
+  },
+  {
+    "sent_at": "2026-06-12T12:06:29.459936+00:00",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LYkx0R3NSNWZ4b2xqV1ctbDl0YkpFZld2MEY2YVFNZEZRYmpVVzg0MEZEUTlVdXJIcjdZUDRWaXhEZFcwaXFXa240Q09pQVdfYklPSHM2NFozMnVVU01JMWt0QnZFMDg1bjRHdHBB?oc=5",
+    "title_key": "pancakeswap launches new portfolio page for tracking tokens and positions across chains crypto briefing",
+    "title": "PancakeSwap launches new portfolio page for tracking tokens and positions across chains - Crypto Briefing"
   }
 ]
