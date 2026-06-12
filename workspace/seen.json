@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-09T22:06:11.501854+00:00",
-    "url": "https://www.coindesk.com/business/2026/06/09/ethena-lands-janus-henderson-backing-as-asset-manager-invests-in-ena-eyes-usde-distribution",
-    "title_key": "ethena lands janus henderson backing as asset manager invests in ena eyes usde distribution",
-    "title": "Ethena lands Janus Henderson backing as asset manager invests in ENA, eyes USDe distribution"
-  },
-  {
     "sent_at": "2026-06-10T08:07:33.170564+00:00",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOM2pOejNTMUNBeDJKNl9lQ2x3Z25lMFlaLWIzanMxN24waXJPcnRFbWVzbTRiVVJJamk3RXMwRHdJOGNNUU1SNm9aRTFpaTFaTFByZnhXNE9wbGlGY213RnVQdzQxQnFDOFdBTy1XaWo0bkZQY2VfbklwbFVwbVlROTd2ek15MklQS1ZxMFZ0a1FHM3hmY1FyYnFsNnNwTy15UXltTFNtaWZUZS1PaVljRWlDWXZrbFBITWpZRGtpNF9lakFjVW8wc0hYSEZvTkhzdnEydWx1ajRfWmRuYXhMellHOU9majkzZ1pnQW9YX1Q?oc=5",
     "title_key": "pandaboost unveils marketing panel for dex screener dextools and trading terminal trending services tradingview",
     "title": "PandaBoost Unveils Marketing Panel for DEX Screener, DEXTools, and Trading Terminal Trending Services - TradingView"
+  },
+  {
+    "sent_at": "2026-06-12T00:07:12.954064+00:00",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUbmE0QTNLeWR2ZGFjX1NEbmtmNWxiSWJGNThITWFRU3Uzcy1MSXpyNG5CTVFfRDlkSzJNN3RrQzZlV2VaSVVNUWpOejZLeWlwS2ppOGliS2hkdW8zY19QNDduVS1KUjY0TUdMSjNndw?oc=5",
+    "title_key": "bitgo launches lightning earn to let institutions put bitcoin to work on lightning network bitcoin magazine",
+    "title": "BitGo Launches Lightning Earn To Let Institutions Put Bitcoin To Work On Lightning Network - Bitcoin Magazine"
   }
 ]
