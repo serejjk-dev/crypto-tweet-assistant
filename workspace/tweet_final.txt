@@ -1,1 +1,1 @@
-PandaBoost launched a panel for token projects to buy trending slots on DEX Screener, DEXTools, and trading terminals simultaneously. On-chain trending used to mean real volume. Now it comes with a price tag.
+BitGo launched Lightning Earn, giving institutional clients a way to earn yield on idle $BTC by routing it through the Lightning Network. Custodians now need a yield story - just holding your coins is no longer the product.
