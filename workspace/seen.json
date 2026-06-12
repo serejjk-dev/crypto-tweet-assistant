@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-06-10T12:07:57.958700+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UMkhQZ0dxeHdWWkN0YjJkWUVnd3U5ZDBXLTFDTmtXdTZ1WWpySkhWc1dKdFd5eDZKMm9mTkFBTDFGZ0llRzNsMktmNVJVOWFOZ0dncU52RENUdw?oc=5",
-    "title_key": "chainalysis 367 million lost to defi hacks in six months as ai aids exploits cryptonewsnet",
-    "title": "Chainalysis: $36.7 Million Lost to DeFi Hacks in Six Months as AI Aids Exploits - Cryptonews.net"
-  },
-  {
-    "sent_at": "2026-06-10T14:08:05.076212+00:00",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BRHJrUnQ3TFY3MFBGa1pLMmxsVnc5bElRWlJ2QTlGYUhkM2ZaRFhjUXhTanFPejAzVFllbk9KT3NxN0g1WFNiTFJzMUlJRjZQaE45QjBIN3c4djA5U2RuUjMxYW9UZG92TmZYdzFhRndvNnVBZnZadw?oc=5",
-    "title_key": "98 fail yet pumpfun solana token launches hit 119 million the cryptonomist",
-    "title": "98% Fail, Yet Pump.fun Solana Token Launches Hit 11.9 Million - The Cryptonomist"
-  },
-  {
-    "sent_at": "2026-06-10T16:06:26.122761+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/10/u-s-inflation-meets-expectations-reinforcing-fed-s-higher-for-longer-stance",
-    "title_key": "us inflation meets expectations reinforcing feds higherforlonger stance",
-    "title": "U.S. inflation meets expectations, reinforcing Fed's higher-for-longer stance"
-  },
-  {
     "sent_at": "2026-06-10T20:06:05.776463+00:00",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCcHVWNGhVYk9TWXpjbU8taEpvaXhEb0xuVFV4ZTdGUjB2VjY3X2VGT1M0MmF0VUx5dmRxbG5CS3AtU0xTSlc0VzcyNjFoY0VneUpzT3J5VExJdw?oc=5",
     "title_key": "solana hits 27 billion alltime high in rwa distribution cryptonewsnet",
@@ -44,8 +26,8 @@
   {
     "sent_at": "2026-06-11T16:08:18.420769+00:00",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdFVBQWFqem9XakVfbmJIN01vRXBTWk5KLVNVdlRSTlVtM0g0WFc5U0dMYk1uMWs4QnNkNE5XV2hjbW1lT2h1UmRGLWJfdXB0TUFnblNZTV9MR0pVTGlHUm1DMEJNdy1EWExBamJ5ckd3ZVNjR0k5c1FYVmM2bDROUjdFNGkzeDFRRE9VWGcyd1VQdThHdGpYTFB6akoxTDlnTUtTaGdoTFFCYmNXQ2xVTkJZd1R2V3ZPalhJdko3X0JUMm42Mk1xOEwxMA?oc=5",
-    "title_key": "solana raydium dex lost 134m to hackers here\u2019s what actually happened tradingview",
-    "title": "Solana Raydium DEX Lost $1.34M to Hackers, Here\u2019s What Actually Happened - TradingView"
+    "title_key": "solana raydium dex lost 134m to hackers here’s what actually happened tradingview",
+    "title": "Solana Raydium DEX Lost $1.34M to Hackers, Here’s What Actually Happened - TradingView"
   },
   {
     "sent_at": "2026-06-11T18:09:29.307782+00:00",
@@ -76,5 +58,11 @@
     "title_key": "bitcoin and ethereum prices today friday june 12 2026 prices rebound this mornin",
     "title": "Bitcoin and ethereum prices today, Friday, June 12, 2026: Prices rebound this morning after Trump claims war has ended - Yahoo Finance",
     "sent_at": "2026-06-12T16:06:01.521902+00:00"
+  },
+  {
+    "sent_at": "2026-06-12T18:05:09.479937+00:00",
+    "url": "https://www.coindesk.com/markets/2026/06/12/monero-spiked-to-usd430-as-usd120-million-moved-through-it-then-tether-froze-usd72-million",
+    "title_key": "monero price rockets 33 to 438 amid 120 million onchain laundering maze",
+    "title": "Monero price rockets 33% to $438 amid $120 million onchain laundering maze"
   }
 ]
