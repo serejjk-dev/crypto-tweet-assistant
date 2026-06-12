@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#6",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-12T19:50:20.900699+00:00"
-  },
-  {
     "title": "Ethereum Staking Demand Soars As Investors Chase Rewards - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0J6U3B6aHJReDBxRWVURnFldG1OLUw5cV8wY29qWkpLX0hva0FrVGRWbUdTaVJEYjlBSE5nQXMxTEY4V0NJX1c4NzF5S1QzQUs5TXVSWnNHYkdqMXdDY196SDJla1FNTTAzZWwwTlJyM0NyRkdGVjBvNVNReU0tSFBnRDVJZEZuczdHQ2lVQnBvQm9INnhaMjk5WDVZWGtOekt5RHRBbw?oc=5",
     "source": "GoogleNews/crypto",
@@ -14,7 +7,14 @@
     "published_at": "2026-06-12T13:43:00+00:00"
   },
   {
-    "title": "Elon Musk's SpaceX IPO: The Bull and Bear Case for Bitcoin",
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-06-12T19:50:20.900699+00:00"
+  },
+  {
+    "title": "Elon Musk’s SpaceX IPO: The Bull and Bear Case for Bitcoin",
     "url": "https://decrypt.co/370886/elon-musks-spacex-ipo-the-bull-and-bear-case-for-bitcoin",
     "source": "Decrypt",
     "summary": "SpaceX’s $75 billion IPO has already drained crypto liquidity, but a strong first-day pop could help rotate profits back, analysts argue.",
