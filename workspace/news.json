@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
+    "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
+    "source": "CoinDesk",
+    "summary": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple\u2019s bet is that XRPL\u2019s speed, low fees and RLUSD can win a piece of that flow.",
+    "published_at": "2026-06-13T11:30:00+00:00"
+  },
+  {
     "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #79",
     "url": "https://www.coingecko.com/en/coins/venice-token",
     "source": "CoinGecko/trending#6",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Now Trading at Its Lowest Level Since December 2023, Is Solana a Buy, Sell, or Hold?&nbsp;&nbsp;The Motley Fool",
     "published_at": "2026-06-13T11:37:56+00:00"
-  },
-  {
-    "title": "Ripple wants AI agents to pay in XRP and RLUSD. The market is still mostly USDC",
-    "url": "https://www.coindesk.com/tech/2026/06/11/ripple-wants-ai-agents-to-pay-in-xrp-and-rlusd-the-market-is-still-mostly-usdc",
-    "source": "CoinDesk",
-    "summary": "The XRPL AI Starter Kit gives developers tools for agent payments, but early x402 activity has clustered on Base and Solana. Ripple’s bet is that XRPL’s speed, low fees and RLUSD can win a piece of that flow.",
-    "published_at": "2026-06-13T11:30:00+00:00"
   }
 ]
