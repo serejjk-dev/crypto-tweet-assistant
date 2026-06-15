@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-13T14:07:58.315521+00:00",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUg4R2RZbXdRM2R6Zm1DODlETmtiWWJ5Zi1aaDlZbDA1eXFiejM1a2ZaVVBBLVdxb3UtVkI2akpnY2NvdmI1VDhqcldjN0JzWm9hZ2MzRV9YTUxveHo3Vm80bDBNTXhodW9jMW8yZzV1ekc4bFNIVUNnM2dvYmVMNExtVnk1X2lZOTdCQWIxWlk?oc=5",
-    "title_key": "solana price plummets 76 as investors remain cautious  intellectia ai",
-    "title": "Solana Price Plummets 76% as Investors Remain Cautious - Intellectia AI"
-  },
-  {
-    "sent_at": "2026-06-13T16:06:12.155853+00:00",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ2lpTkdla0ppUU84TEJlSjRCQ242Q3N5VTZ3b1hkREQzY3BhWlhrRE1ueHFTM3pob2Nwbjlhc3N5QTBGcXB2eHp6VzkxZ0FveDI4Slp4Vlg4SEpLbUV4b0haOEpvRU00LWZYVmdxeVBzN0NuQTZVcS1VUUJqS0hOckRCb09ObTJGQnRCVEFB?oc=5",
-    "title_key": "tokenized spacex stocks top solana dex trading after record ipo coingape",
-    "title": "Tokenized SpaceX Stocks Top Solana DEX Trading After Record IPO - CoinGape"
-  },
-  {
     "sent_at": "2026-06-13T20:07:18.998877+00:00",
     "url": "https://www.coindesk.com/business/2026/06/13/here-s-what-spacex-s-ipo-means-for-its-usd1-3-billion-bitcoin-reserve",
     "title_key": "heres what spacexs ipo means for its 13 billion bitcoin reserve",
@@ -76,5 +64,11 @@
     "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
     "title_key": "bitcoin traders have a reason to watch tuesdays boj rate decision yen shorts are at a nineyear high",
     "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high"
+  },
+  {
+    "sent_at": "2026-06-15T16:07:03.795513+00:00",
+    "url": "https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff",
+    "title_key": "xrp rockets 8 above 120 in first major breakout since june selloff",
+    "title": "XRP rockets 8% above $1.20 in first major breakout since June selloff"
   }
 ]
