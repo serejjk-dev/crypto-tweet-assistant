@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-13T02:07:00.568108+00:00",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "title_key": "solana sol trending on coingecko market cap rank 7",
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
-  },
-  {
-    "sent_at": "2026-06-13T10:05:14.211655+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rdWpxMGx0T21QY0RhSFViNlRpWVBmeU1jVXBKcXk4UDlkQlc2bXRNSk1mZkQ0blBuUlV2QjZKWnhiQy1CWGhtSVpPU2lSZ0t3NDRLcnRsb3h6bGM4?oc=5",
-    "title_key": "securitize tokenized aaa clo fund hits solana 250m ethena backing cryptonewsnet",
-    "title": "Securitize Tokenized AAA CLO Fund Hits Solana With $250M Ethena Backing - Cryptonews.net"
-  },
-  {
     "sent_at": "2026-06-13T14:07:58.315521+00:00",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONUg4R2RZbXdRM2R6Zm1DODlETmtiWWJ5Zi1aaDlZbDA1eXFiejM1a2ZaVVBBLVdxb3UtVkI2akpnY2NvdmI1VDhqcldjN0JzWm9hZ2MzRV9YTUxveHo3Vm80bDBNTXhodW9jMW8yZzV1ekc4bFNIVUNnM2dvYmVMNExtVnk1X2lZOTdCQWIxWlk?oc=5",
     "title_key": "solana price plummets 76 as investors remain cautious  intellectia ai",
@@ -76,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeXF4YmRyaXkxdVNmeGZNa2lON0s1aENOLXNmcDRoZXBFeTlVbDZFaXZHNS1LMkV5bzJjM1pybGZBaThDVVRRZ3lFNVpsV3BIanFJYVpxaE5CTEVuNVJMMXNMV2hDdXM4OWtfN2NUNEhxTmlySGs5ZUZGWVI2bzNiRDhLS0RJSVdpTkp4akhFMGlDUXV1dmdLOWdOMHl1S0E?oc=5",
     "title_key": "bitcoin price jumps above 65k as trump announces official deal with iran cryptopotato",
     "title": "Bitcoin Price Jumps Above $65K as Trump Announces Official Deal With Iran - CryptoPotato"
+  },
+  {
+    "sent_at": "2026-06-15T10:06:31.849580+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkU1dUNUUVpjMGJmajhBQ19meGZfMDdnaS1nR1V6NHlqN1lnV2FzbzJaUDBtZXRtWmt0a0IyLWlEOG0xVjIwMnlBYVBkNHFMVjJmekhMdmMyMVIxalVubWtxRlFMZExvYW02MmtXQ3ZGR21UNmE4MmQwZHNxdTRobENWelk4b2JGaGwzN0ozMXh3Tm52S1Nudm5UVThUMUtsZFE?oc=5",
+    "title_key": "jupiter price jumps 10 as solana momentum returns to spotlight coinpedia",
+    "title": "Jupiter Price Jumps 10% as Solana Momentum Returns to Spotlight - Coinpedia"
   }
 ]
