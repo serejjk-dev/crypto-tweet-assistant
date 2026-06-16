@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-14T06:09:02.514259+00:00",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSVU0NHJ5WmdYWjhXVEF2SGNTR1luaHpZRm1lN1NSNV9BdFpnc3I0TDZ5TU1TUjE1azc4UUJQS2dYYkFrRldjY0ZCc3VHOFRoNUE1bHJVeC1EVjN4QW1JM2Fhclp1S1R5T3FNUlpha2cwelplYXpxbTV2YUdYb1dKdFpGT05Td1JVOEt5M3prZ3FKUQ?oc=5",
-    "title_key": "with bitcoin down 21 in 1 month is it still worth buying and holding forever yahoo finance",
-    "title": "With Bitcoin Down 21% in 1 Month, Is It Still Worth Buying and Holding Forever? - Yahoo Finance"
-  },
-  {
     "sent_at": "2026-06-14T18:05:05.474223+00:00",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVWVkYWJGekJCaW54OTg2WVZsUnBlWFl3cEVtaE1OWTdSSkVObU1XTTBYcS1CMDNrNGpZTWVmS3RLSUtBbG9ZZGpKdUtiQmQ0bXBfWFhIZXg4M1djSnktN3gxX05IVDVCR3VYSWNXZmxhSDdyam5ING0xbHEtcEZRbmVUMm9ZMjRmNEIzbTZ2a1lUaG5GU3dCbXZ2LTZ4cFN0anNTV1BmbW45TTdqbm5LZG9yRGhKNkVV?oc=5",
     "title_key": "ai ate the liquidity bitcoin needed says arthur hayes stocktwits",
@@ -64,5 +58,11 @@
     "url": "https://www.coingecko.com/en/coins/uniswap",
     "title_key": "uniswap uni trending on coingecko market cap rank 47",
     "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #47"
+  },
+  {
+    "sent_at": "2026-06-16T12:06:26.208589+00:00",
+    "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing",
+    "title_key": "bitcoin rallies after japan rate increase with xlm inj uni advancing",
+    "title": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing"
   }
 ]
