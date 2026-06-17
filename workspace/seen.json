@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-15T10:06:31.849580+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSkU1dUNUUVpjMGJmajhBQ19meGZfMDdnaS1nR1V6NHlqN1lnV2FzbzJaUDBtZXRtWmt0a0IyLWlEOG0xVjIwMnlBYVBkNHFMVjJmekhMdmMyMVIxalVubWtxRlFMZExvYW02MmtXQ3ZGR21UNmE4MmQwZHNxdTRobENWelk4b2JGaGwzN0ozMXh3Tm52S1Nudm5UVThUMUtsZFE?oc=5",
-    "title_key": "jupiter price jumps 10 as solana momentum returns to spotlight coinpedia",
-    "title": "Jupiter Price Jumps 10% as Solana Momentum Returns to Spotlight - Coinpedia"
-  },
-  {
-    "sent_at": "2026-06-15T12:08:46.911365+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/15/bitcoin-traders-have-a-reason-to-watch-tuesday-s-boj-rate-decision-yen-shorts-are-at-a-nine-year-high",
-    "title_key": "bitcoin traders have a reason to watch tuesdays boj rate decision yen shorts are at a nineyear high",
-    "title": "Bitcoin traders have a reason to watch Tuesday's BOJ rate decision. Yen shorts are at a nine-year high"
-  },
-  {
     "sent_at": "2026-06-15T16:07:03.795513+00:00",
     "url": "https://www.coindesk.com/markets/2026/06/15/xrp-rockets-8-above-usd1-20-in-first-major-breakout-since-june-selloff",
     "title_key": "xrp rockets 8 above 120 in first major breakout since june selloff",
@@ -76,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1NJU1gzZU5QaXlZb0hfVjFTUFRIUzFma1o5R1lOXzVqMkQxZmphWmVnTFZoMkc5ckJ1RFF5YUc2aGNSb2lUZm1WaHVOOXpXYU1ETU5mbjlBNGoxUkMtR0RXN2lEa1Z2WFNKWUUxMTJLbFoxQ0ZsSW9oSUh2Zk5xNnhJM2t5eXQ1Tl9UaVUzQXpzYmhRZXZ3bk5ONTFRZHdveDE1amtRRUVjRUNaTkJ0UEYyOA?oc=5",
     "title_key": "btc eth sol ada price bitcoin flat near 66000 as uniswap jumps 22 coindesk",
     "title": "BTC, ETH, SOL, ADA price: Bitcoin flat near $66,000 as Uniswap jumps 22% - CoinDesk"
+  },
+  {
+    "sent_at": "2026-06-17T14:08:37.296090+00:00",
+    "url": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
+    "title_key": "uniswap jumps double digits as standard chartered eyes 100 uni by 2030",
+    "title": "Uniswap Jumps Double Digits as Standard Chartered Eyes $100 UNI by 2030"
   }
 ]
