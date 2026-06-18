@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-06-16T08:06:41.081082+00:00",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "title_key": "uniswap uni trending on coingecko market cap rank 47",
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #47"
-  },
-  {
-    "sent_at": "2026-06-16T12:06:26.208589+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/16/bitcoin-rallies-after-japan-rate-increase-with-xlm-inj-uni-advancing",
-    "title_key": "bitcoin rallies after japan rate increase with xlm inj uni advancing",
-    "title": "Bitcoin rallies after Japan rate increase with XLM, INJ, UNI advancing"
-  },
-  {
-    "sent_at": "2026-06-16T18:07:57.754590+00:00",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTY2d3RINUVFVm5aZUMwdm1uczFWMGZlUTRWV3JCdDJoTXFTWko5NzF4b21Cam9BRXVnMnZLSWotaVVfTjBWZmNrOVQzZ1NlMlhlVjJLbU9OY2JKZGlXRnFRcmxWRFluQlZyUXZHckZDU2tJaFdpUmZIQ0JLV3Ata1NUbnh4Sy13dmFqTXllNDM?oc=5",
-    "title_key": "jupiter price jumps 40 as bulls challenge key resistance near 020 cryptonews",
-    "title": "Jupiter price jumps 40% as bulls challenge key resistance near $0.20 - crypto.news"
-  },
-  {
     "sent_at": "2026-06-16T20:05:33.961344+00:00",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY0tLaWdWUUFJSnYwSHREWjNfZV92bzJNQWt1MGJWV2xhRDVrTkdtbDI1bW14STZMRWtXY1FpLTVUYndJWjhaMTZuaGxUTG45bmFtaEE0blV2TF9WdFpTcVFNYjVMc3dRdTRJN20yeEtpOVIwZjgwY1dfWTY0TU4xMVd3ZmRrOFBJazdMaUdxa0s5dmRmRkJPTm5lbw?oc=5",
     "title_key": "ethereum jumps 10 as crypto trade reignites yahoo finance",
@@ -88,5 +70,11 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMUpUa29sRkloYVhzRWtKRVJFTExTNlUyWGtuTmUyQ19LMkpCRFRIVzhYNURuakNDVFdWcDAzNWNGdDdENlF3UGd6VGZwbjBfbXBBeHRoVnp0N2x4cjJjaktwMFNVUDNXQXd4WUtLaHE4U1NfNmF3c0sxbzREMVcwbXlTQzhiXzNlRGJUeUt5WEtDM1lzUjA0MDlhQQ?oc=5",
     "title_key": "binance wallet unveils web3 api for trading analytics and dapps blockchainreporter",
     "title": "Binance Wallet Unveils Web3 API For Trading, Analytics, And DApps - BlockchainReporter"
+  },
+  {
+    "sent_at": "2026-06-18T20:05:22.688325+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YejY4b0ZxUGVxdzB1MHlFV01Yc3hXa3cwNmppc0xpN3pUT1hRVnp4aVVpdEtlWEdCazZ3bmsxNDZ0b291bDNCVmJQWk05ZEVGTE5Bdg?oc=5",
+    "title_key": "kraken launches solanabased dex trading on app to expand onchain access bloomingbit",
+    "title": "Kraken Launches Solana-Based DEX Trading on App to Expand On-Chain Access - bloomingbit"
   }
 ]
