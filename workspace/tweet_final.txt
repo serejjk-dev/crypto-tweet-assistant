@@ -1,1 +1,1 @@
-Binance Wallet launched a Web3 API letting developers access trading, on-chain analytics, and DApp connections from a single interface. The world's largest CeFi exchange is now selling rails to the people building around it.
+Kraken integrated Solana DEX trading into its main app, giving users on-chain token access without leaving the exchange. Most of what crypto calls decentralized already runs through centralized front ends. Kraken just made it explicit.
