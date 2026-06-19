@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-17T06:05:47.954607+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV1NJU1gzZU5QaXlZb0hfVjFTUFRIUzFma1o5R1lOXzVqMkQxZmphWmVnTFZoMkc5ckJ1RFF5YUc2aGNSb2lUZm1WaHVOOXpXYU1ETU5mbjlBNGoxUkMtR0RXN2lEa1Z2WFNKWUUxMTJLbFoxQ0ZsSW9oSUh2Zk5xNnhJM2t5eXQ1Tl9UaVUzQXpzYmhRZXZ3bk5ONTFRZHdveDE1amtRRUVjRUNaTkJ0UEYyOA?oc=5",
-    "title_key": "btc eth sol ada price bitcoin flat near 66000 as uniswap jumps 22 coindesk",
-    "title": "BTC, ETH, SOL, ADA price: Bitcoin flat near $66,000 as Uniswap jumps 22% - CoinDesk"
-  },
-  {
     "sent_at": "2026-06-17T14:08:37.296090+00:00",
     "url": "https://decrypt.co/371393/uniswap-jumps-double-digits-as-standard-chartered-eyes-100-uni-by-2030",
     "title_key": "uniswap jumps double digits as standard chartered eyes 100 uni by 2030",
@@ -70,5 +64,11 @@
     "url": "https://www.coingecko.com/en/coins/ethereum",
     "title_key": "ethereum eth trending on coingecko market cap rank 2",
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2"
+  },
+  {
+    "sent_at": "2026-06-19T06:11:35.384655+00:00",
+    "url": "https://www.coindesk.com/markets/2026/06/19/xrp-falls-3-after-losing-usd1-15-support-as-breakout-attempt-fades",
+    "title_key": "xrp falls 3 after losing 115 support as breakout attempt fades",
+    "title": "XRP falls 3% after losing $1.15 support as breakout attempt fades"
   }
 ]
