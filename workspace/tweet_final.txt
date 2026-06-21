@@ -1,1 +1,1 @@
-Jaredfromsubway.eth, Ethereum's top MEV sandwich bot, lost $7.5M after an attacker tricked it into approving fake trading routes, then drained WETH, USDC, and USDT. The front-runner got front-run. probably nothing.
+Jupiter's $JUP jumped 12.8% as $SOL gained 5% and DEX trading volume shifted toward Solana. The aggregator routing everyone's trades outpaced the chain it runs on. Reflexivity in action.
