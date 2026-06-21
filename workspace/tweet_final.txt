@@ -1,1 +1,1 @@
-Main Street's msUSD stablecoin lost its dollar peg and crashed 90%, leaving holders with near-worthless tokens instead of the promised dollar. The 'stable' part was apparently decorative.
+Main Street's msUSD stablecoin lost its dollar peg and crashed 90%, wiping out holders who counted on the protocol to hold the 1:1 dollar peg. Turns out the name was the only thing that was stable.
