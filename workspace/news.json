@@ -1,5 +1,12 @@
 [
   {
+    "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
+    "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
+    "source": "Decrypt",
+    "summary": "Researchers estimate more than $1.7 million was stolen after attackers allegedly exploited Taiko's proof verification process.",
+    "published_at": "2026-06-22T15:31:03+00:00"
+  },
+  {
     "title": "SysAid Launches Dex: the Autonomous AI IT Engineer MSPs Pay Only When It Resolves a Ticket - EIN News",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSUhRdzhXYXkwZlJINGt0NkxMQzc1T205YjNFRjFkYzdJalprb1NUMVl0RXlzY3c0UVVaN3dmRlgyLUNUcmJRbVFyOTItaXZTbkVpWTM1eHo0bE5fNUx2SGYyVWU0REZWRW50WVpJQ1hpaXRleWZfRGU2SGdqUHIxM1pxNUJXUHUzTzJvdEltVEEwRmF1VmtPTTVDVDFlaUZqeWd4cmIySGhqRFFQc0swZEJRcEVGcTlURTROb0dPNF9VdzhocGtrSEFFMNIB0AFBVV95cUxQaVlUcWsybmtaeVRYYjNYLXZUWWZtamVxbFo4V0htTWxMMjZMSUVudHZwOGZ4NVdfT1RmdTEzSWFKTnNoR1VrbnJwb2pDVHUyVG5YSzlGVER6S25hc3N5cWpfQmdicGpvRVM4VGlFYXdsbG9wVUtWcDNxRFMybjRxbm1YZ2U2ZDh4cUxTQTZZakI4cm8wcUttdjh3MUVHcGJVbUIwZnZMSmNxYlNINWdYRFlYOE5MUi1raXRuM3p2N09HYU1mZzJxWUs1SW4tdHJw?oc=5",
     "source": "GoogleNews/swap",
@@ -12,12 +19,5 @@
     "source": "CoinGecko/trending#4",
     "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
     "published_at": "2026-06-22T18:39:03.084934+00:00"
-  },
-  {
-    "title": "Ethereum Layer-2 Taiko Warns Users to Withdraw Bridge Funds After Security Breach",
-    "url": "https://decrypt.co/371769/ethereum-layer-2-taiko-withdraw-bridge-funds-security-breach",
-    "source": "Decrypt",
-    "summary": "Researchers estimate more than $1.7 million was stolen after attackers allegedly exploited Taiko's proof verification process.",
-    "published_at": "2026-06-22T15:31:03+00:00"
   }
 ]
