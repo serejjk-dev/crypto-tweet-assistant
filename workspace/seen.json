@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-06-23T06:07:12.704054+00:00",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "title_key": "solana sol trending on coingecko market cap rank 7",
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7"
-  },
-  {
-    "sent_at": "2026-06-23T08:05:40.429605+00:00",
-    "url": "https://www.coindesk.com/markets/2026/06/23/live-updates-an-altcoin-season-signal-flashed-but-bitcoin-s-slide-is-what-set-it-off",
-    "title_key": "live updates an altcoin season signal flashed but bitcoins slide is what set it off",
-    "title": "Live updates: An 'altcoin season' signal flashed, but bitcoin's slide is what set it off"
-  },
-  {
     "sent_at": "2026-06-23T18:05:20.104439+00:00",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbzV5RFhHR1NWWV90MGI5dUVmRGRETXlSMFpPMmxiUFgwRVhFRDF0QTEyVUxPQVVNb1BGVTBGdHRxSi15ZWd5WGUybFRBS3VxdW9mSDd6Ym5rdmdTUDFGTWZRTG52RDY5b1BRUC01Uy1LY1RuWjVBdmFTWGtKSlZPRDJacFZVVEpoM2lURXg4Zi1ZdG5waTBmaA?oc=5",
     "title_key": "morgan stanley ms launches 014 ethereum and solana etfs with 95 staking rewards yahoo finance",
@@ -76,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPV2ZHaFc4NDJoZXNFVTYyVVNUXy1Gc0NBZ1JqU2I0MjJJM3NRUVpMVlBTLVZPaVNTT203eTlvYWI4QmZPLTBBaEFxZm9GUERMMjhnQ2lXY3dwRXFPbkxBVEh5NWFXeGZ1RGxuMFktYng4czAxRVFHWEFIdVZCVjdWcVJQRHNRZXB5ZUVhVGpaMmp0MWhfemc4YVFzMlJVS254a0VESlF6a2RncGo0WEVTS1pFblkzQTBOdlVPRWFvdVFIdF9Z?oc=5",
     "title_key": "serious ‘cascade’ crash warning issued as bitcoin price suddenly plunges forbes",
     "title": "Serious ‘Cascade’ Crash Warning Issued As Bitcoin Price Suddenly Plunges - Forbes"
+  },
+  {
+    "sent_at": "2026-06-25T10:05:10.289428+00:00",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHlIam1FcWoycDRZY3d2emY4cUNOb1Qyc25laklwU1Z5ckptRXliUlppbERVckF0dFo4QnhaQ3U0UDNqMFJRbC0xRm80V1hIQzFFN2ZXTUlleHdLWElNbHpQUXpQZlNvbm1NSjdSX1YybFlwQ0pZbWdHZVVwTDhWWmJJQ2gtQUZwVWhzdTZCR2dqcGFOUDR0YVVtd3RHT0hSZVAyRVM2dmJzUUtGRGZN?oc=5",
+    "title_key": "meme coin gta jumps 500 after solana launch and binance wallet listing amid gta 6 hype pluang",
+    "title": "Meme coin $GTA jumps 500% after Solana launch and Binance Wallet listing amid GTA 6 hype - Pluang"
   }
 ]
