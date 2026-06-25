@@ -1,1 +1,1 @@
-SOL Strategies launched STKESOL, a staking token that lets $SOL holders earn yield while distributing validator stakes across more nodes. Solana already has jitoSOL, mSOL, and bSOL doing roughly the same thing. Decentralization as a pitch never gets old.
+Uniswap Labs added native auction creation to its web app, letting projects launch token sales without a separate launchpad tool. On-chain auctions have existed for years. They just built the button.
