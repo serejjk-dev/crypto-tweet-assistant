@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-06-23T00:06:09.271006+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CdUViX2xvbGhaNFVZMkFRYlVmVjBJdFBUQmJsTjkzRzA2QnBqZDVNNC16UkRNVTVVLVNlbm9lMFNDX1hLY3ZQMGNSMVFQU3A5azJ4NHJiZkRsdw?oc=5",
-    "title_key": "solana treasury firm solmates largest stakeholder sues board for selfdealing fiduciary breaches cryptonewsnet",
-    "title": "Solana treasury firm Solmate's largest stakeholder sues board for self-dealing, fiduciary breaches - Cryptonews.net"
-  },
-  {
     "sent_at": "2026-06-23T06:07:12.704054+00:00",
     "url": "https://www.coingecko.com/en/coins/solana",
     "title_key": "solana sol trending on coingecko market cap rank 7",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMndyaHBjSzczbm1pNWZmZG1HZWdXZjFMd1FPa0JtdnMzTEZFcmxDa0ZQdmQzTHFrckUtZ2J0Tl9FcjBjTUpmQTYtMVp0R0JDUmNzSXpmeElWWEo1LXpaVmJrbG9UQ1ZfRm1SSUg4bE43NGlGcDUySV84ZlA0ZjBHa2pUNDdXeW43Q09oR244dzZuLVZrNGZLWGplRGh3UG1rWE43djVDcWhiZUFyNzlncVI0YnNyOFdiLUdGZkFuS25ueFFzdWlETEhQR3VmTzBXNGdyTVhtV1VveXpfWVBHbXdwSll1S05t?oc=5",
     "title_key": "uniswap labs launches auction creation directly in the uniswap web app caledonian record",
     "title": "Uniswap Labs Launches Auction Creation Directly in the Uniswap Web App - Caledonian Record"
+  },
+  {
+    "sent_at": "2026-06-25T02:05:09.035712+00:00",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByczhyMFB4eWFJUG9MeVpVVWhGRHlJcU12TFV4OXNYbFNtbHRNR2EwUlE4MHpWMDNiMlJIeVk2VDdlMi1YMEZSa3JUNmdfTFFkSm96ZzU3LWlaLUdFZW5pTm9LSFJHdkhXRmdxMEhqdG8tSHlzZUVj?oc=5",
+    "title_key": "bitcoin price collapses to 59000 — and the worst may not be over bitcoin magazine",
+    "title": "Bitcoin Price Collapses to $59,000 — and the Worst May Not Be Over - Bitcoin Magazine"
   }
 ]
