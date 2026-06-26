@@ -1,17 +1,17 @@
 [
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#1",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-26T20:25:38.839466+00:00"
-  },
-  {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
+    "source": "CoinGecko/trending#3",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-06-26T20:25:38.839466+00:00"
+    "published_at": "2026-06-26T22:01:06.267270+00:00"
+  },
+  {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#5",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-06-26T22:01:06.267270+00:00"
   },
   {
     "title": "CoinDesk 20 performance update: AAVE jumps 8.9%, leading index higher",
