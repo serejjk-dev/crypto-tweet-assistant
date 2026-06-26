@@ -1,1 +1,1 @@
-Bitcoin miners have been bleeding since the 2024 halving cut block rewards in half. Now AI data centers are competing for the cheap power and cooling that miners built to stay solvent. Accidentally the right bet
+Spark launched an FX layer on Uniswap v4 that lets users swap $USDS and other fiat-pegged stablecoins across currencies directly on-chain. Cross-border FX has been a bank monopoly for decades. DeFi just walked into forex.
