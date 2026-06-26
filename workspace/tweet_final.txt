@@ -1,1 +1,1 @@
-Paxos's $PAXG token, backed by physical gold, is now live on Solana through Jupiter DEX, letting anyone trade regulated gold exposure at near-zero fees. Gold's been a store of value for 5,000 years. It took until 2026 to swap it on a phone for less than a penny.
+Uniswap added $150M in Spark stablecoin liquidity and shipped a no-code tool that lets anyone launch a token auction - no smart contract skills required. DeFi is now as accessible as Substack. The underlying risks are not.
