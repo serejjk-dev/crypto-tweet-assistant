@@ -1,1 +1,1 @@
-Spark launched an FX layer on Uniswap v4 that lets users swap $USDS and other fiat-pegged stablecoins across currencies directly on-chain. Cross-border FX has been a bank monopoly for decades. DeFi just walked into forex.
+Solana DEX trading hit $1.73B in 24h, up 39% - one of its stronger on-chain weeks this cycle. A trader is separately calling $SOL's price floor near $8. The protocol is liquid. The thesis is not.
