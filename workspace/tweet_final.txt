@@ -1,1 +1,1 @@
-Solana's on-chain activity surged 3,200% this week while $SOL price slid and spot ETFs logged outflows. The chain is busy; the market is not convinced. One of these is usually right.
+Loopring is shutting down its DEX and relayer service, returning all user funds. A decentralized exchange closed by team announcement, assets safely returned. ZK-rollup L2 tech is thriving - Loopring's version just didn't make it.
