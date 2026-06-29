@@ -1,1 +1,1 @@
-Loopring is shutting down its DEX and relayer service, returning all user funds. A decentralized exchange closed by team announcement, assets safely returned. ZK-rollup L2 tech is thriving - Loopring's version just didn't make it.
+Loopring, Ethereum's first zk-rollup DEX, is shutting down after years of shrinking volume. It built the tech that now powers Arbitrum and zkSync - then watched everyone else scale it into billion-dollar protocols. Built the future, didn't profit.
