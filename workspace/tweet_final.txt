@@ -1,1 +1,1 @@
-Loopring, Ethereum's first zk-rollup DEX, is shutting down after years of shrinking volume. It built the tech that now powers Arbitrum and zkSync - then watched everyone else scale it into billion-dollar protocols. Built the future, didn't profit.
+Loopring, Ethereum's first zkRollup DEX, is shutting down after years of declining volume. It proved ZK scaling works years before L2s made it mainstream. First to prove it. Last to profit.
