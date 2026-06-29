@@ -1,1 +1,1 @@
-El Salvador publicly claims it buys $BTC every day; the IMF, which tied a $1.4B rescue loan to halting state Bitcoin purchases, says that's not what the data shows. Sovereign transparency, working as intended.
+XRP Ledger is exploring a reservation system for its native DEX that would change how trade orders are queued and filled on-chain. XRPL has had a built-in exchange since 2012 - fourteen years later and the execution model is still getting rethought.
