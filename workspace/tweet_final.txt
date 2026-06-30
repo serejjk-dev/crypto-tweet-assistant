@@ -1,1 +1,1 @@
-Bitcoin dropped to a new 2026 low today, prompting financial media to declare 'crypto winter.' The term doesn't predict the decline - it just shows up once the damage is done, nods gravely, and calls itself analysis.
+Ripple's CTO Emeritus proposed a fix for front-running on the XRPL DEX, where validators reorder trades to extract profit before others execute. Ethereum had a name for this five years ago - MEV. $XRP is catching up.
