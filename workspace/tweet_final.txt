@@ -1,1 +1,1 @@
-Ripple's CTO Emeritus proposed a fix for front-running on the XRPL DEX, where validators reorder trades to extract profit before others execute. Ethereum had a name for this five years ago - MEV. $XRP is catching up.
+Ionic Digital, a bitcoin miner and AI infrastructure firm, filed for a Nasdaq direct listing. No new shares, no fundraise - just making existing stock tradable. When mining margins shrink, you add 'AI' to the pitch.
