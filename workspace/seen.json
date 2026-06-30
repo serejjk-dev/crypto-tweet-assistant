@@ -100,5 +100,12 @@
     "title_key": "upexi partners with blueprint to stake solana holdings investingcom",
     "staged_at": "2026-06-30T14:12:59.262101+00:00",
     "source": "GoogleNews/defi"
+  },
+  {
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "title_key": "bitcoin btc trending on coingecko market cap rank 1",
+    "staged_at": "2026-06-30T22:11:31.368377+00:00",
+    "source": "CoinGecko/trending#2"
   }
 ]
