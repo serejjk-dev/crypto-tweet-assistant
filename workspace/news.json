@@ -1,12 +1,5 @@
 [
   {
-    "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
-    "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
-    "source": "Decrypt",
-    "summary": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
-    "published_at": "2026-07-01T20:56:38+00:00"
-  },
-  {
     "title": "Solana USDC Liquidity Jumps As Circle Mints Another $1 Billion - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdlkweVVYWnVvMi0yMTRvYXZ4SUFEbDVoX3cwVXFHMkhBMndsOVNIR3JHbjN6a1lqc2ZYTXMzeGxPT05qT1lNbEIxZHU0RFZBODFiVmhxejMxekNrMGJtSWEzZEFlZGI1VVlpd2ZaNlFESjdEZWtkNGxvZFdSMVJMVkRSNkpOc1oyU1BKS1BVTGlFRlhvTmYzeWRLLTFJb3dsbVJiWWtRdENrQmFfN0stYzNnaGx4bE0zVDk4?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-07-01T16:15:00+00:00"
   },
   {
-    "title": "Very Network warned users about fake $VERY token on Solana-based DEX - CryptoNews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BSkxIaFFQUEdUU2xKaFFkc3BVOWo0N0ktenhDNk5rZEhPNkh6cUt5Ujc3WFNCUWc5RzluUmtDczV2WEZ6ZmJWemZ6TG8xRE92blBEYW1fVjM0Zw?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "Very Network warned users about fake $VERY token on Solana-based DEX&nbsp;&nbsp;CryptoNews.net",
-    "published_at": "2026-07-01T18:48:59+00:00"
+    "title": "Solana Launches Onchain Governance With Stake-Weighted Voting for Validators - The Defiant",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0V5Rng2VDNkd1Z0d1hnSmNtaE9IQ1pOeDdTMU5la1NnRER5Yll5NVlab1A1SnBHcUY1VkM0Z1FHZkVUam1sZVNuNTgtSEU3SGdQbHY4Y3ljdEljT2E0SXdRSWwtUWhpdGszQTY3Zi1FMmZPRWNKeG9mYjQ0bHVMNlQ5MTUyM3VFSXFZbW42R0x4OWI2VGltRmVvcw?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Launches Onchain Governance With Stake-Weighted Voting for Validators&nbsp;&nbsp;The Defiant",
+    "published_at": "2026-07-01T21:19:05+00:00"
+  },
+  {
+    "title": "Robinhood Launches 'AI-Native' Ethereum Layer-2 Network, Tokenized Stock Trading",
+    "url": "https://decrypt.co/372614/robinhood-ai-native-ethereum-layer-2-network-tokenized-stock-trading",
+    "source": "Decrypt",
+    "summary": "Brokerage and crypto exchange Robinhood opened the public mainnet for its Arbitrum-powered Ethereum layer-2 network on Wednesday.",
+    "published_at": "2026-07-01T20:56:38+00:00"
   }
 ]
