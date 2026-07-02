@@ -1,1 +1,1 @@
-dYdX Labs launched Arcus DEX on Robinhood Chain, adding perp trading to the US broker's blockchain. dYdX spent years building its own chain specifically to ditch centralized infrastructure. Now it's deploying on Robinhood's. Probably nothing.
+THEA raised $8M to build an AI coordination layer on Solana, letting autonomous agents route decisions and transactions on-chain. Six months ago this was called a 'routing protocol.' AI in the name makes it fundable.
