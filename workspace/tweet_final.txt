@@ -1,1 +1,1 @@
-Solana Foundation launched on-chain governance requiring 100,000 staked $SOL to submit proposals, with all voting stake-weighted. Anyone can vote; only large holders can set the agenda. Plutocracy dressed as protocol.
+Solana Foundation launched on-chain governance, requiring 100,000 $SOL staked to submit proposals. At current prices, that's several million dollars just to put something to a vote. Community governance for the community that can afford it
