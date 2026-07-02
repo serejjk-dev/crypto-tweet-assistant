@@ -1,1 +1,1 @@
-Robinhood launched its own blockchain called Robinhood Chain, sending $HOOD shares up 8%. The company that paused retail trading during the 2021 GameStop squeeze now wants to own the rails those trades run on.
+dYdX Labs launched Arcus DEX on Robinhood Chain, adding perp trading to the US broker's blockchain. dYdX spent years building its own chain specifically to ditch centralized infrastructure. Now it's deploying on Robinhood's. Probably nothing.
