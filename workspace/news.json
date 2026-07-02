@@ -1,10 +1,17 @@
 [
   {
-    "title": "Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
-    "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-    "source": "CoinDesk",
-    "summary": "",
-    "published_at": "2026-07-02T09:42:41+00:00"
+    "title": "Solana Launches On-Chain Governance, Requires 100,000 Staked Tokens to Submit Proposals - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tNVpxaWNrY2swSzljSTI1TEJBa2g3UzlpYlB2U3hPVlptdW00TDlaeWNTLXNnU3B6M3U1YTlWM0lBQlYtRVV5YmlqXzRwU2NEUzdIQw?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Launches On-Chain Governance, Requires 100,000 Staked Tokens to Submit Proposals&nbsp;&nbsp;bloomingbit",
+    "published_at": "2026-07-02T11:15:21+00:00"
+  },
+  {
+    "title": "Solana Foundation launches on-chain governance proposals for stake-weighted community votes - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE92UkhTRjFFUGRjVWNHQ2xRQjd3bEJoRS1yWVc1NUlrckJZSzB4NUh3cVhhd2pHZE9tRHAycVBiMDE0SHpRRXdiUHlFRVVHTXQxMW5Qdk5OMkdYbGNEM3lkdm1ZQTlkXzVoTVNaZmJIa1NyUQ?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Foundation launches on-chain governance proposals for stake-weighted community votes&nbsp;&nbsp;Crypto Briefing",
+    "published_at": "2026-07-02T11:06:08+00:00"
   },
   {
     "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked - CoinDesk",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked&nbsp;&nbsp;CoinDesk",
     "published_at": "2026-07-02T09:08:04+00:00"
-  },
-  {
-    "title": "Solana launches onchain governance and sets entry fee at 100,000 SOL staked",
-    "url": "https://www.coindesk.com/markets/2026/07/02/solana-adds-onchain-governance-with-usd7-7-million-sol-needed-to-open-proposals",
-    "source": "CoinDesk",
-    "summary": "Validators and the people who stake with them can now formally signal where the network should go through a new system called Solana Governance Proposals. Any validator with 100,000 SOL behind it can open one, and stakers can overrule how their validator votes.",
-    "published_at": "2026-07-02T07:15:21+00:00"
   }
 ]
