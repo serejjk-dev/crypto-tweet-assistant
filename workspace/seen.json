@@ -107,5 +107,12 @@
     "title_key": "bitcoin btc trending on coingecko market cap rank 1",
     "staged_at": "2026-06-30T22:11:31.368377+00:00",
     "source": "CoinGecko/trending#2"
+  },
+  {
+    "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
+    "title": "Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
+    "title_key": "live markets bitcoin holds above 60000 as yen jumps on intervention fears",
+    "staged_at": "2026-07-02T10:00:00+00:00",
+    "source": "CoinDesk"
   }
 ]
