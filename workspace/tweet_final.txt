@@ -1,1 +1,1 @@
-Robinhood opened the public mainnet of its Arbitrum-based Ethereum L2, adding tokenized stock trading for retail users. A brokerage famous for gamifying retail investing now has its own chain. Somewhere, Coinbase lawyers are reading this very carefully.
+Robinhood went live with its Ethereum layer-2 mainnet, built on Arbitrum and branded 'AI-native,' with tokenized stock trading from day one. The actual product is an Arbitrum rollup with a brokerage UI. The 'AI-native' part is the press release.
