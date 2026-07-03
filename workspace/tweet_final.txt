@@ -1,1 +1,1 @@
-THEA raised $8M to build an AI coordination layer on Solana, letting autonomous agents route decisions and transactions on-chain. Six months ago this was called a 'routing protocol.' AI in the name makes it fundable.
+dYdX Labs launched Arcus DEX on Robinhood Chain, the new blockchain Robinhood debuted this week. Robinhood spent years giving retail users custodial $BTC. Now it has its own chain with DeFi protocols building on day one.
