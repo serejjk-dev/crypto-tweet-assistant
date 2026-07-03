@@ -1,1 +1,1 @@
-EX DeFi launched a mobile app promising $ETH and $XRP earnings with zero crypto expertise required. The 'everyone can earn' pitch is as old as DeFi itself - they just added AI to the name this time.
+Uniswap is surging again, and the explainer pieces are back. Short answer: a constant product formula (x*y=k) where each trade shifts the pool ratio and reprices automatically. Same mechanism since 2018. The curiosity peaks mid-rally.
