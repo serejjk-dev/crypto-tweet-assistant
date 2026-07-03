@@ -1,1 +1,1 @@
-Several meme tokens on Solana-based DEXes jumped as much as 9,000% today, driven by fast liquidity rotations and social momentum. The gurus posting about it right now were not posting about it six hours ago.
+Solana activated binding on-chain governance today, letting stakers override validator decisions on protocol changes. To submit a proposal, you need 100,000 $SOL staked. Decentralized governance, with a stake minimum that reads more like a board seat.
