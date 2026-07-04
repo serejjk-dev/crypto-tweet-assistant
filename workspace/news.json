@@ -1,17 +1,17 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-04T12:00:37.235760+00:00"
-  },
-  {
     "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
     "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
     "source": "CoinDesk",
     "summary": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
     "published_at": "2026-07-04T12:00:00+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#5",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-04T12:00:37.235760+00:00"
   },
   {
     "title": "Solana breaks above $80 as institutional push lights up SOL rally - Cryptonews.net",
