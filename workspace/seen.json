@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://www.coindesk.com/tech/2026/07/02/live-markets-bitcoin-holds-above-usd60-000-as-yen-jumps-on-intervention-fears",
-    "title": "Live markets: Bitcoin holds above $60,000 as yen jumps on intervention fears",
-    "title_key": "live markets bitcoin holds above 60000 as yen jumps on intervention fears",
-    "staged_at": "2026-07-02T10:00:00+00:00",
-    "source": "CoinDesk"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4tNVpxaWNrY2swSzljSTI1TEJBa2g3UzlpYlB2U3hPVlptdW00TDlaeWNTLXNnU3B6M3U1YTlWM0lBQlYtRVV5YmlqXzRwU2NEUzdIQw?oc=5",
-    "title": "Solana Launches On-Chain Governance, Requires 100,000 Staked Tokens to Submit Proposals - bloomingbit",
-    "title_key": "solana launches onchain governance requires 100000 staked tokens to submit proposals  bloomingbit",
-    "staged_at": "2026-07-02T14:11:01.868930+00:00",
-    "source": "GoogleNews/defi"
-  },
-  {
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVXpIT005eGlDN2hEOGtuSFVJdTFqbmRKZk5GRGhYeWtTTXRMalpVODdKQW5QWlNnYVNHdVgzbWhveWNPLUdyQ2w1a1BLSVQ1NHBLSjFhbk1WODdpbUxPLWs5WS1zSk9hVjlwYVpLWkFRTF85Vk1OZHBXTmZRSUxPR0FERmlWN2ZkVk1va3JHYw?oc=5",
     "title": "dYdX Labs launches Arcus DEX on Robinhood Chain... - Pluang",
     "title_key": "dydx labs launches arcus dex on robinhood chain pluang",
@@ -39,5 +25,11 @@
     "title_key": "uks bold new crypto rules promise to unlock global trading but huge compliance hurdles still threaten the rollout",
     "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
     "sent_at": "2026-07-04T14:11:14.397276+00:00"
+  },
+  {
+    "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+    "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+    "title_key": "bitcoin jumps above 63000 reversing endjune losses",
+    "staged_at": "2026-07-04T22:12:55.289693+00:00"
   }
 ]
