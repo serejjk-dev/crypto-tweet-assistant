@@ -1,10 +1,17 @@
 [
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#1",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-05T23:57:38.993369+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
     "source": "CoinGecko/trending#5",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-05T22:50:49.019497+00:00"
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-05T23:57:38.993369+00:00"
   },
   {
     "title": "Strategy (MSTR) Approves $1.25 Billion In Bitcoin Sales To Fund Buybacks - Yahoo Finance",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/crypto",
     "summary": "Strategy (MSTR) Approves $1.25 Billion In Bitcoin Sales To Fund Buybacks&nbsp;&nbsp;Yahoo Finance",
     "published_at": "2026-07-05T18:08:14+00:00"
-  },
-  {
-    "title": "Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNDFQWTYya1FaSDRhYmZCQTh3aHdpSmNnYW5LUEF1OEotSkhsZXdka25oZUV1LWczdHhQaFd2dWFiZDFyMFR6Z1NMQmpFdHltNnlfdjQ3d1pCV0sxZkI2TS1uZ1QzWmg0eVFTTHF0dTlXeGFOSGZkRlhSd0NzOURLS3pmcWowUE9fQmlLMmRFRl9rMm9mVDlR?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Trump Crypto Profits Hit $1B as Bitcoin Crashes 50% From Its ATH&nbsp;&nbsp;Yahoo Finance",
-    "published_at": "2026-07-05T13:13:56+00:00"
   }
 ]
