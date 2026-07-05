@@ -1,17 +1,10 @@
 [
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#6",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-05T11:21:54.662508+00:00"
-  },
-  {
-    "title": "Viral Altcoin Skyrockets by 80% Daily, Bitcoin (BTC) Flirts With $63K: Market Watch - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdYeHhDZVByc1lUSWlfYmpiUzlYeGlwTjMtQ3Z4dm9TTWt4a2VBdUM5di1WRURIbG0xSVIyLWhReVhfeERrc2FYUFgxNVdaOXlUeUJnNkg5dDA1SkJBaldiVUhKb2FXR2Q2aW1nczU3YW0yWHc5NWVPMVJrT0lhM25MTmRpNHVpV241cG12MWw2YU5SUlZLa2QxNklqbFcwZjFEUU1R?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Viral Altcoin Skyrockets by 80% Daily, Bitcoin (BTC) Flirts With $63K: Market Watch&nbsp;&nbsp;CryptoPotato",
-    "published_at": "2026-07-05T08:30:59+00:00"
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #42",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "source": "CoinGecko/trending#5",
+    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-05T13:04:35.133964+00:00"
   },
   {
     "title": "The Next Hyperliquid? Top 5 Perp DEX Tokens with Explosive Upside Potential - Bitcoin Foundation",
@@ -19,5 +12,12 @@
     "source": "GoogleNews/swap",
     "summary": "The Next Hyperliquid? Top 5 Perp DEX Tokens with Explosive Upside Potential&nbsp;&nbsp;Bitcoin Foundation",
     "published_at": "2026-07-05T07:36:06+00:00"
+  },
+  {
+    "title": "Viral Altcoin Skyrockets by 80% Daily, Bitcoin (BTC) Flirts With $63K: Market Watch - CryptoPotato",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcUdYeHhDZVByc1lUSWlfYmpiUzlYeGlwTjMtQ3Z4dm9TTWt4a2VBdUM5di1WRURIbG0xSVIyLWhReVhfeERrc2FYUFgxNVdaOXlUeUJnNkg5dDA1SkJBaldiVUhKb2FXR2Q2aW1nczU3YW0yWHc5NWVPMVJrT0lhM25MTmRpNHVpV241cG12MWw2YU5SUlZLa2QxNklqbFcwZjFEUU1R?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Viral Altcoin Skyrockets by 80% Daily, Bitcoin (BTC) Flirts With $63K: Market Watch&nbsp;&nbsp;CryptoPotato",
+    "published_at": "2026-07-05T08:30:59+00:00"
   }
 ]
