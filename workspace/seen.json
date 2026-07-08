@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-06T14:10:40.103275+00:00",
-    "url": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
-    "title_key": "crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
-    "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness"
-  },
-  {
     "sent_at": "2026-07-06T18:11:48.897819+00:00",
     "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
     "title_key": "strategy selling hundreds of millions worth of bitcoin raises question about its capitalallocation playbook",
@@ -14,8 +8,8 @@
   {
     "sent_at": "2026-07-06T20:11:04.120393+00:00",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNDZJMHVjUzdCSE82MmVoOVV4OXZGQ1hIdVdjX0ppVk9ERFhra0V2bUJlRVg0Y3BwT3pIQzBmbTczUk82SzBKdGRjcEJKRWFnS1ZiYWtNYnVCWkNsR0ZhNWxVeDlWQWdfRGRMTEpENGt0djA0OUNBVEc0MVM1c1ZZS2VUaFprM2MtNFgzTWpvenBiUQ?oc=5",
-    "title_key": "tom lee’s bitmine adds 73 million in ethereum while strategy dumps bitcoin yahoo finance",
-    "title": "Tom Lee’s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin - Yahoo Finance"
+    "title_key": "tom lee\u2019s bitmine adds 73 million in ethereum while strategy dumps bitcoin yahoo finance",
+    "title": "Tom Lee\u2019s BitMine Adds $73 Million in Ethereum While Strategy Dumps Bitcoin - Yahoo Finance"
   },
   {
     "sent_at": "2026-07-07T06:13:01.908462+00:00",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUkNzNlVDaGpsUUxjSEpIclI0VzBjS3ZjMWhzZ1FxRF9ROFo1MlBqQ1g4V1pmS0RRY1RNOVRDMDM5bHRFUHBFQW9HYU9TQ0cyaWlCU3Vtal9ULXZFQnJIOXFlckJzVXBaMFA4ZlVTRlVkWWo2R3pONzhqZUtxLUY0NXN3OFR1TldqVnZtVnR2UWVhbFlDdVFfXzY4eGtKVXA5aFY1UnFqQQ?oc=5",
     "title_key": "perpetual futures are coming to a popular solana crypto wallet thats why im considering buying solana right now yahoo finance",
     "title": "Perpetual Futures Are Coming to a Popular Solana Crypto Wallet. That's Why I'm Considering Buying Solana Right Now. - Yahoo Finance"
+  },
+  {
+    "sent_at": "2026-07-08T14:10:46.448121+00:00",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xMWNuZDI5TjUxdkp0cHpBODJJZ1gyVl9EWlVzb3FJMW5MYzZ5VmJGVW9hMlNkX1ZrX0FOaVVrN1FzOHpYUG9zSGNvYnRfb2hHRm94amFEdlJOZU92azFzay1xTUF4UjBMUmptVXVuVGgyamg2dlhLaw?oc=5",
+    "title_key": "us sec unveils crypto safe harbor rules for startups defi bitcoin foundation",
+    "title": "US SEC Unveils Crypto Safe Harbor Rules for Startups, DeFi - Bitcoin Foundation"
   }
 ]
