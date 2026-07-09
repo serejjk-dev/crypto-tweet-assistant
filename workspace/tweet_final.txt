@@ -1,1 +1,1 @@
-Robinhood CEO Vlad Tenev posted a tutorial on bridging assets from Solana to Robinhood Chain. A company that started as a stock app now has its own blockchain and is recruiting DeFi users. The categories dissolved.
+Polymarket's Bitcoin prediction markets let anyone bet on $BTC price targets with stablecoins - no keys, no spot position, no withdrawal delays. You're not buying the asset; you're renting its price signal.
