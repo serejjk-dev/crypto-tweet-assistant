@@ -1,1 +1,1 @@
-Solana is adding compliance-screened transaction lanes so that institutions can skip trading with flagged addresses. Harry Hwang's warning: whichever venues run those lanes will capture most institutional flow. Decentralized infrastructure, concentrated liquidity.
+Robinhood Chain crossed $560M in daily DEX volume in its first week, pulling in 140,000 new wallets. TradFi came to DeFi, realized the UX was broken, and just built its own chain. Now watch the others follow.
