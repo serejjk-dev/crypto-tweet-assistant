@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #39",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#6",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-10T22:49:04.329159+00:00"
-  },
-  {
     "title": "Solana wallet linked to genesis distribution loses $14.2M in theft - Crypto Briefing",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRGFWYTRnc0NlUGlMblVBSFhESFIxb2lrN2dMQURlZFNsMlY1LVVvY3IyVFF2emZ1RGU0MFFxeU53VTh1dHJyUWdzN3ppZlJSczZkRlBvaWd1cUxxQVJEeVZoWDhyMDhqRlM0?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-07-10T13:35:01+00:00"
   },
   {
-    "title": "Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ3BmeGtoRlA3UkM5VzNrQzNPNW9OTXBBdG1lTTBxWFF5dnZuZlVDdU8wTlZHcy0tRXVMWUtPdUpUOW1PUXc5YmkxVEdVUnVyUTYxTzRqem5zX0pzX3RiVmZkQ2lGVnM0VXp4a296emJCRGdnVy1PRktYdHJrUDljY3RxNU5wVXpXamlYXzR6b3ZwMGhZcUIweFVaNWNKVDRhb2o2VjdJYTQySk1sTG9hS2VBMHNqelBVT0t2cmgyUQ?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin Rallies Toward $65,000 Level As Multiple Factors Drive Gains&nbsp;&nbsp;Forbes",
-    "published_at": "2026-07-10T20:23:36+00:00"
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#6",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-10T23:46:21.020917+00:00"
+  },
+  {
+    "title": "Bitcoin Treasury Firm Empery Digital Dumps Nearly Half of BTC Holdings for $87 Million",
+    "url": "https://decrypt.co/373278/bitcoin-firm-empery-digital-dumps-half-btc-holdings-87-million",
+    "source": "Decrypt",
+    "summary": "Nasdaq-listed Empery Digital said it sold 1,400 Bitcoin since May to help fuel an AI data center deal, legal bills, and other expenses.",
+    "published_at": "2026-07-10T18:54:46+00:00"
   }
 ]
