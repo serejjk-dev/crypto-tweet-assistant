@@ -1,10 +1,17 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-11T22:35:39.561316+00:00"
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #39",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "source": "CoinGecko/trending#4",
+    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-11T23:42:00.339911+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-11T23:42:00.339911+00:00"
   },
   {
     "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
@@ -12,12 +19,5 @@
     "source": "CoinDesk",
     "summary": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
     "published_at": "2026-07-11T12:25:05+00:00"
-  },
-  {
-    "title": "Internet Computer: MULTI/DEX Live - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORnV1dGFQdlpKZngxbGJhT3Y2NDk2X3d6bFI2Vlh0NTJPbkwwbTg4THc3WGE3Rmp5STQ2QVk2RmlaYUVteVkzakxpc1E2Q1RDMU1nZVgyYW1LazFMeFg1MFRUZGJwcW53SU56NFlnVGZ3SHFIY2VtVkdXSGhXaFdielZhbDQxSDBKWnByeDU2WWhCbWdndG1NYkhuYUw?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "Internet Computer: MULTI/DEX Live&nbsp;&nbsp;TradingView",
-    "published_at": "2026-07-11T21:11:19+00:00"
   }
 ]
