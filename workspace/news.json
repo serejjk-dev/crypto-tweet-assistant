@@ -2,9 +2,9 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
+    "source": "CoinGecko/trending#4",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-11T17:44:19.523411+00:00"
+    "published_at": "2026-07-11T18:42:39.338284+00:00"
   },
   {
     "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
@@ -14,10 +14,10 @@
     "published_at": "2026-07-11T12:25:05+00:00"
   },
   {
-    "title": "Bitcoin Stocks To Watch Before The July CPI Report - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTGVYVkVTYUZkemQ3R09YbXM3MmFfYm5DWVlXd094aUtHTFRqT0JxcHp4MmpNRlIxTnMwcEk1dG41djdBU3ZMYVVPNWVIcEJJV3o5b2ZaTkw1MDZJc3RrT2JXU3RDalNGeUx4OHo3OWJkTFpfMFFNUWNaOFRmbFpYcDBiR01ZNVJCRWpYeVluSjY1MldHV3U5akJ4eFVRLS1wZEtxX3RCVFl5VzYxU3M4enZXSkdPX2l4SnBOWF93Y0xpQXPSAcgBQVVfeXFMTUpEY2pLaWFrMWNUNUZDQTA2Wmtxc2NUUVBQWHJKTG1KaG93QUhESUFWZTFGeVo4VmpaYldWZTNKUC1BaVBEVWJhWE03cHdTTGtsUmVvNk9BTXQta0ZsWk1YUzhjZjlReUNQbnY1S1pMY2tSM2s0RTFJdzNWZ3hrbmpsSkZiaFVNQnZFUkdiV242c09oSTBma0tsUmhEa25rTURXUHBRVFNXOFZHVXpWRlN0RmwxLTljNkU3YjM4RG9wajRxR3ZUYUg?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin Stocks To Watch Before The July CPI Report&nbsp;&nbsp;simplywall.st",
-    "published_at": "2026-07-11T17:33:39+00:00"
+    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
+    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
+    "source": "CoinDesk",
+    "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
+    "published_at": "2026-07-11T18:06:58+00:00"
   }
 ]
