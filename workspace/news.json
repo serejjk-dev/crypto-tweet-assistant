@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#6",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-07-11T21:38:17.957653+00:00"
+  },
+  {
     "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
     "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
     "source": "CoinDesk",
@@ -7,17 +14,10 @@
     "published_at": "2026-07-11T12:25:05+00:00"
   },
   {
-    "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-    "url": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-    "source": "CoinDesk",
-    "summary": "Bonzo Lend lost approximately $9.05 million after an attacker exploited a verification flaw in a third-party Supra oracle contract on the Hedera network.",
-    "published_at": "2026-07-11T18:06:58+00:00"
-  },
-  {
-    "title": "Solana holds $78 support amid 1,000th epoch mil... - Pluang",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWkZXbENiRnR4dzVjb1JMUHN1dUVFWTI0c0w2SGlDNC1ya3N0Z3BPRW1YbGFBZWtPdXh5QnFuRUI5N2hmX3hQUzZRWW9NbG45em1FZWpoNk1VVHp5WkI2eHRwSEJYdTVhdll6cHdlanE4blQ1SVJjbGRKa0pTUFJsUnZDOFl6NDU1N0xWTEx0Tjl1UUttVktuNw?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Solana holds $78 support amid 1,000th epoch mil...&nbsp;&nbsp;Pluang",
-    "published_at": "2026-07-11T19:39:19+00:00"
+    "title": "Ethereum Rallied 8% This Month While XRP Fell. Which Is the Better Buy? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZnZOd19fNksxZHZzSEVFMWJ6UWFEcGNOWWRSU1ZkbUdEdzdlYkdzdG5DTE15VmRKQ0pBSC13SlM2TkNrdlk2MUV6d3MzQzljOUFpZXJsN1QwSG1UOGVDMXAydWVsZ0RTWHdlUktWQVRzcEJDZ0hCS2tuQUFjMV9neFF0dFpCcFlrOHU1ZnRhU2tiUllQVGhaWWVOeHVjTXQ2NkNvb1ZkSHRnYjRrUWxNM21RVnI1dzhhWWlzbWJtZWpyRnd2Vnc?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Ethereum Rallied 8% This Month While XRP Fell. Which Is the Better Buy?&nbsp;&nbsp;24/7 Wall St.",
+    "published_at": "2026-07-11T21:29:23+00:00"
   }
 ]
