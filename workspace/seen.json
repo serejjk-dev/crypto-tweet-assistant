@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-12T16:11:09.668772+00:00",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "title_key": "uniswap uni trending on coingecko market cap rank 39",
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #39"
-  },
-  {
     "sent_at": "2026-07-12T18:10:28.780799+00:00",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VanB2blB3TUJ4c2Y5QVIyb0QzVkVnNkptT2dSWDZXVUJhSGRLa3ZjVkhKOUE3MDhDOEU1Sm9sWGhzRHN2blJiZ0hGa1FUbEFzR0sxVG1mYzZLd2JGcUJ3bXd5V0JpanZXaW9PQ25LY2E2UzFNTGNyMEgwZGVMQQ?oc=5",
     "title_key": "fomo surpasses jupiter and phantom in 24hour revenue on solana crypto briefing",
@@ -83,5 +77,11 @@
     "title_key": "solana ranks first in 24hour dex volume at 415b leaving comp",
     "title": "Solana ranks first in 24-hour DEX volume at $4.15B, leaving competitors in the dust - Crypto Briefing",
     "sent_at": "2026-07-14T12:10:46.034103+00:00"
+  },
+  {
+    "sent_at": "2026-07-14T16:12:04.546146+00:00",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeU84Y3JQMml6SU43UFhLd3hyVnBfX2NILUVMblUxLUx4WTRuSnF3YU1vaTdJNGRkWWE1Q0JUQ19Xazdyem5yY0M4SVZSSEtubEhuX2lyeVRBZ0V1X3RkTzlieXRJdUpuUnhSUEppdEZzOFk5dG9HVlgzNGMteTV6eTB4Z004czRyWEZveUNveE5NSmgxQVhpWHVhdVNJSTA2ZzZlSGpTSdIBrAFBVV95cUxOTy1SWVgzem43UjN3dmM3eTV3dFJ6NXloNFJ1SHJOTFBBcHczNGRKQ2txR21lc2hqSW1lblBCQ2owY2tiaEFtRFdPYlQ0UVFrczhweFdhTEl0SGFUMzJDWDNQcnJtUndicHBzNDQ2UEhTRjh0ZUY2LTZ5NF92ZmNqQ2JFZHhGWjBHaUlLNVl0TF9DODhfTlRIdUdxR040N0Q1Y2ZvOHVDMVktdW1w?oc=5",
+    "title_key": "uniswap price rallies after fee switch proposal—can uni hit 5 next coinpedia",
+    "title": "Uniswap Price Rallies After Fee Switch Proposal—Can UNI Hit $5 Next? - Coinpedia"
   }
 ]
