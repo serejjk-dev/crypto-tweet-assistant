@@ -9,15 +9,15 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#3",
+    "source": "CoinGecko/trending#2",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-14T18:59:51.015645+00:00"
+    "published_at": "2026-07-14T20:48:04.843312+00:00"
   },
   {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#6",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-14T18:59:51.015645+00:00"
+    "title": "Solana leads all L1 and L2 chains in weekly DApp revenue and DEX volume - Crypto Briefing",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YOWNZejd2Q3JTLVpnLTlXMmhiVjBTbDZVYnk2WE5YNUxaSE43WDR5X29valFGSWs1dnZWenZXU29va3JjMHJQWG1FclBaMFBPY2VMWmlZb0tOa1cwTnpuQlhEdUZNYllBbU1QOVN4Vk45Zw?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana leads all L1 and L2 chains in weekly DApp revenue and DEX volume&nbsp;&nbsp;Crypto Briefing",
+    "published_at": "2026-07-14T15:52:25+00:00"
   }
 ]
