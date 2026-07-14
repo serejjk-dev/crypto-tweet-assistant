@@ -1,1 +1,1 @@
-Traders put $243M into a new DEX on the Internet Computer blockchain, drawn by one promise: no depositor can ever lose their principal. DeFi has made this claim before. The audit reports tended to disagree.
+Robinhood Chain outpaced Ethereum in daily DEX trading volume two weeks after launch. Ethereum built that ecosystem over years of open development. Robinhood built it by owning the login screen.
