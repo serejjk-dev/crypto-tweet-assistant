@@ -1,18 +1,5 @@
 [
   {
-    "sent_at": "2026-07-13T16:10:44.354564+00:00",
-    "url": "https://www.coindesk.com/tech/2026/07/13/robinhood-chain-surges-into-top-five-by-dex-volume-bernstein",
-    "title_key": "robinhood chain surges into top five by dex volume bernstein",
-    "title": "Robinhood Chain surges into top five by DEX volume: Bernstein"
-  },
-  {
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3doNGV3SjZ3VlY2N2U3c25QX1VEWHdfMS1vaWU1RUFwQVdSRnNGRGJmRVl6WU1CSEIzSGxaMmduYlMyLXllV3lvZDk4dlVHNUt3SVIxYVprWU0yN3ZHa3JRTXI0azZHOWh5dWpVOXdPOVcyVjJ0MFBVcmpUdzExVlRkS3hhdEpfS2Q2NUxiamljVWVOLVVQRjY1Z0FseW91cFhJ?oc=5",
-    "title": "SBI Partners With Solana Foundation to Build Japan’s On-Chain Financial Market - Yahoo Finance",
-    "title_key": "sbi partners with solana foundation to build japans onchain financial market  yahoo finance",
-    "sent_at": "2026-07-13T18:10:01.858583+00:00",
-    "source": "GoogleNews/defi"
-  },
-  {
     "sent_at": "2026-07-13T20:14:37.902250+00:00",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXYySHdhTTFTYU5jTTRvTUwxTGU2aFpWX2o4dGEwWjZPV2NyLUhFVEZJTFhaUGNOaXcxaUs0MV9CVDZ6X2dGSkdXMWJkcW8tQ05RZmJ0bE5PN3YzTHJVLU5uamVhQ01zWU1ZT2pyZk9VSnVGd3lNX3dHd3lMOHFFWkdHUktkbEZhR3lDczc3eV80SlRXYVNPYlRERGJWcG5zS2VJNmRkeUNYb0JJWXRDQjYxSlREQmFVLVhyZg?oc=5",
     "title_key": "onchain pokémon cards come to solanabased dex jupiter the block",
@@ -77,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOamtIdWRqcnltV0dOcFVzWTN0RGhMRTZaNDROSndYYXNQRThadzZxdVUzS3VDemRiN2FELUVYRUEzN0xJRzlWcWtFaFlZaW91SUZnOHJqa0VyamRQc3lIWkhZa0tiaGFIbmJjSkF0elBQLVJSTUNsbkNKV0lXRVd3U2U2U29KWEtBcHlrdGc0NDlqX1Vu?oc=5",
     "title_key": "crypto news today july 15 btc surges back to 65k jpmorgan flags hyperliquid risk and the european central bank steps up digital euro push yahoo finance",
     "title": "Crypto News Today (July 15): BTC Surges Back to $65K, JPMorgan Flags Hyperliquid Risk, and the European Central Bank Steps Up Digital Euro Push - Yahoo Finance"
+  },
+  {
+    "sent_at": "2026-07-15T18:10:31.605480+00:00",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "title_key": "ethereum eth trending on coingecko market cap rank 2",
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2"
   }
 ]
