@@ -1,23 +1,16 @@
 [
   {
-    "title": "Jimothy The Raccoon Solana Token Climbs 186% After Viral Meme Fame - BeInCrypto",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96UVRFV0drYXZIdVUwdWxadUZZcnk5bk5aVVUxRXBsY25QeE9uelYzcGx2Z0N5MmNMV1p4MlJvMTlkT0M5VV9QcGVrUnFNY2J0RlZxeGMtUDZxUVhfYUEzTmhRazA2UUF5NVRpemxLNA?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Jimothy The Raccoon Solana Token Climbs 186% After Viral Meme Fame&nbsp;&nbsp;BeInCrypto",
-    "published_at": "2026-07-19T02:00:00+00:00"
-  },
-  {
-    "title": "Lorenzo Protocol ($BANK) trending on CoinGecko, market cap rank #382",
+    "title": "Lorenzo Protocol ($BANK) trending on CoinGecko, market cap rank #328",
     "url": "https://www.coingecko.com/en/coins/lorenzo-protocol",
-    "source": "CoinGecko/trending#1",
+    "source": "CoinGecko/trending#0",
     "summary": "Lorenzo Protocol (ticker BANK) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-07-19T10:17:59.872548+00:00"
+    "published_at": "2026-07-19T11:47:39.934211+00:00"
   },
   {
-    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTmRxNVhWTlU3Z0xURENDNktfVDlNMXhmc3FzWnJvalJ2Y0VHQVpmUlV1YnlUSG1qTERLOE5hZ184c3RZZEJldGVVdDhDT1dYQmNfN2RLSHcyNFVZaHgwcXdKU1NuRkIwdnJpMEdid2tkZ3JjWVdESk0yV2U4bmNPWUpNS2x5ajdpd3lZbUllU0pkd21GRXpSdzZSVnZral9aNnBodjd1N09STTlZb01Bc3VSYXFsSmVDb0xDLTY4OXFWVDhq?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins&nbsp;&nbsp;CoinDesk",
-    "published_at": "2026-07-19T10:01:04+00:00"
+    "title": "Bitcoin’s quantum problem gets a recovery tool, but not for Satoshi’s 1.1 million coins",
+    "url": "https://www.coindesk.com/tech/2026/07/19/bitcoin-s-quantum-problem-gets-a-recovery-tool-but-not-for-satoshi-s-1-1-million-coin",
+    "source": "CoinDesk",
+    "summary": "Project Eleven says it has funded a proof that lets a wallet's own key-derivation path stand in as ownership after quantum computers can forge its signatures. It runs in 243 milliseconds on a laptop.",
+    "published_at": "2026-07-19T10:00:00+00:00"
   }
 ]
