@@ -1,1 +1,1 @@
-$ANSEM, a Solana memecoin, spiked after the influencer it's named after backed a 'tokenized creator economy' vision - while personally sitting on $160M in paper losses. Influence compounds differently than portfolios.
+Jupiter Wallet now auto-approves $SOL swaps up to a user-set limit, cutting manual confirmations per trade on Solana's biggest DEX. Faster UX, fewer second thoughts. The market has been waiting; your portfolio maybe not.
