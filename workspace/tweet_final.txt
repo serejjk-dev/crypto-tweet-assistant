@@ -1,1 +1,1 @@
-The CLARITY Act could classify tokens beyond Bitcoin and Ethereum as commodities, giving developers and investors a clearer regulatory path. Years of SEC enforcement as de facto rulemaking, possibly over. Congress finds its nerve, eventually.
+Jupiter Wallet added an auto-approve mode that removes the per-transaction confirmation prompt. Less friction in DeFi is genuinely useful. The confirmation step between your funds and a phishing site is now optional.
