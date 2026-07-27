@@ -1,1 +1,1 @@
-Jupiter Wallet now auto-approves $SOL swaps up to a user-set limit, cutting manual confirmations per trade on Solana's biggest DEX. Faster UX, fewer second thoughts. The market has been waiting; your portfolio maybe not.
+The CLARITY Act could classify tokens beyond Bitcoin and Ethereum as commodities, giving developers and investors a clearer regulatory path. Years of SEC enforcement as de facto rulemaking, possibly over. Congress finds its nerve, eventually.
