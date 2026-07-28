@@ -1,1 +1,1 @@
-1inch released Aqua, a shared liquidity layer for DeFi where protocols draw from a single pool instead of each running isolated reserves. The fragmentation problem was obvious since 2020. Six years to ship the fix.
+Morgan Stanley launched $ETH and $SOL ETFs on NYSE Arca, advertising them as the lowest-cost options in a field that barely existed two years ago. Wall Street finds religion fast when the expense ratios are good.
