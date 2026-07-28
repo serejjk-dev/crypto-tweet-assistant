@@ -1,1 +1,1 @@
-Raoul Pal says $BTC is tracking global liquidity as expected for a young, volatile asset - volatility is built in, not an anomaly. 'Nothing is broken.' Macro analysts are always the last to update that sentence.
+1inch released Aqua, a shared liquidity layer for DeFi where protocols draw from a single pool instead of each running isolated reserves. The fragmentation problem was obvious since 2020. Six years to ship the fix.
