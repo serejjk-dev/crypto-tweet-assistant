@@ -1,23 +1,5 @@
 [
   {
-    "sent_at": "2026-07-27T00:21:58.865812+00:00",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdXhmb0ZzMGFPSHZhalFWQWtkM1ZzS0JDWnVrMnpNOHI4RkpRUHF1YmJXeWF0OWhyc0lBQmNLS2hFTkNHTkNTbDVzSWw2bWF4aDAwUG1LMll5cGJ5T2xLMXBGWU1NTkpmdWhHSHBGR3cxS1dhaThRcHg1WUZOdy1DSGcxNk9qN21Ga3laTVJVMGhwMXJtbjRSR1pkekl3SkxHb1hmSENNUFh3LXBialZ4MXVIUGs1OU9GbzRHcNIBwgFBVV95cUxPTFB2MFluU3ZBd0hyd2lDeHg3MHc0aGZ4VHR6RWMyWHNDWHpJX2xycGx5Y3ZIakJuWDk2ODZ0YkJuWXo5WC1yNnFFVHVFbFpDcTdOdUtOeFZqOGJqYVlFNEFSWTJGTm8tbjBtMjZzTGM4N0VuWVBvTmJzRF9lQjhDUEI0aFc3N2hJNWFvMjQ1S1ctQmFmN1ZXMF9iOGlRSXVfS2w4Rl9hd2dVV2twaGtET3NIVl8yWTRrVDVCbGU5bXZLQQ?oc=5",
-    "title_key": "top cryptos other than bitcoin and ethereum poised to benefit from the clarity act coinpedia",
-    "title": "Top Cryptos Other Than Bitcoin and Ethereum Poised to Benefit From the CLARITY Act - Coinpedia"
-  },
-  {
-    "sent_at": "2026-07-27T06:19:41.018370+00:00",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "title_key": "ethereum eth trending on coingecko market cap rank 2",
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2"
-  },
-  {
-    "sent_at": "2026-07-27T08:19:11.659712+00:00",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSWpLd0N3dFhULVN3aXI2eFp1YVpjZzM0YjZzY0k5bENIckhiUE5ETXBycHVhZld5eExhOS10ajl4RG80Zk96S25DbEVxRV9jemdhaE1YYkc5c1VGRkcxM1ROZU1VbE9Ga3NYa3FubWRVXzlHQnFwTjNYbl9KZk1MT1lEVzB1R193Y2tSNmFKeHVfUGxyNmhDZFJKRmE0aUFJZzY0YzJpQS0tNkhfdE03Sg?oc=5",
-    "title_key": "crypto weekly digest bitcoin edges up to 65k tesla records 112m bitcoin impairment moomoo",
-    "title": "Crypto Weekly Digest | Bitcoin Edges Up to $65K; Tesla Records $112M Bitcoin Impairment - Moomoo"
-  },
-  {
     "sent_at": "2026-07-27T12:26:52.208387+00:00",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmRoZ2w0enlxUTBoUF9VZWxPeXB0Ym1MQ3NWWmJ4SjFES3BFYnl5RnF5cVNDRjhKV3NFc2NtZVc5cXBTMHJDMnBGOGI5cGNZVDF2a25ZOVNFWnNDZEpMNXJ0Z0JzQlJfTFBJRFdwZWtBa0JxYWZkbGJPREUtc2c3d0NveTJIOVgzVERZbVBpQldWdFk3TGtuWnVhMklhdEJDYlhGZkgzWm5OM3BRamdWVm5FUQ?oc=5",
     "title_key": "hashkey exchange launches new flagship crypto trading app pr newswire",
@@ -76,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMERnRkdKbEI3R1NBRHpQdzlHa0JObTRCSWxTYjJuT1FBandvZjhKanp6LTdJTTdLdl9MUjBwRTB3N2dNaHRfTVItdUNBUlFza2lwMUNBSzFyNVVjWTRFbjQxNUpKUVZ0SlhxbHJGMEZaZzVyZXJIc2JLUFhLNHpoQmZBQTNHTTEtblNFRWpudG1yenp5U2FpLTlHLXZIYjhOdjlqc01fcHhDY1J1QXVFZkc2MVowUU5fRjZqaW5LVnluRGFRV1JKV0lTZjFRSlFPLTJteXZndzNrMVZEeWc?oc=5",
     "title_key": "morgan stanley launches ethereum and solana etps with 014 expense ratio how 15 outlets split newscord",
     "title": "Morgan Stanley Launches Ethereum and Solana ETPs With 0.14% Expense Ratio: how 15 outlets split - NewsCord"
+  },
+  {
+    "sent_at": "2026-07-29T12:18:13.548508+00:00",
+    "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
+    "title_key": "apple sued after fake iphone wallet app drained 18m in bitcoin",
+    "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin"
   }
 ]
