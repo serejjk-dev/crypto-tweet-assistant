@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-28T14:19:54.529382+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdk5ydDhtVFZQZVVITTJ6YnNWclVLekExUUxZbS1vdzJUeGFabU5UUS10SG5DbDBRU0JkRDJpMkNEX0ZnN0JESERoanRYdENpMjNtd3I3LU94TUExQVc0THlJbGZ0bGdDbm9nRkhMVEtSWmRhSUlzQzZzUlRVSmh6ajB2VlRtdmpBVnlla1FXVmVqRHpPNERGU05vWkVoSGtWblNTVWFLTlUyVHdFTndISmxtWXZMdC1ldjg3OV9CVnNReThtbWVHWVY1NTU3MzMwaWhMZVhuNlBIOTQ?oc=5",
-    "title_key": "1inch launches aqua to the public introducing the first shared liquidity layer for defi pr newswire",
-    "title": "1inch launches Aqua to the public, introducing the first shared liquidity layer for DeFi - PR Newswire"
-  },
-  {
     "sent_at": "2026-07-28T16:17:28.545924+00:00",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHlsVVlhUS1uRURwUnEtejh4U3NyZENkLXY4ZUo0VVBEd1F2TzA4bXRFS3F0dW50eE5NYTluMWEwOF8wR0d5Ymp6X1MzRnFWTWp5cVFhTGctR3V3WS1tQmphM0RjbDV5QTQ3cHlrYmwzYmlCUW5hN3dpZmpSWXBxcXpmTnFLT2ltN1gzc2lsd3lYc2d5Mi00R1g4b0VNRElkM0FpU1dzd09QU2FVZWc4Qm9UbWgzSVZZcmlGOXFHMTV6OERkX05fRDl6RQ?oc=5",
     "title_key": "morgan stanley debuts lowestcost ethereum solana etfs morgan stanley ethereum trust arcamsse morg benzinga",
@@ -58,5 +52,11 @@
     "url": "https://decrypt.co/374702/morning-minute-robinhood-posts-its-best-quarter-ever",
     "title_key": "morning minute robinhood posts its best quarter ever",
     "title": "Morning Minute: Robinhood Posts Its Best Quarter Ever"
+  },
+  {
+    "sent_at": "2026-07-30T16:10:46.285681+00:00",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHA4NV9nQ1VZVzBLY1VBbkk2RlJoaEpGSmZOUEdKNldqRGlOQ08yWTM5dElmSjEzNlpkRGJ3cW5hME5FWTFaUmJQNTZyM3d2NEpOVGNSeFpjQnRTbWxPRGs1aXB6Sy12YjVocUUwcmg3M1kzLUhQV1NFcXJEUXYtUTBzcXRaMlVPc2dVLVh2WExCaGRDLXZkUGNIX083ZGpvUHc2VGlPQ2tEVGE2YWFzZjF0NXh0c3I0bE1PX0JR?oc=5",
+    "title_key": "solmate partners with kraken for solana validator infrastructure investingcom",
+    "title": "Solmate partners with Kraken for Solana validator infrastructure - Investing.com"
   }
 ]
