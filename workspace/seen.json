@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-28T16:17:28.545924+00:00",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMHlsVVlhUS1uRURwUnEtejh4U3NyZENkLXY4ZUo0VVBEd1F2TzA4bXRFS3F0dW50eE5NYTluMWEwOF8wR0d5Ymp6X1MzRnFWTWp5cVFhTGctR3V3WS1tQmphM0RjbDV5QTQ3cHlrYmwzYmlCUW5hN3dpZmpSWXBxcXpmTnFLT2ltN1gzc2lsd3lYc2d5Mi00R1g4b0VNRElkM0FpU1dzd09QU2FVZWc4Qm9UbWgzSVZZcmlGOXFHMTV6OERkX05fRDl6RQ?oc=5",
-    "title_key": "morgan stanley debuts lowestcost ethereum solana etfs morgan stanley ethereum trust arcamsse morg benzinga",
-    "title": "Morgan Stanley Debuts Lowest-Cost Ethereum, Solana ETFs - Morgan Stanley Ethereum Trust (ARCA:MSSE), Morg - Benzinga"
-  },
-  {
     "sent_at": "2026-07-28T22:11:36.715868+00:00",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMERnRkdKbEI3R1NBRHpQdzlHa0JObTRCSWxTYjJuT1FBandvZjhKanp6LTdJTTdLdl9MUjBwRTB3N2dNaHRfTVItdUNBUlFza2lwMUNBSzFyNVVjWTRFbjQxNUpKUVZ0SlhxbHJGMEZaZzVyZXJIc2JLUFhLNHpoQmZBQTNHTTEtblNFRWpudG1yenp5U2FpLTlHLXZIYjhOdjlqc01fcHhDY1J1QXVFZkc2MVowUU5fRjZqaW5LVnluRGFRV1JKV0lTZjFRSlFPLTJteXZndzNrMVZEeWc?oc=5",
     "title_key": "morgan stanley launches ethereum and solana etps with 014 expense ratio how 15 outlets split newscord",
@@ -58,5 +52,11 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMHA4NV9nQ1VZVzBLY1VBbkk2RlJoaEpGSmZOUEdKNldqRGlOQ08yWTM5dElmSjEzNlpkRGJ3cW5hME5FWTFaUmJQNTZyM3d2NEpOVGNSeFpjQnRTbWxPRGs1aXB6Sy12YjVocUUwcmg3M1kzLUhQV1NFcXJEUXYtUTBzcXRaMlVPc2dVLVh2WExCaGRDLXZkUGNIX083ZGpvUHc2VGlPQ2tEVGE2YWFzZjF0NXh0c3I0bE1PX0JR?oc=5",
     "title_key": "solmate partners with kraken for solana validator infrastructure investingcom",
     "title": "Solmate partners with Kraken for Solana validator infrastructure - Investing.com"
+  },
+  {
+    "sent_at": "2026-07-30T18:13:31.749457+00:00",
+    "url": "https://www.coindesk.com/business/2026/07/30/fake-staking-site-drains-usd8-5-million-in-xrp-from-dozens-of-investors-promising-easy-yield",
+    "title_key": "fake staking site drains 85 million in xrp from dozens of investors promising easy yield",
+    "title": "Fake staking site drains $8.5 million in XRP from dozens of investors promising easy yield"
   }
 ]
