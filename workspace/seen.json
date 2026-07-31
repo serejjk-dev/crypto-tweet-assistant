@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-07-29T12:18:13.548508+00:00",
-    "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
-    "title_key": "apple sued after fake iphone wallet app drained 18m in bitcoin",
-    "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin"
-  },
-  {
-    "sent_at": "2026-07-29T14:14:48.132083+00:00",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY3VreExnMGJIUVNzREh1WlZBNnNNelhfeDdDTWt0VE5KSE9jMHJOeHhCS21BY1NlU0FWS3JGcno2M3NaRmxWOEZDM0xRUVpIaFl3Q2FRT0xERUtnSUlyaDY3Z3pzck90T3hxUHdLOUNDTUswaWU0cmo4a0RvelRnUA?oc=5",
-    "title_key": "uniswap price jumps 8 as uni reclaims 4 crypto news",
-    "title": "Uniswap price jumps 8% as UNI reclaims $4 - Crypto News"
-  },
-  {
     "sent_at": "2026-07-29T16:13:00.323164+00:00",
     "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPMGdBSi1RWk5CQ2xTWXFkQTBYZ29nQzZDMV9UWkU3dkpzeEdFMmdEMjh2M0NxOThaaGtlUGZrZ1pKMWxmWTB2S0pxdjgxaHdLQU9zSWVHeDJSZkJlUjFGYjZ1eVBydTJjSWVXdWgwRkJzamdhaWxpUURqUklOSWJ6cno1cVU0YVFuMWN0NmRMM2tlZjZ6UEJGR3NxbW5PQ3oyNDhHZUtkenBMaDY3eDlfbWRPT2pVdzAtT0VDdW1EeG1xa0hiNnVQa0d1bkVnR2VXMTUyTmdOQ3RmSjZLbmw4a2ptS3Z4d2REVEhja0xwTk9HbkVwSVdjdVBCam9iVllJVkN5WGFKNTBmZTEyQXN1LUNtY2ZCNmFhaFYzR2hGRFRXOGh2bjNTdWMtTkxKdTQ?oc=5",
     "title_key": "crypto news today july 29 btc reclaims 64k ahead of fomc 1inch launches new defi liquidity layer and ionic digital shares jump 25 on nasdaq debut tradingview",
@@ -76,5 +64,11 @@
     "url": "https://www.coingecko.com/en/coins/venice-token",
     "title_key": "venice token vvv trending on coingecko market cap rank 91",
     "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #91"
+  },
+  {
+    "sent_at": "2026-07-31T14:16:33.122856+00:00",
+    "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
+    "title_key": "us sanctions iranlinked bitcoin insurance scheme for strait of hormuz ships",
+    "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships"
   }
 ]
