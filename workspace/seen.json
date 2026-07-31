@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-29T16:13:00.323164+00:00",
-    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPMGdBSi1RWk5CQ2xTWXFkQTBYZ29nQzZDMV9UWkU3dkpzeEdFMmdEMjh2M0NxOThaaGtlUGZrZ1pKMWxmWTB2S0pxdjgxaHdLQU9zSWVHeDJSZkJlUjFGYjZ1eVBydTJjSWVXdWgwRkJzamdhaWxpUURqUklOSWJ6cno1cVU0YVFuMWN0NmRMM2tlZjZ6UEJGR3NxbW5PQ3oyNDhHZUtkenBMaDY3eDlfbWRPT2pVdzAtT0VDdW1EeG1xa0hiNnVQa0d1bkVnR2VXMTUyTmdOQ3RmSjZLbmw4a2ptS3Z4d2REVEhja0xwTk9HbkVwSVdjdVBCam9iVllJVkN5WGFKNTBmZTEyQXN1LUNtY2ZCNmFhaFYzR2hGRFRXOGh2bjNTdWMtTkxKdTQ?oc=5",
-    "title_key": "crypto news today july 29 btc reclaims 64k ahead of fomc 1inch launches new defi liquidity layer and ionic digital shares jump 25 on nasdaq debut tradingview",
-    "title": "Crypto News Today (July 29): BTC Reclaims $64K Ahead of FOMC, 1inch Launches New DeFi Liquidity Layer, and Ionic Digital Shares Jump 25% on Nasdaq Debut - TradingView"
-  },
-  {
     "sent_at": "2026-07-29T18:13:18.430774+00:00",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYzhka2xQLWVOWUxDUVFOOFVSeXFaS1lEeEV1T2pOeHEzYTVVTzlUclFOblpOZThIQ0FUcGV3V1h2S2R6NjdRaUtYWVVrdjh0WURMLU9ZZWhIeldfX3N1OElKYkpwanZWVUNrUXhvVTlpQU83UTYzdHUzd2FsQ2ZRdFBsS196N0d1eE01c2E3ZTI?oc=5",
     "title_key": "uniswap founder rejects claims v4 fees reduce lp earnings lcx exchange",
@@ -70,5 +64,11 @@
     "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
     "title_key": "us sanctions iranlinked bitcoin insurance scheme for strait of hormuz ships",
     "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships"
+  },
+  {
+    "sent_at": "2026-07-31T16:14:09.575337+00:00",
+    "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
+    "title_key": "38m in bitcoin drained by coldcard key flaw its maker thinks ai found",
+    "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found"
   }
 ]
