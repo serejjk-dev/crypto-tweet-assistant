@@ -1,5 +1,12 @@
 [
   {
+    "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships",
+    "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
+    "source": "CoinDesk",
+    "summary": "The Treasury Department said the Hormuz Safe platform accepted bitcoin and other digital assets as part of an alleged sanctions workaround tied to IRGC-backed shipping controls.",
+    "published_at": "2026-07-31T11:58:33+00:00"
+  },
+  {
     "title": "$38M in Bitcoin Drained by Coldcard Key Flaw Its Maker Thinks AI Found",
     "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
     "source": "Decrypt",
@@ -7,17 +14,10 @@
     "published_at": "2026-07-31T09:02:01+00:00"
   },
   {
-    "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep - CoinDesk",
+    "title": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep - coindesk.com",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFp1aUw0U1pSTTdTM1pTVDJzTjdBZllYalZCSG1iVUxjckU0OGxjNlRqc21WMHdzTHNuY3dORGNfOUxnZ0tsTGVZTjVtYzV0RGtGaURJZFRMLThqUTlBU0MwZVBuQ1lsQXBxamM2TnA4WU80OXdTcW5jV3VqQWV0OEVJLUxscjZDajFwWU5idGFiZEtLNmFDRlhYS0VIQVctQWc?oc=5",
     "source": "GoogleNews/crypto",
-    "summary": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep&nbsp;&nbsp;CoinDesk",
+    "summary": "Major bitcoin wallet flaw drains 594 BTC in 25-minute sweep&nbsp;&nbsp;coindesk.com",
     "published_at": "2026-07-31T05:13:55+00:00"
-  },
-  {
-    "title": "Major bitcoin wallet flaw drains $38 million worth of BTC in 25-minute sweep",
-    "url": "https://www.coindesk.com/tech/2026/07/31/major-bitcoin-wallet-flaw-drains-594-btc-in-25-minute-sweep",
-    "source": "CoinDesk",
-    "summary": "A hardware wallet randomness bug turned “impossible to guess” seeds into guessable ones, and $38 million is already gone.",
-    "published_at": "2026-07-31T05:12:55+00:00"
   }
 ]
