@@ -1,1 +1,1 @@
-An attacker likely used AI to comb through Coldcard's public firmware history, found a key flaw, and drained $38M in Bitcoin from hardware wallets. Open-source transparency cuts both ways. Probably nothing.
+Uniswap launched 'Earn,' a yield feature built with Morpho letting users generate returns on idle crypto - no swapping required. Uniswap started as a swap router. Now it just needs a checking account.
