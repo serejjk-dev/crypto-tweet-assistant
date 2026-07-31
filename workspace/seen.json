@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-28T22:11:36.715868+00:00",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMERnRkdKbEI3R1NBRHpQdzlHa0JObTRCSWxTYjJuT1FBandvZjhKanp6LTdJTTdLdl9MUjBwRTB3N2dNaHRfTVItdUNBUlFza2lwMUNBSzFyNVVjWTRFbjQxNUpKUVZ0SlhxbHJGMEZaZzVyZXJIc2JLUFhLNHpoQmZBQTNHTTEtblNFRWpudG1yenp5U2FpLTlHLXZIYjhOdjlqc01fcHhDY1J1QXVFZkc2MVowUU5fRjZqaW5LVnluRGFRV1JKV0lTZjFRSlFPLTJteXZndzNrMVZEeWc?oc=5",
-    "title_key": "morgan stanley launches ethereum and solana etps with 014 expense ratio how 15 outlets split newscord",
-    "title": "Morgan Stanley Launches Ethereum and Solana ETPs With 0.14% Expense Ratio: how 15 outlets split - NewsCord"
-  },
-  {
     "sent_at": "2026-07-29T12:18:13.548508+00:00",
     "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
     "title_key": "apple sued after fake iphone wallet app drained 18m in bitcoin",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XSnBlRGFxZXpTVzl5eVBVbWdQWXBwSk1zRHA2ZGlidkJCTHRFZzJHWFpQV1pMZnZPcEtuSzRDY1NZbEpFU3N4aFNyVW5UV0hrU3F5ajdJcVBiUUNFNGZGV1NPQjZkYUMxM2RRLWVidDdVVEFpSVQ2Nk9Xa2E?oc=5",
     "title_key": "uniswap token launches feature boosts discovery and trading  the cryptonomist",
     "title": "Uniswap Token Launches Feature Boosts Discovery and Trading - The Cryptonomist"
+  },
+  {
+    "sent_at": "2026-07-31T00:12:05.220637+00:00",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEU4UVBMZGZMelBpeE5FbGFYcTZlbU9iN1BrV1lIVjQ2aVB1bzdQQTBkaFNZZEhZN0JJekVKZkJ2bHp4ZGNGUEdQMXRXZHl6MmItV3FjTk92cDNWQjZHb1BZNW8xZF9UZFZxZ2hBSGRPaHgwMl9KdlNjOXdTZXlpTzZnMGxoNWZLajg1WU0wbENzMzRNbV96akdhRTZIWUE?oc=5",
+    "title_key": "solana policy institute pushes senate on crypto legislation northeast times",
+    "title": "Solana Policy Institute pushes Senate on crypto legislation - Northeast Times"
   }
 ]
