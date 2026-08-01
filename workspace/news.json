@@ -1,17 +1,17 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#3",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-01T21:42:41.072007+00:00"
-  },
-  {
     "title": "Uniswap v4 Captures Half of Quarterly DEX Volume 18 Months After Launch - Cryptonews.net",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiMGltNEpnSWIzdFNrTVNLUWVjSzY1SXpaY1JTTGtzTm5FYXNTSTFwNWY1OXJ1andoMXBiZlQ3VDJKZmxYcmljOTJPWVZoTjhhbWhQLQ?oc=5",
     "source": "GoogleNews/defi",
     "summary": "Uniswap v4 Captures Half of Quarterly DEX Volume 18 Months After Launch&nbsp;&nbsp;Cryptonews.net",
     "published_at": "2026-08-01T19:45:25+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#3",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-01T21:42:41.072007+00:00"
   },
   {
     "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices - CoinDesk",
