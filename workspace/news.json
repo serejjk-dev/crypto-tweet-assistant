@@ -1,5 +1,12 @@
 [
   {
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #37",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "source": "CoinGecko/trending#3",
+    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-01T08:00:51.825483+00:00"
+  },
+  {
     "title": "Uniswap launches Earn with Morpho lending vaults - crypto.news",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5d1p0cjN1dWFPRnFDVGFOY3R4WHdqMXZ3bjU3UFpRNlZnM0N5UkhuWEM3cW5pYVdhY010X1hIMjU3TmJkajMzdmZha192czlaSGhNNGdFUGFEUTcwd2FOOC0tRjFkUFhqeVhjQlJISEM1a3hPT3h5eg?oc=5",
     "source": "GoogleNews/swap",
@@ -9,15 +16,8 @@
   {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#3",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-01T05:44:44.130913+00:00"
-  },
-  {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
     "source": "CoinGecko/trending#4",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-01T05:44:44.130913+00:00"
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-01T08:00:51.825483+00:00"
   }
 ]
