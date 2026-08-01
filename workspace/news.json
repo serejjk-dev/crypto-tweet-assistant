@@ -1,12 +1,5 @@
 [
   {
-    "title": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10% - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcHpmOWxzX1JGN052d29fUnVJaEhMNzhIWU8zS0NNN1RpWEdzNi1ieUpIeFRPZzUwMmJJXzBVdmMzWWNJWGpZN2Z6YTRPQkszQjJ5dVprRHhMTkFGWVE0Ykx0TWJXUHQ5MU81UjJsd0Q4UThURDJfb0JIRi1TU2dHd2RYR19VMVJjb2NpZFZPRjRIVVFfdTNYMXpSTG1TeG42UThqQnNfeXJBRW15T05qUXRNZlV5VWtaYy14R2llUlV2Zk9rYWd5bWRmNjgzTGtybGdDU04xZkhScGs?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%&nbsp;&nbsp;The Motley Fool",
-    "published_at": "2026-07-31T21:49:31+00:00"
-  },
-  {
     "title": "Uniswap launches Earn with Morpho lending vaults - crypto.news",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5d1p0cjN1dWFPRnFDVGFOY3R4WHdqMXZ3bjU3UFpRNlZnM0N5UkhuWEM3cW5pYVdhY010X1hIMjU3TmJkajMzdmZha192czlaSGhNNGdFUGFEUTcwd2FOOC0tRjFkUFhqeVhjQlJISEM1a3hPT3h5eg?oc=5",
     "source": "GoogleNews/swap",
@@ -14,10 +7,17 @@
     "published_at": "2026-07-31T22:11:40+00:00"
   },
   {
-    "title": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10% - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnR4S1FOR3hJeXg5YnRfTzdPbEJjUmhCTVFMNUludDN1NVlxUGp2WGJMeG1MeWlZU3NFRU9tUC1IalJJbmZjOE9qVkJUTnhSNFF1STJ2RUgxeE1DMkNDS2I1R1c2dmJ3a1RuR29iRHdZNEF0TlAxeDlYVVVONGlZbWFlRS16YTJTY19LR1JTdmp6d1lsQS1v?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%&nbsp;&nbsp;Yahoo Finance",
-    "published_at": "2026-07-31T21:38:47+00:00"
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#3",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-01T05:44:44.130913+00:00"
+  },
+  {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#4",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-01T05:44:44.130913+00:00"
   }
 ]
