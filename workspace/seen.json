@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-30T20:11:14.958157+00:00",
-    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-    "title_key": "bitcoin quantum threat inches closer as ibm claims trusted quantum advantage",
-    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'"
-  },
-  {
     "sent_at": "2026-07-30T22:12:54.362869+00:00",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XSnBlRGFxZXpTVzl5eVBVbWdQWXBwSk1zRHA2ZGlidkJCTHRFZzJHWFpQV1pMZnZPcEtuSzRDY1NZbEpFU3N4aFNyVW5UV0hrU3F5ajdJcVBiUUNFNGZGV1NPQjZkYUMxM2RRLWVidDdVVEFpSVQ2Nk9Xa2E?oc=5",
     "title_key": "uniswap token launches feature boosts discovery and trading  the cryptonomist",
@@ -70,5 +64,11 @@
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbTlUOGREczNwc1oyQ0dGVGxBbVdaLTZDSVhpMUNCSUZtVEl2Ym01OHpiQ21yQ3dJWGVvTEFyb05sLUhBWWVLaHQ4SldRclRKRVdKQVdDZFkzMEpBaTg5UlNMcWE1ZmRwWEVnNEZiUFo0X0NUODBSN0NxSzFMOHFRSTd0eHIxaTg2M20yZUZ4aGJWQ1dpVnZjZXNESlFVOTBJOHlLNVlVYVF6amdfSEJCU0cxZEpYX29SU25HY2ZsM3dVRUtVTDQ2enRERWIwQmk1TEpwbGpzTkg?oc=5",
     "title_key": "coldcard hacked for 70m how do you keep bitcoin safe if cold wallets can be hacked 247 wall st",
     "title": "Coldcard Hacked for $70M: How Do You Keep Bitcoin Safe if Cold Wallets Can Be Hacked? - 24/7 Wall St."
+  },
+  {
+    "sent_at": "2026-08-01T22:12:31.465877+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiMGltNEpnSWIzdFNrTVNLUWVjSzY1SXpaY1JTTGtzTm5FYXNTSTFwNWY1OXJ1andoMXBiZlQ3VDJKZmxYcmljOTJPWVZoTjhhbWhQLQ?oc=5",
+    "title_key": "uniswap v4 captures half of quarterly dex volume 18 months after launch cryptonewsnet",
+    "title": "Uniswap v4 Captures Half of Quarterly DEX Volume 18 Months After Launch - Cryptonews.net"
   }
 ]
