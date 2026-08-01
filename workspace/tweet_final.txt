@@ -1,1 +1,1 @@
-A $70M exploit drained Bitcoin from Coldcard hardware wallets, devices sold as unhackable offline vaults. Everyone said 'not your keys, not your coins.' Nobody mentioned the keys could be stolen.
+Uniswap v4 processed 50% of all DEX trading volume in a quarter, 18 months after launch. A protocol built on open competition now controls half the market it helped create. probably nothing.
