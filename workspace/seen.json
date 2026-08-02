@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-31T04:10:50.890206+00:00",
-    "url": "https://www.coingecko.com/en/coins/venice-token",
-    "title_key": "venice token vvv trending on coingecko market cap rank 91",
-    "title": "Venice Token ($VVV) trending on CoinGecko, market cap rank #91"
-  },
-  {
     "sent_at": "2026-07-31T14:16:33.122856+00:00",
     "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
     "title_key": "us sanctions iranlinked bitcoin insurance scheme for strait of hormuz ships",
@@ -64,5 +58,11 @@
     "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
     "title_key": "bitcoin coldwallet attack spreads to 4500 addresses as losses near 89 million",
     "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million"
+  },
+  {
+    "sent_at": "2026-08-02T04:15:52.903638+00:00",
+    "url": "https://www.coingecko.com/en/coins/shiba-inu",
+    "title_key": "shiba inu shib trending on coingecko market cap rank 31",
+    "title": "Shiba Inu ($SHIB) trending on CoinGecko, market cap rank #31"
   }
 ]
