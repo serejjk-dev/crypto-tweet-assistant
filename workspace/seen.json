@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-07-30T22:12:54.362869+00:00",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XSnBlRGFxZXpTVzl5eVBVbWdQWXBwSk1zRHA2ZGlidkJCTHRFZzJHWFpQV1pMZnZPcEtuSzRDY1NZbEpFU3N4aFNyVW5UV0hrU3F5ajdJcVBiUUNFNGZGV1NPQjZkYUMxM2RRLWVidDdVVEFpSVQ2Nk9Xa2E?oc=5",
-    "title_key": "uniswap token launches feature boosts discovery and trading  the cryptonomist",
-    "title": "Uniswap Token Launches Feature Boosts Discovery and Trading - The Cryptonomist"
-  },
-  {
-    "sent_at": "2026-07-31T00:12:05.220637+00:00",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEU4UVBMZGZMelBpeE5FbGFYcTZlbU9iN1BrV1lIVjQ2aVB1bzdQQTBkaFNZZEhZN0JJekVKZkJ2bHp4ZGNGUEdQMXRXZHl6MmItV3FjTk92cDNWQjZHb1BZNW8xZF9UZFZxZ2hBSGRPaHgwMl9KdlNjOXdTZXlpTzZnMGxoNWZLajg1WU0wbENzMzRNbV96akdhRTZIWUE?oc=5",
-    "title_key": "solana policy institute pushes senate on crypto legislation northeast times",
-    "title": "Solana Policy Institute pushes Senate on crypto legislation - Northeast Times"
-  },
-  {
     "sent_at": "2026-07-31T04:10:50.890206+00:00",
     "url": "https://www.coingecko.com/en/coins/venice-token",
     "title_key": "venice token vvv trending on coingecko market cap rank 91",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBiMGltNEpnSWIzdFNrTVNLUWVjSzY1SXpaY1JTTGtzTm5FYXNTSTFwNWY1OXJ1andoMXBiZlQ3VDJKZmxYcmljOTJPWVZoTjhhbWhQLQ?oc=5",
     "title_key": "uniswap v4 captures half of quarterly dex volume 18 months after launch cryptonewsnet",
     "title": "Uniswap v4 Captures Half of Quarterly DEX Volume 18 Months After Launch - Cryptonews.net"
+  },
+  {
+    "sent_at": "2026-08-02T00:12:12.031858+00:00",
+    "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+    "title_key": "bitcoin coldwallet attack spreads to 4500 addresses as losses near 89 million",
+    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million"
   }
 ]
