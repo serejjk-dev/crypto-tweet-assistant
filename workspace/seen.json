@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-07-31T14:16:33.122856+00:00",
-    "url": "https://www.coindesk.com/policy/2026/07/31/u-s-sanctions-iran-linked-bitcoin-insurance-scheme-for-strait-of-hormuz-ships",
-    "title_key": "us sanctions iranlinked bitcoin insurance scheme for strait of hormuz ships",
-    "title": "U.S. sanctions Iran-linked bitcoin insurance scheme for Strait of Hormuz ships"
-  },
-  {
     "sent_at": "2026-07-31T16:14:09.575337+00:00",
     "url": "https://decrypt.co/374766/38m-in-bitcoin-drained-by-coldcard-key-flaw-its-maker-thinks-ai-found",
     "title_key": "38m in bitcoin drained by coldcard key flaw its maker thinks ai found",
@@ -64,5 +58,11 @@
     "url": "https://www.coingecko.com/en/coins/shiba-inu",
     "title_key": "shiba inu shib trending on coingecko market cap rank 31",
     "title": "Shiba Inu ($SHIB) trending on CoinGecko, market cap rank #31"
+  },
+  {
+    "sent_at": "2026-08-02T16:14:08.784868+00:00",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMUgtZ21FUzdveEg5QVhKd25FcTVkMFN5S29ycjB2MVhNMzhWTXBFWWNwV1pQa1A3dVgtNmxrcUNvaE5XSGY3d3VBbUpIQlZ3cldxazZ4aVgtNm5tRW82RDFlM1JINHB4Mjd6M013R2ZyczBlTXJfQVFOYXEydG5KU1RReU1KelZ1cU1YcEtKUVlNQW5wTGhSQUFVMDN6NnZQZE9lN2NqcVJjVnZqRVpNbTZsaWZHMTZMZmNrV3l5YV9jbC1BSENzaDVpT2NIaWNZeWdIendoMG9IQVVoczZUZ2NB?oc=5",
+    "title_key": "4 top trending cryptos to watch now blockdag solana hyperliquid super streetinsider",
+    "title": "4 Top Trending Cryptos to Watch Now: BlockDAG, Solana, Hyperliquid, & Super! - StreetInsider"
   }
 ]
