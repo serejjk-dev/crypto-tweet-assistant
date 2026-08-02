@@ -1,1 +1,1 @@
-Uniswap v4 now handles 50% of all quarterly DEX volume, just 18 months after launch. In a market with hundreds of rival protocols, one app keeps winning. Decentralization has a concentration problem.
+An attacker exploiting a Coldcard key generation flaw has now swept 4,500 Bitcoin addresses in three waves, with losses approaching $89 million. 'Cold' storage is a temperature, not a guarantee.

@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+    "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+    "source": "CoinDesk",
+    "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
+    "published_at": "2026-08-01T20:10:54+00:00"
+  },
+  {
     "title": "Motorola's answer to Samsung DeX is faster, smarter, and built for what you actually do - How-To Geek",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSDhZbzMzNjhFRGF5S05oQi1OcHNTUDZidjN1VDJGVmZScnlBWGRvNVpzd0VyeVl1QzJiUmFKZXo2VjNpT0lnRGYtajNGMTZIeWFOT0xRUDhYSXJvOHI5b2UteUs4dE1aLUk5RWQ3YmtxZE0tVzFEa2Z5SXloUmJiY04zcTJ6bmZMamJYblFzblB5Y2RYYVNIbHQyRkpCZDVFa0RmSEFFanQ1Z25PejFvcQ?oc=5",
     "source": "GoogleNews/swap",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/crypto",
     "summary": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million&nbsp;&nbsp;CoinDesk",
     "published_at": "2026-08-01T20:12:07+00:00"
-  },
-  {
-    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
-    "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-    "source": "CoinDesk",
-    "summary": "Galaxy Research flagged a third wave of sweeps tied to weak Coldcard-generated keys, with the attacker now targeting smaller balances and changing how funds are collected onchain.",
-    "published_at": "2026-08-01T20:10:54+00:00"
   }
 ]
