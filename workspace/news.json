@@ -1,16 +1,16 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-02T01:43:37.950181+00:00"
-  },
-  {
     "title": "Shiba Inu ($SHIB) trending on CoinGecko, market cap rank #31",
     "url": "https://www.coingecko.com/en/coins/shiba-inu",
     "source": "CoinGecko/trending#4",
     "summary": "Shiba Inu (ticker SHIB) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-02T01:43:37.950181+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#2",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
     "published_at": "2026-08-02T01:43:37.950181+00:00"
   },
   {
