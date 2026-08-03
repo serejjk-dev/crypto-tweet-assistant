@@ -1,1 +1,1 @@
-a Coldcard hardware wallet exploit has drained up to $89M in $BTC from more than 1,200 addresses. the premise that moving off exchanges solved your security problem - that story is having a rough couple of days.
+Coinkite halted all Coldcard shipments and is destroying remaining units after a key flaw drained $86M in Bitcoin from thousands of wallets. Destroying your own hardware is the patch nobody wants to ship.
