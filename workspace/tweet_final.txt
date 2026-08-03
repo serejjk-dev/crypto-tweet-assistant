@@ -1,1 +1,1 @@
-Uniswap launched Uniswap Earns, a native yield product that lets users earn on their assets without leaving the platform. Aave and Compound built this feature in 2020. Six years later, Uniswap added their name to it.
+A flaw in Coldcard hardware wallets let attackers drain thousands of bitcoin accounts in roughly 30 minutes. For years, Coldcard was the default answer when anyone asked how to store $BTC safely. Cold storage runs warm.
