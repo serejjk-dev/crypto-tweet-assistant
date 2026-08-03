@@ -1,17 +1,5 @@
 [
   {
-    "sent_at": "2026-07-31T20:13:36.888376+00:00",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2NzWkExdEowbFdmbXVxZ1hXUzFLTi1WX2M1dUtkcnJxMEZCVHJUWHcwTEx6VDFBRkkxN2drWG1DVzZES2dIVUptTEczWUp1ZDZXcUdUVjZwQXY2c2FNWEFKellCNmJzYkllQTRZcWowZFlCemM5dEFmblNRb3lHNjdybw?oc=5",
-    "title_key": "uniswap launches earn with morpho to let users earn yield on idle crypto assets the block",
-    "title": "Uniswap launches 'Earn' with Morpho to let users earn yield on idle crypto assets - The Block"
-  },
-  {
-    "sent_at": "2026-07-31T22:14:07.668437+00:00",
-    "url": "https://decrypt.co/374796/tether-reports-1-5b-q2-profit-usdt-supply-grows",
-    "title_key": "tether reports 15b q2 profit as usdt supply grows gold holdings rise",
-    "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise"
-  },
-  {
     "sent_at": "2026-08-01T02:13:16.442906+00:00",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcHpmOWxzX1JGN052d29fUnVJaEhMNzhIWU8zS0NNN1RpWEdzNi1ieUpIeFRPZzUwMmJJXzBVdmMzWWNJWGpZN2Z6YTRPQkszQjJ5dVprRHhMTkFGWVE0Ykx0TWJXUHQ5MU81UjJsd0Q4UThURDJfb0JIRi1TU2dHd2RYR19VMVJjb2NpZFZPRjRIVVFfdTNYMXpSTG1TeG42UThqQnNfeXJBRW15T05qUXRNZlV5VWtaYy14R2llUlV2Zk9rYWd5bWRmNjgzTGtybGdDU04xZkhScGs?oc=5",
     "title_key": "crypto market today july 31 bitcoin slides below 63000 and coinbase tumbles 10 the motley fool",
@@ -70,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSTIybXBXS1ZRWVFWaFZ0MGZZTDBqeU9RWm9BWDhEOGg0emF6aHdUdGJFM2tmSUt4NDdCU2RmcUMyZW5VVDJaYUs5QXhVRzljRVYtaHFST0t0Snc1UlZFN0tSNzdIWHhhUnNLSG1rU0o2ZTFjT042WWtIbjdCNVNuOEJqaV9jN051djhhV2RKckREZ3h6LVdCaTFpSlcxWGIzYnBXN3RMWmZwY3h2WDgwNTVFOXlKX2xHeEFCaU10WUxDSXdKRUNZX2RkWUM?oc=5",
     "title_key": "dex spot volume reaches historic 24 of cex volume signaling structural shift in crypto trading cryptorank",
     "title": "DEX Spot Volume Reaches Historic 24% of CEX Volume, Signaling Structural Shift in Crypto Trading - CryptoRank"
+  },
+  {
+    "sent_at": "2026-08-03T00:16:27.003622+00:00",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTWVkX3NzUGRwMGpnUS1Hbl8tTk9mVm8yWTFoQUthVUpZOTVwQnFRQ3hzOFQ2ZVBGN1JaMnhjUEJkLXpOMXB6LWw5NXdmQ1lBWTQ5VU1fTWdzc2IxWXdHTGtEb0dCVjVCa19vb093MHJacUtSWlNIQVpYRDkxMXFaRnRnUExocjZySHpBQ0hsQ2g3TWpwX0EyQUJkNU5HYVRrN3Q4UkV3YklnYndiR2xqLWpLbDhyaFJtWGpfS3p3WWQ1akJEdWVLZnpB?oc=5",
+    "title_key": "a tiny cluster of solana bots unlocked a 3x trading advantage by routing through one proprietary protocol cryptoslate",
+    "title": "A tiny cluster of Solana bots unlocked a 3x trading advantage by routing through one proprietary protocol - CryptoSlate"
   }
 ]
