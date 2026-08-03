@@ -1,1 +1,1 @@
-A flaw in Coldcard hardware wallets let attackers drain thousands of bitcoin accounts in roughly 30 minutes. For years, Coldcard was the default answer when anyone asked how to store $BTC safely. Cold storage runs warm.
+BlackRock launched tokenized money market funds on both Solana and Ethereum, giving institutional investors on-chain exposure to T-bill yields. Wall Street didn't join DeFi. DeFi got annexed.
