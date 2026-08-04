@@ -1,11 +1,5 @@
 [
   {
-    "sent_at": "2026-08-02T00:12:12.031858+00:00",
-    "url": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
-    "title_key": "bitcoin coldwallet attack spreads to 4500 addresses as losses near 89 million",
-    "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million"
-  },
-  {
     "sent_at": "2026-08-02T04:15:52.903638+00:00",
     "url": "https://www.coingecko.com/en/coins/shiba-inu",
     "title_key": "shiba inu shib trending on coingecko market cap rank 31",
@@ -64,5 +58,11 @@
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb2FGeGgwenpGc293ZVZlUllBZlVIRFVnSnFXV3FFQUlVR2pEN0FGeGkyaGs4NHQ0cnltZEt5bVdPczRRU0pDUlZlOUNTT2EzQzFNeGNNa3FoWl9DakxSNHVuZHd2cEdqUHlVRWNrSUtXSEQ5eUxHZVVwbU1Iek9vQWlYbGZHT2_SAY8BQVVfeXFMTmQ1MjZhRThGNUtFZHZJcS02WjRmaGFlWGpGN0RfME81RktFODdJVm4yak9waklRU214a1JXSko2X3g1REo2d3RIWGViZVBpZTB0SGZ0Z3NsREYtamllQm9rV1BfeERaa1RtVTdZZ1pVa0FxWFZWaHRXVWUtLVNCWkpCejNhSjhHRWxKc1lwMzg?oc=5",
     "title_key": "blackrock launches tokenized money market funds on solana ethereum decrypt",
     "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum - Decrypt"
+  },
+  {
+    "sent_at": "2026-08-04T02:13:40.990224+00:00",
+    "url": "https://decrypt.co/374874/marmot-researchers-onlyfans-memecoins-solana-onlymarms",
+    "title_key": "marmot researchers turn to onlyfans for funding—and there are meme coins too",
+    "title": "Marmot Researchers Turn to OnlyFans for Funding—And There Are Meme Coins Too"
   }
 ]
