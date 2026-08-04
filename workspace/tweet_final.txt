@@ -1,1 +1,1 @@
-Decentralized exchanges captured a record 24% of crypto spot market share in July, while CEX volumes fell to a 12-month low. Turns out the "trustless" pitch actually worked - people just needed a decade to notice.
+Grayscale published a report on the Coldcard exploit that drained over $86M in Bitcoin from thousands of cold wallets. A custody provider explaining why self-custody failed is a conflict of interest that writes itself.
