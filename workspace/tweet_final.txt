@@ -1,1 +1,1 @@
-Grayscale published a report on the Coldcard exploit that drained over $86M in Bitcoin from thousands of cold wallets. A custody provider explaining why self-custody failed is a conflict of interest that writes itself.
+A Solana governance proposal would push daily $SOL burns from $47K to $650K - a 14x increase. Ethereum made the same change in 2021 and called it EIP-1559. The market rewarded them for years.
