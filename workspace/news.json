@@ -1,10 +1,17 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#4",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-04T10:25:51.989030+00:00"
+    "title": "Bitcoin Search Interest in the US Plunges to a Five-Year Low Despite Crypto’s Political Momentum - Bitcoin Foundation",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNjVOeUppR2FFNkZQV2xpdGxKUlVtSkpCM2FaM1V4SFU0d0JWbWxoM09YVmdUVXJfSEE5akRNV0tmLUhrcEdoZ3doVlZRbUx2aVRjOXpqQnpWQzBiRzBuMlVkN1RKZTlCQlhzT0VRczZYdGdBaURpYnhrV3NnUjl2UHUwRThRaFh0UmVBZUFTdGhmSGFWUF9XaUhneE44QUVxOEd2WVpxZ2FITmdfYnJINllCLUxfUDZHNFM3MWJzaDRQWHpZYk9lc2Q4OFBiekJiTzVIY2l3?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Bitcoin Search Interest in the US Plunges to a Five-Year Low Despite Crypto’s Political Momentum&nbsp;&nbsp;Bitcoin Foundation",
+    "published_at": "2026-08-04T10:07:38+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-04T12:51:52.410793+00:00"
   },
   {
     "title": "BlackRock debuts tokenized access to $311 billion of money market funds in Europe",
@@ -12,12 +19,5 @@
     "source": "CoinDesk",
     "summary": "Earlier this week, BlackRock expanded its U.S. tokenized cash platform which involved offering onchain shares of an existing fund, plus a new daily reinvestment stablecoin fund.",
     "published_at": "2026-08-04T10:03:24+00:00"
-  },
-  {
-    "title": "GRVT Token ($GRVT) trending on CoinGecko, market cap rank #630",
-    "url": "https://www.coingecko.com/en/coins/grvt",
-    "source": "CoinGecko/trending#3",
-    "summary": "GRVT Token (ticker GRVT) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-04T10:25:51.989030+00:00"
   }
 ]
