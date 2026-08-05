@@ -1,23 +1,23 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #37",
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #38",
     "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#1",
+    "source": "CoinGecko/trending#3",
     "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-05T19:11:54.058347+00:00"
+    "published_at": "2026-08-05T20:55:17.369112+00:00"
   },
   {
-    "title": "HYPE leads crypto rebound, Uniswap debuts new launchpad, Cashcat doubles. - Decrypt",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlNBcVhxbnVFTnRPTEYtLV9CakR6UTFHdmZvMEJhdml1ZmpuUlV4bHcwY2hwdUZvYlFnaHloV0hUWFV4Und0WkR0NkNJM280NDRQUE5HNThfbGhycnZOTjdTelBfUEdnMEZYUG80TGpjOENoX2xnTWxnSFlLTjNYajUtZUZQZVNYVVhmX0w2S3l2R0Z3Um9PVmdXRFRFMjVOU3ZfdGx1OW9nYnBMV2M4TzFkaG1DVGhlWkE?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "HYPE leads crypto rebound, Uniswap debuts new launchpad, Cashcat doubles.&nbsp;&nbsp;Decrypt",
-    "published_at": "2026-08-05T15:02:54+00:00"
+    "title": "Visa Widens Stablecoin Payouts via Zerohash Rails",
+    "url": "https://decrypt.co/374994/visa-stablecoin-payouts-zerohash",
+    "source": "Decrypt",
+    "summary": "Eligible Visa Direct clients can now prefund accounts and send payouts in stablecoins, expanding Visa's latest push to bring blockchain-based payments into its global network.",
+    "published_at": "2026-08-05T19:42:48+00:00"
   },
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#6",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-05T19:11:54.058347+00:00"
+    "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+    "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+    "source": "Decrypt",
+    "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+    "published_at": "2026-08-05T15:38:09+00:00"
   }
 ]
