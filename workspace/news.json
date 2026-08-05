@@ -1,17 +1,10 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #37",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#5",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-05T13:39:40.439326+00:00"
-  },
-  {
-    "title": "Ethereum Crypto Stalls at $1,872 as Extreme Fear Offsets a DEX Fee Surge - Cryptonews.net",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpMkZJYU5NNVJzakJiOE9vTHBmV25ESEduSUdlM1Q2NXhxQ05GM1FQZXhzUk9CS1labWREVVJQSUJWQVU5bi11QVpWcnp4dGFKZW9sWWdXT1hLZw?oc=5",
+    "title": "HYPE leads crypto rebound, Uniswap debuts new launchpad, Cashcat doubles. - Decrypt",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONlNBcVhxbnVFTnRPTEYtLV9CakR6UTFHdmZvMEJhdml1ZmpuUlV4bHcwY2hwdUZvYlFnaHloV0hUWFV4Und0WkR0NkNJM280NDRQUE5HNThfbGhycnZOTjdTelBfUEdnMEZYUG80TGpjOENoX2xnTWxnSFlLTjNYajUtZUZQZVNYVVhmX0w2S3l2R0Z3Um9PVmdXRFRFMjVOU3ZfdGx1OW9nYnBMV2M4TzFkaG1DVGhlWkE?oc=5",
     "source": "GoogleNews/swap",
-    "summary": "Ethereum Crypto Stalls at $1,872 as Extreme Fear Offsets a DEX Fee Surge&nbsp;&nbsp;Cryptonews.net",
-    "published_at": "2026-08-05T12:22:22+00:00"
+    "summary": "HYPE leads crypto rebound, Uniswap debuts new launchpad, Cashcat doubles.&nbsp;&nbsp;Decrypt",
+    "published_at": "2026-08-05T15:02:54+00:00"
   },
   {
     "title": "Uniswap launches Earn with Morpho for onchain lending - IBS Intelligence",
@@ -19,5 +12,12 @@
     "source": "GoogleNews/swap",
     "summary": "Uniswap launches Earn with Morpho for onchain lending&nbsp;&nbsp;IBS Intelligence",
     "published_at": "2026-08-05T04:16:46+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#4",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-05T15:52:35.012029+00:00"
   }
 ]
