@@ -1,5 +1,12 @@
 [
   {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#5",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-07T22:23:34.421780+00:00"
+  },
+  {
     "title": "XRP Ledger 3.3.0 Launches with Institutional DeFi and Tokenization Features - KuCoin",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQkFkT0g1Z3pBVk9YSkQyMEc5TXRXYmhwcFVvcUt2VVRaTno3bkNwVVhrcEhnNVI2RVJpYzQxQWFoazR3R3M4SGZmR0lLZVR1YklnempVeWhXd0tNSEFzQzUwckFFaS13MlVxRVhIUVBJZklNLXdDeTBMT19MRzAxajVlNmhzcTB4Wk5RTkxkT1pZSHQ0Sk9rbzZpMUJlVmJ4Nk1BajY0RDBDazVkeEE?oc=5",
     "source": "GoogleNews/defi",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/crypto",
     "summary": "Crypto market update: Cardano surges, XRP falls as ETF inflows near $1B&nbsp;&nbsp;AltcoinBuzz",
     "published_at": "2026-08-07T18:36:15+00:00"
-  },
-  {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#5",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-07T21:27:09.204996+00:00"
   }
 ]
