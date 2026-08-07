@@ -2,9 +2,16 @@
   {
     "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
     "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#5",
+    "source": "CoinGecko/trending#4",
     "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-07T22:23:34.421780+00:00"
+    "published_at": "2026-08-07T23:23:25.920422+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-07T23:23:25.920422+00:00"
   },
   {
     "title": "XRP Ledger 3.3.0 Launches with Institutional DeFi and Tokenization Features - KuCoin",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "XRP Ledger 3.3.0 Launches with Institutional DeFi and Tokenization Features&nbsp;&nbsp;KuCoin",
     "published_at": "2026-08-07T18:43:16+00:00"
-  },
-  {
-    "title": "Crypto market update: Cardano surges, XRP falls as ETF inflows near $1B - AltcoinBuzz",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiT2I3U1o2c3dseDBMcllNMEg1eWhUQWsyOHFzcnJBTVFBNWtDQjh1ZS1uUGNaRk9JX3ZrVkZ1dGtUWUtMYlRrUUJROXh3TUxCSktKQmFDZ2M3NlpoQ2VpQzNSQXJKQ1U?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Crypto market update: Cardano surges, XRP falls as ETF inflows near $1B&nbsp;&nbsp;AltcoinBuzz",
-    "published_at": "2026-08-07T18:36:15+00:00"
   }
 ]
