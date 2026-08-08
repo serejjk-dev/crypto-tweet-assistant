@@ -1,17 +1,10 @@
 [
   {
-    "title": "XRP ($XRP) trending on CoinGecko, market cap rank #6",
-    "url": "https://www.coingecko.com/en/coins/xrp",
-    "source": "CoinGecko/trending#3",
-    "summary": "XRP (ticker XRP) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-08T02:48:26.607685+00:00"
-  },
-  {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#5",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-08T02:48:26.607685+00:00"
+    "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
+    "url": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
+    "source": "CoinDesk",
+    "summary": "If a minority chain appears this weekend, buyers could replay signed fork-coin sales on bitcoin itself, making doing nothing the safest move until the chains can be separated.",
+    "published_at": "2026-08-08T02:30:00+00:00"
   },
   {
     "title": "Cashcat Jumps 114% in Altcoin Rebound, but Selective Trading Still Dominates - bloomingbit",
@@ -19,5 +12,12 @@
     "source": "GoogleNews/defi",
     "summary": "Cashcat Jumps 114% in Altcoin Rebound, but Selective Trading Still Dominates&nbsp;&nbsp;bloomingbit",
     "published_at": "2026-08-08T01:00:49+00:00"
+  },
+  {
+    "title": "Trump Media Pulls Back From Crypto Deals: Report - Bitcoin Magazine",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1DVWlEcG5rbVpCLXY0OTR5NVdoMnF3cHMyRVhJTkdDS3gzWktFTmNxTG1QZm9MMldlODdtTXRRS2pNVjdPUUdSUFUyejY0UkkyTnZYdnJmcFRHb1FEcktTX2ZkejNTeVFaM05BYk93Z2VoN0F6Yi1OQ3djTDZsUQ?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Trump Media Pulls Back From Crypto Deals: Report&nbsp;&nbsp;Bitcoin Magazine",
+    "published_at": "2026-08-07T21:15:05+00:00"
   }
 ]
