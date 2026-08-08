@@ -1,23 +1,23 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #36",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#6",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-08T07:39:16.687106+00:00"
+    "title": "BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTndPYm1kZGdueVZKYmc4TUJ0R2ljTmF6QnotUTUyeUhQcmY4Qng5MU5jdXVhanYzSV9EeENQeUlKeWx6TjRVcEt4bk5jZFBWa09odzZ1ZV9nc2xkUnpZLXA0VnpoYnZLQjVaT2VUeF8wS1pJRWlaRlNXSHlOQ0lWVlk3VTBXLWx5Wk02WWpwZjUxRUJKMklpNmhFWE1FaFU5bjJjaENOTzhLSEx6UGpVMVIwN0xqaGduZUhtd2x6UnFBX29fNU5B?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "BTC news: Bitcoin’s exploit week worsens as BTCPay flaw drains Lightning nodes&nbsp;&nbsp;CoinDesk",
+    "published_at": "2026-08-08T07:47:50+00:00"
   },
   {
-    "title": "Solana Meme Coin Jimothy Jumps 331% on Elon Musk Raccoon Post - BeInCrypto",
+    "title": "Solana Meme Coin Jimothy Jumps 331% on Elon Musk Raccoon Post - beincrypto.com",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQ1pjYlRVT2NGc05CZ0YzX0xSbW9hZXJGM1FRN1JtS29WVUJsZE5SVndGa0ZfOHEzOUNuQ2tQMmpJTkhQR3o3YjRKUTVVVHFSUjJtMkRIcURMcFVTN0tMenAtaU9UVUk2ZVNINg?oc=5",
     "source": "GoogleNews/defi",
-    "summary": "Solana Meme Coin Jimothy Jumps 331% on Elon Musk Raccoon Post&nbsp;&nbsp;BeInCrypto",
+    "summary": "Solana Meme Coin Jimothy Jumps 331% on Elon Musk Raccoon Post&nbsp;&nbsp;beincrypto.com",
     "published_at": "2026-08-08T05:00:00+00:00"
   },
   {
-    "title": "Pi Network’s PI Leads the Altcoin Rally as BTC Eyes $65K: Market Watch - CryptoPotato",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYzdwdTBkR3NLTzc2b0xyOVFTYm8wYWRDNHhnUjJmWVZ0amgwN3R3YXRCcGFfQ2tValhXbDYxOVdBblJIbkpSd3gzdERRSGZ1NlJqRGwxcHIxemNzTE5waGloUHh6Q2NSeU1JdHFvMGVWNDg1a1JKd0FoM0RQTFRnOVJlb2hnMzZ3WEZiUzJtVi10clpjNVo4eg?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Pi Network’s PI Leads the Altcoin Rally as BTC Eyes $65K: Market Watch&nbsp;&nbsp;CryptoPotato",
-    "published_at": "2026-08-08T05:33:00+00:00"
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "source": "CoinDesk",
+    "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+    "published_at": "2026-08-08T07:46:04+00:00"
   }
 ]
