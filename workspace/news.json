@@ -1,23 +1,23 @@
 [
   {
-    "title": "Weekly Project Updates: Ether.fi Gradually Exits EigenLayer, Uniswap Launches Meme‑Coin Platform, ai16z Foundation To Dissolve, etc - Substack",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBaYk1hNzFfYzJPdzJEZ0ZnbDU3Wmg3NTIyM1VyNm5hUmFYQTdYblgyTmdFeHBReWthcEM2VFEtbF9nZWN1OXprYXJWaEl2NGpiVGJ1REdYTnJENlY4WG5WRHhOLUpBdTh3dkZnX2lpaFc1ZlVwYTlLTjJiMA?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "Weekly Project Updates: Ether.fi Gradually Exits EigenLayer, Uniswap Launches Meme‑Coin Platform, ai16z Foundation To Dissolve, etc&nbsp;&nbsp;Substack",
-    "published_at": "2026-08-08T12:52:04+00:00"
+    "title": "Trillions in institutional money to flow into bitcoin, says Bitwise's Matt Hougan",
+    "url": "https://www.coindesk.com/business/2026/08/08/trillions-in-institutional-money-to-flow-into-bitcoin-says-bitwise-s-matt-hougan",
+    "source": "CoinDesk",
+    "summary": "The digital asset manager's CIO says large capital pools control up to $200 trillion globally, and just a 1% shift toward bitcoin could unlock massive long-term growth.",
+    "published_at": "2026-08-08T14:00:00+00:00"
   },
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #36",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#4",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-08T13:37:06.120084+00:00"
+    "title": "Why trillion-dollar asset manager T. Rowe Price put memecoins in its crypto ETF",
+    "url": "https://www.coindesk.com/markets/2026/08/06/why-trillion-dollar-asset-manager-t-rowe-price-put-memecoins-in-its-crypto-etf",
+    "source": "CoinDesk",
+    "summary": "The $1.9 trillion asset manager says excluding established memecoins on principle would undermine its active approach to crypto investing.",
+    "published_at": "2026-08-08T13:00:00+00:00"
   },
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-08T13:37:06.120084+00:00"
+    "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
+    "url": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
+    "source": "CoinDesk",
+    "summary": "BTCPay told users running LND to update immediately or take servers offline after attackers stole credentials that can control Lightning wallets and move funds.",
+    "published_at": "2026-08-08T07:46:04+00:00"
   }
 ]
