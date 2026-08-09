@@ -1,23 +1,9 @@
 [
   {
-    "title": "Solana Beach approves contract for federal lobbying - San Diego Union-Tribune",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDZScFBmaVVfV3RaOWtoZ1Ixd1IwaGNZLXVjYTJ6aW9nZXFReUkwNmUxMXhJeTJUaTE1Q3NBNXRPd2RqS2xTLS1EQ1VRS3dfV3lCRHREbGJqWWs0TUF0d3hDeUJtTU9IMVpnS083WTU3UTk2VHhiSzRfNlVsV3Rra2x4bFJWc0NWSUNFd05vOVRVVllmcThSdy1BRUNTUXVTSnc?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Solana Beach approves contract for federal lobbying&nbsp;&nbsp;San Diego Union-Tribune",
-    "published_at": "2026-08-08T21:05:02+00:00"
-  },
-  {
-    "title": "New Crypto Banking Era: Stablecoins Transform Global Payments - Bitcoin Foundation",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZkd1ekpreVhtRHBzakREeVF2Ym9hNHJwTTY1MS01T3ZFSnpQQm1aR2dPLUZSSEZwaVNiQkhkYkpickxqNmpXWGVVaW5zblNHQVhoQUhxd0lzWmpaVTB2YVd4bmpEeFJocDh2VVI4aTZ1SDFqNUpkYkJHeGxndXpybVZ0eDZMQ2U3UWhfZVRB?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "New Crypto Banking Era: Stablecoins Transform Global Payments&nbsp;&nbsp;Bitcoin Foundation",
-    "published_at": "2026-08-09T07:33:55+00:00"
-  },
-  {
-    "title": "BTC news: Bitcoin split after BIP-110 fails, the new chain stopped after two blocks - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPN0ZvQnFsWFlHejROVjZ4OFI4Mm5saFhOcWFxNXYxQm9rRl9sc3pKTU1CaWhhRnJONzJYb0ZFWFZ2a3JuY0pqMnFfS2tWZVpMYWlOZW5TX2k2Z3M1Qk1WRHhDN0pwbzBaa1o4bWpBSTV2bm1ZcFNHVWNaX0lya25DWjlhLThLenRnaGZDdmU5eDYtazY5TmkwXzAyWFFxZEd3ejl4ZklB?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "BTC news: Bitcoin split after BIP-110 fails, the new chain stopped after two blocks&nbsp;&nbsp;CoinDesk",
-    "published_at": "2026-08-09T05:24:12+00:00"
+    "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+    "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+    "source": "CoinDesk",
+    "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
+    "published_at": "2026-08-09T05:08:20+00:00"
   }
 ]
