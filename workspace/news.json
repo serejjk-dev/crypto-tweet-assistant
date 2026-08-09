@@ -1,23 +1,23 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #35",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#5",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-09T02:57:47.986722+00:00"
-  },
-  {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#4",
+    "source": "CoinGecko/trending#6",
     "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-09T02:57:47.986722+00:00"
+    "published_at": "2026-08-09T04:53:59.710762+00:00"
   },
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#6",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-09T02:57:47.986722+00:00"
+    "title": "Solana Beach approves contract for federal lobbying - sandiegouniontribune.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDZScFBmaVVfV3RaOWtoZ1Ixd1IwaGNZLXVjYTJ6aW9nZXFReUkwNmUxMXhJeTJUaTE1Q3NBNXRPd2RqS2xTLS1EQ1VRS3dfV3lCRHREbGJqWWs0TUF0d3hDeUJtTU9IMVpnS083WTU3UTk2VHhiSzRfNlVsV3Rra2x4bFJWc0NWSUNFd05vOVRVVllmcThSdy1BRUNTUXVTSnc?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Beach approves contract for federal lobbying&nbsp;&nbsp;sandiegouniontribune.com",
+    "published_at": "2026-08-08T21:05:02+00:00"
+  },
+  {
+    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "source": "Decrypt",
+    "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+    "published_at": "2026-08-08T17:31:03+00:00"
   }
 ]
