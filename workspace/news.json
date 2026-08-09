@@ -1,12 +1,5 @@
 [
   {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#6",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-09T04:53:59.710762+00:00"
-  },
-  {
     "title": "Solana Beach approves contract for federal lobbying - sandiegouniontribune.com",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcDZScFBmaVVfV3RaOWtoZ1Ixd1IwaGNZLXVjYTJ6aW9nZXFReUkwNmUxMXhJeTJUaTE1Q3NBNXRPd2RqS2xTLS1EQ1VRS3dfV3lCRHREbGJqWWs0TUF0d3hDeUJtTU9IMVpnS083WTU3UTk2VHhiSzRfNlVsV3Rra2x4bFJWc0NWSUNFd05vOVRVVllmcThSdy1BRUNTUXVTSnc?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-08-08T21:05:02+00:00"
   },
   {
-    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
-    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
-    "source": "Decrypt",
-    "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
-    "published_at": "2026-08-08T17:31:03+00:00"
+    "title": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: The Crypto Fear & Greed Index surges to 31, remaining in “Fear” territory. - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQUJxNklxLVc4NVJmUmJOYmVfVVFWLTBTcHVSR09MT0kySlRUM0JQOVRLRlRPNHMxcVYyNkRaM3p5Z1UybXFmbkQ3blJ0MXMxWnFNbGFhamdwVXZUTS1tV3R4ZFAxSVMtZktUZ0xfODlzcFRaenluVHFTcWQ3ZzVxYUhzZy1yLUJhaHpVUDAzS3dXUWo4Z0VQMnZvRTNmcG50Y0hRMUowamE1M0U?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "🚨𝗝𝗨𝗦𝗧 𝗜𝗡: The Crypto Fear & Greed Index surges to 31, remaining in “Fear” territory.&nbsp;&nbsp;Moomoo",
+    "published_at": "2026-08-09T04:47:51+00:00"
+  },
+  {
+    "title": "Controversial Bitcoin fork BIP-110 mines two blocks, then stops",
+    "url": "https://www.coindesk.com/tech/2026/08/09/controversial-bitcoin-fork-bip-110-mines-two-blocks-then-stops",
+    "source": "CoinDesk",
+    "summary": "The breakaway chain inherited bitcoin’s mining difficulty with only a tiny share of hashpower, leaving blocks hours apart while both chains still accept the same transactions.",
+    "published_at": "2026-08-09T05:08:20+00:00"
   }
 ]
