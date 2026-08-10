@@ -1,10 +1,17 @@
 [
   {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#6",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-10T07:07:04.912014+00:00"
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#5",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-10T09:05:21.142168+00:00"
+  },
+  {
+    "title": "UMX launches beta with crypto and real U.S. stocks - Crypto News",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5QmM2aFdrMmtFMERPdlZ5QUxqWHJFRUQ2Y1Z5YmEzSEtLNTByNFUtQzJSSi1Na0ZXUHRxRDVBQnNkVXA1Zmx2S3Vad05lLW01UHNxQW5Dd05MM2llelB6ME1XWFI3bVBjWnBFcnRXc2d3UHZJaHBSOFJR?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "UMX launches beta with crypto and real U.S. stocks&nbsp;&nbsp;Crypto News",
+    "published_at": "2026-08-10T07:28:20+00:00"
   },
   {
     "title": "'Smoking Controversy' DEX, After Announcing Suspension of Activities..Stiff Expression [Star Issue] - starnewskorea.com",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/swap",
     "summary": "'Smoking Controversy' DEX, After Announcing Suspension of Activities..Stiff Expression [Star Issue]&nbsp;&nbsp;starnewskorea.com",
     "published_at": "2026-08-10T06:35:43+00:00"
-  },
-  {
-    "title": "Crypto exchange sues North Korean government and hackers over $1.5B heist - NK News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXMwRXh1YmZMdm1QTUx2SFpSdFgwakNwTU91dHZiMWtBSEZLRnBnTy11eDc5M0t3TVRDb1p4bng0VDFFUU1XcFk4M25FRW1JVzhMdTR1d1MyN0lGZXRfQXkyRndVcnFReDBSN0wtbnpCNUNMczdIS0QyMW0yTTBfVFpNY2RzYWllc1NCY2FFN0p2Zktxd0tXS2ROSl81UmFoYXYxd25Pdw?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Crypto exchange sues North Korean government and hackers over $1.5B heist&nbsp;&nbsp;NK News",
-    "published_at": "2026-08-10T06:30:22+00:00"
   }
 ]
