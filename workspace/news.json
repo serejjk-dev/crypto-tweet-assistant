@@ -1,10 +1,17 @@
 [
   {
-    "title": "Crypto Market Update August 12: Ethereum, Dogecoin Rise Amid US Inflation Data as Uniswap Crashes 10% - coingape.com",
+    "title": "Crypto Market Update August 12: Ethereum, Dogecoin Rise Amid US Inflation Data as Uniswap Crashes 10% - CoinGape",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDg3cloxRVlLNGljQTlwd2ZKWmVVaWxIX3RXUUExMHp2eUVGUVdyclo1eE4wSDZReDExRi1QcGZRQmduV3FHeC1YSmxqaTd1ZWtqcWZYRVA4SHFWVV9UcTYwUFVXNXVYbEhWbWVhdldLSnBjQTlSSjB1dVZGTGZFY3IySVhYNDVHSXhhQ2xBUGJnLXNPU1NWRVhQNlE4SHg5aldSOWhnb0prcDZtWUppYUJkdXpTSk1JWWc?oc=5",
     "source": "GoogleNews/swap",
-    "summary": "Crypto Market Update August 12: Ethereum, Dogecoin Rise Amid US Inflation Data as Uniswap Crashes 10%&nbsp;&nbsp;coingape.com",
+    "summary": "Crypto Market Update August 12: Ethereum, Dogecoin Rise Amid US Inflation Data as Uniswap Crashes 10%&nbsp;&nbsp;CoinGape",
     "published_at": "2026-08-12T12:30:04+00:00"
+  },
+  {
+    "title": "XRP Bridge Drained After Software Treats Fake Deposits as Real",
+    "url": "https://decrypt.co/375441/xrp-drained-tx-bridge",
+    "source": "Decrypt",
+    "summary": "A flaw that went undetected during multiple audits allowed an attacker to create unbacked balances and withdraw XRP from the bridge’s reserves.",
+    "published_at": "2026-08-12T16:00:52+00:00"
   },
   {
     "title": "CFTC Sues Goliath Ventures Over Alleged $397M DeFi Liquidity Pool Ponzi - The Defiant",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "CFTC Sues Goliath Ventures Over Alleged $397M DeFi Liquidity Pool Ponzi&nbsp;&nbsp;The Defiant",
     "published_at": "2026-08-12T05:53:18+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-12T15:49:04.608333+00:00"
   }
 ]
