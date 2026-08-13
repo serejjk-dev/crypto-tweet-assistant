@@ -1,17 +1,10 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-13T12:42:02.062629+00:00"
-  },
-  {
-    "title": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOUNTN0VId0djTHZFVFExSmRyN1BBZlZTeVVmanNOSllhZ2Fyci03b0lWX2dqcFlIaWFYOVpxVUhORFpRM19wX0tuLWJYNnBxWU93YllOdE1yX1UyMzlUdWRkTUpKMmZNNUQwb1RYOXB5NVE4QkRidE1qRHF5UUNoRUFSUjFZT2twX0hTTDlNeGFtZl9JUDlRX25VOVlpY1ZteGozd0M5NG5pUVlrVlA5TzEyODZtVGlNendGVGQwLXJKWjRLdTFlcHpDQ1JnYmc?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale&nbsp;&nbsp;CoinDesk",
-    "published_at": "2026-08-13T09:14:15+00:00"
+    "title": "Curve DAO ($CRV) trending on CoinGecko, market cap rank #106",
+    "url": "https://www.coingecko.com/en/coins/curve-dao-token",
+    "source": "CoinGecko/trending#4",
+    "summary": "Curve DAO (ticker CRV) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-13T14:14:02.426954+00:00"
   },
   {
     "title": "Bitcoin treasury company Metaplanet unveils BitBonds with $1.3 million private debt sale",
@@ -19,5 +12,12 @@
     "source": "CoinDesk",
     "summary": "The inaugural unsecured bonds offer annual interest of up to 4.3%, while exposing investors to metaplanet’s credit and bitcoin-linked balance-sheet risks",
     "published_at": "2026-08-13T09:14:15+00:00"
+  },
+  {
+    "title": "Swissquote cuts full-year profit, revenue outlook as first-half crypto income plunges - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWmROSTJmVUJoU2ZZdi04THlzOHBacFRiOW9rNjhVckFlTDRQWTVXTFFmZHk3Z0dweUpQUVpOMkNZOXFiZjNBbUVCZHV0ejFVZmw5TVNmRnIwT2lmQjVuQXpzbDNxWDZVb1RkQ0dPTHJJb0dEWTVYNzYwZllwc2NTNV9KLUhqQ1F6VjhiQS02dE1VRU5YYS1PSE9aVzdRcmFNcWlSY0E5UTcwVTNxVGlHenlGeE9maU83TGlMaQ?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Swissquote cuts full-year profit, revenue outlook as first-half crypto income plunges&nbsp;&nbsp;CoinDesk",
+    "published_at": "2026-08-13T13:41:32+00:00"
   }
 ]
