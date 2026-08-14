@@ -1,17 +1,10 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-13T23:29:37.088176+00:00"
-  },
-  {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#5",
+    "source": "CoinGecko/trending#4",
     "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-13T23:29:37.088176+00:00"
+    "published_at": "2026-08-14T00:59:23.488750+00:00"
   },
   {
     "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
@@ -19,5 +12,12 @@
     "source": "Decrypt",
     "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI’s Kimi K3, are finding bugs across Bitcoin’s open-source software.",
     "published_at": "2026-08-13T22:36:07+00:00"
+  },
+  {
+    "title": "DeFi Development Posts $27 Million Second-Quarter Loss, Halts Solana Accelerator - bloomingbit",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IY3FtNEswQ2lXLVRlYTdJLU1tRGJ4bG9EbldNYlF0dWtSQ2RJTWo0YVBmME4zTFEyVWVEbHFKZ05HcWdsaWRSZ254UXJWQ082bnhtcw?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "DeFi Development Posts $27 Million Second-Quarter Loss, Halts Solana Accelerator&nbsp;&nbsp;bloomingbit",
+    "published_at": "2026-08-13T20:04:58+00:00"
   }
 ]
