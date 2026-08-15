@@ -1,10 +1,17 @@
 [
   {
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #40",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "source": "CoinGecko/trending#5",
+    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-15T04:18:36.460950+00:00"
+  },
+  {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#4",
+    "source": "CoinGecko/trending#2",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-15T03:28:59.272227+00:00"
+    "published_at": "2026-08-15T04:18:36.460950+00:00"
   },
   {
     "title": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027 - NewsCord",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027&nbsp;&nbsp;NewsCord",
     "published_at": "2026-08-14T20:48:02+00:00"
-  },
-  {
-    "title": "Trending Crypto of the Week: Bitcoin Near ATH, SOL and DOGE Soar - Yellow.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVW05X3pVN1RpOHNLRGYxYzR0LU10VTJSVUNfWGc0ODAzT1liYjY1SkNod1lRZTMwRFhSNkwtMl9DMW9aTWVDeUk4cHh5NGl6clhtMjdlcXA2VkFHbXlobmNUNnpjZHZqZTd4OEpQOG1VMW55Q3N6WS1FUlJfeWo1M0F6SkNzVGhhLS16UkdoWUFHRllXdE5qUmhMd1ZwZkk?oc=5",
-    "source": "GoogleNews/memecoin",
-    "summary": "Trending Crypto of the Week: Bitcoin Near ATH, SOL and DOGE Soar&nbsp;&nbsp;Yellow.com",
-    "published_at": "2026-08-14T20:00:27+00:00"
   }
 ]
