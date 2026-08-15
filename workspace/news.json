@@ -1,10 +1,17 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #40",
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #39",
     "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#6",
+    "source": "CoinGecko/trending#4",
     "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-15T07:20:43.317207+00:00"
+    "published_at": "2026-08-15T08:14:07.516637+00:00"
+  },
+  {
+    "title": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027 - newscord.org",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWjNIcEMzdmE1RTVfZ0tMdkFMV2JzeEp3ZWloVWNYUi03dFJUMEhabElmaThwa0ZlNm5Ga195d096NTAwY1ZIVFB3SWZCb1ZIU0ctMXhoRHYtYTFrNmdUeWI0X2tKdnBBN09mbU9GQmJBeE1LQTFaNENrN2tzSGdRSDdZNXZ0b3NwV29wQTJiTU9uUk41MXJoTzh3QWhhZFlBX1QxczFDYUQ4Q3UwbHY2a1YxRkIySkJJM3E1RVNSNW9SWjFudjJLd2U4bVZEQVhKQUp5U2s2blE4ZFg2dVY3NFN6WEF2ODYwRVE?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027&nbsp;&nbsp;newscord.org",
+    "published_at": "2026-08-14T20:48:02+00:00"
   },
   {
     "title": "Grayscale quietly killed three altcoin ETFs two days before Cardano became eligible - Crypto News",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Grayscale quietly killed three altcoin ETFs two days before Cardano became eligible&nbsp;&nbsp;Crypto News",
     "published_at": "2026-08-15T05:03:00+00:00"
-  },
-  {
-    "title": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027 - NewsCord",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWjNIcEMzdmE1RTVfZ0tMdkFMV2JzeEp3ZWloVWNYUi03dFJUMEhabElmaThwa0ZlNm5Ga195d096NTAwY1ZIVFB3SWZCb1ZIU0ctMXhoRHYtYTFrNmdUeWI0X2tKdnBBN09mbU9GQmJBeE1LQTFaNENrN2tzSGdRSDdZNXZ0b3NwV29wQTJiTU9uUk41MXJoTzh3QWhhZFlBX1QxczFDYUQ4Q3UwbHY2a1YxRkIySkJJM3E1RVNSNW9SWjFudjJLd2U4bVZEQVhKQUp5U2s2blE4ZFg2dVY3NFN6WEF2ODYwRVE?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Bank Leumi Partners With Galaxy Digital to Launch Bitcoin, Ethereum, and Solana Trading in 2027&nbsp;&nbsp;NewsCord",
-    "published_at": "2026-08-14T20:48:02+00:00"
   }
 ]
