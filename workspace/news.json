@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#1",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-15T18:12:09.099115+00:00"
-  },
-  {
     "title": "Solana Arrives on XRP Ledger DEX With One Key Warning for Users - TradingView",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOG5VWHVvWEZRUWg2ZmFMTEowcEZOallPRHl0Y2J6TC1FQ3IzbE5ZMjhmZmE1Y1ktUmpCQmNTQXZ0bFhUSm10MWNxTkRfdUY3N3EteG5vMzNsUV9vdFVpRHpRYkV3cnNtREJUWGZERGM0YWp4NEFuTmExYVVDdVVsa1AxWUQ3dVdDT0RlcFVwRGNGUHU4WmZXWXl0cnNLMlVxSEVRM1A5TVhOQVA5dkh0YnJRczJ3a3d2YkxjdFB3?oc=5",
     "source": "GoogleNews/defi",
@@ -19,5 +12,12 @@
     "source": "GoogleNews/crypto",
     "summary": "Bitcoin Price Below $10,000? ChatGPT Issues Warning as ‘Crypto Is Dead’ Chatter Surges&nbsp;&nbsp;Yahoo Finance",
     "published_at": "2026-08-15T10:01:00+00:00"
+  },
+  {
+    "title": "Chainlink ($LINK) trending on CoinGecko, market cap rank #17",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "source": "CoinGecko/trending#0",
+    "summary": "Chainlink (ticker LINK) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-15T19:13:09.971224+00:00"
   }
 ]
