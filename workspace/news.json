@@ -2,9 +2,16 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#3",
+    "source": "CoinGecko/trending#0",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-16T21:09:23.957786+00:00"
+    "published_at": "2026-08-16T22:09:04.295690+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#5",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-16T22:09:04.295690+00:00"
   },
   {
     "title": "Why Chainlink Rose as Bitcoin and Uniswap Weakened - DailyForex",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/swap",
     "summary": "Why Chainlink Rose as Bitcoin and Uniswap Weakened&nbsp;&nbsp;DailyForex",
     "published_at": "2026-08-16T14:00:39+00:00"
-  },
-  {
-    "title": "Solana (SOL) now tradable on XRP Ledger's DEX v... - pluang.com",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOHBXV2Rzd0hYWDBJak9teVkzX3BHUHA0bDdNTWVNZ0tYS1VQTGVsVjljalhWUzVFWXNMcXlZWmkyUEdTa1N1QXZuX3hxMTd3VUpOU2RleE00VnZQNTFVRVhqdGlpc3NGMEdrUjh1U0p6SW9oTXdvNzdqUlcxYWlzVlk4d0lQRjJXaG1wbQ?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Solana (SOL) now tradable on XRP Ledger's DEX v...&nbsp;&nbsp;pluang.com",
-    "published_at": "2026-08-16T10:36:28+00:00"
   }
 ]
