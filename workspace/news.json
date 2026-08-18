@@ -1,12 +1,5 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #40",
-    "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#6",
-    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-18T08:22:11.518332+00:00"
-  },
-  {
     "title": "Solana Surges as Institutional Investors Show Unwavering Confidence - OneSafe.io",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUUloM3NweXdVT0NPazBWUTlrUGhUM0FpdEl2dHhNQjRMcC1CT0w2RWJZdS05VktkeFZaYnZYVTRBVXZtdTFnOThPNmlUWHNPb0tTc3lkc2xybWF2X2ZJcWNic1dkZTB6ekJfdXFuMzlfU1BNWm5TTm9XMWVZeXM?oc=5",
     "source": "GoogleNews/defi",
@@ -14,10 +7,17 @@
     "published_at": "2026-08-18T07:06:04+00:00"
   },
   {
-    "title": "Trading Majors vs. Altcoins: Ethereum DEX Trader Profitability, 2020-2026 - CoinGecko",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3hNaVBra1Z1RVpVQlhOTXNyUjF2YWxYWkRfb3JJLW94S2VJX2JKS2E5a0JTNjc4VXc1MFlYSFJyVkZoZDRSR2w4RVYxZ0F6R2hDTnNFT0ZPLThoTVNnRDJXU0pqeWdGeUhva25yMkJYRG9YNUx0c1VKSVFTOWhpRmlFdDBFR3M1UllrX2FCRGdwSmFBV3d2YlV3?oc=5",
-    "source": "GoogleNews/swap",
-    "summary": "Trading Majors vs. Altcoins: Ethereum DEX Trader Profitability, 2020-2026&nbsp;&nbsp;CoinGecko",
-    "published_at": "2026-08-18T06:16:00+00:00"
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#4",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-18T09:20:35.237351+00:00"
+  },
+  {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#6",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-18T09:20:35.237351+00:00"
   }
 ]
