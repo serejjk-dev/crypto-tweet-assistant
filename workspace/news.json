@@ -1,5 +1,12 @@
 [
   {
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #40",
+    "url": "https://www.coingecko.com/en/coins/uniswap",
+    "source": "CoinGecko/trending#6",
+    "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-18T08:22:11.518332+00:00"
+  },
+  {
     "title": "Solana Surges as Institutional Investors Show Unwavering Confidence - OneSafe.io",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQUUloM3NweXdVT0NPazBWUTlrUGhUM0FpdEl2dHhNQjRMcC1CT0w2RWJZdS05VktkeFZaYnZYVTRBVXZtdTFnOThPNmlUWHNPb0tTc3lkc2xybWF2X2ZJcWNic1dkZTB6ekJfdXFuMzlfU1BNWm5TTm9XMWVZeXM?oc=5",
     "source": "GoogleNews/defi",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/swap",
     "summary": "Trading Majors vs. Altcoins: Ethereum DEX Trader Profitability, 2020-2026&nbsp;&nbsp;CoinGecko",
     "published_at": "2026-08-18T06:16:00+00:00"
-  },
-  {
-    "title": "The bitcoin price level where leveraged bulls could get whacked",
-    "url": "https://www.coindesk.com/markets/2026/08/18/the-bitcoin-price-level-where-leveraged-bulls-could-get-whacked",
-    "source": "CoinDesk",
-    "summary": "Bulls are stacking longs, liquidity is thinning and one key level could trigger large liquidations.",
-    "published_at": "2026-08-18T05:55:43+00:00"
   }
 ]
