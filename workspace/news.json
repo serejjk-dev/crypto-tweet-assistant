@@ -1,23 +1,23 @@
 [
   {
-    "title": "Maya Protocol exploit drains bitcoin and other assets as pool value drops $11 million",
-    "url": "https://www.coindesk.com/markets/2026/08/19/maya-protocol-exploit-drains-bitcoin-and-other-assets-as-pool-value-drops-usd11-million",
+    "title": "Live updates: Bitcoin remains above $64,000 as oil rises and the Kospi tumbles 6%",
+    "url": "https://www.coindesk.com/markets/2026/08/19/live-updates-bitcoin-holds-firm-above-usd64-000-as-south-korea-s-kospi-sinks-5-8",
     "source": "CoinDesk",
-    "summary": "A chain of six flaws caused the cross-chain trading network to credit a pool with nearly 50 million tokens that were never properly funded, letting an attacker drain real assets.",
-    "published_at": "2026-08-19T06:36:11+00:00"
+    "summary": "U.S. Treasury yields retreat from the highest levels in decades, while bitcoin holds above $64,000.",
+    "published_at": "2026-08-19T09:05:45+00:00"
   },
   {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#1",
+    "source": "CoinGecko/trending#4",
     "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-19T09:21:22.752511+00:00"
+    "published_at": "2026-08-19T10:17:00.062270+00:00"
   },
   {
     "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
     "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#3",
+    "source": "CoinGecko/trending#6",
     "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-19T09:21:22.752511+00:00"
+    "published_at": "2026-08-19T10:17:00.062270+00:00"
   }
 ]
