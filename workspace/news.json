@@ -7,17 +7,17 @@
     "published_at": "2026-08-19T06:36:11+00:00"
   },
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#2",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-19T08:22:13.170749+00:00"
-  },
-  {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#5",
+    "source": "CoinGecko/trending#1",
     "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-19T08:22:13.170749+00:00"
+    "published_at": "2026-08-19T09:21:22.752511+00:00"
+  },
+  {
+    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
+    "url": "https://www.coingecko.com/en/coins/solana",
+    "source": "CoinGecko/trending#3",
+    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-19T09:21:22.752511+00:00"
   }
 ]
