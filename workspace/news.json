@@ -1,23 +1,23 @@
 [
   {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#1",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-20T08:23:17.256532+00:00"
+  },
+  {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#2",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-20T08:23:17.256532+00:00"
+  },
+  {
     "title": "Bitcoin Surges Most Since March Ahead of White House Meeting - Bloomberg.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeXNlMlhrZldhRUFxVFpaVmJDWnVjdERCQTVQbGJNX3BFNmxQc1p3Y0VWc0xjLWJoSUdPUHJUejFvVEV1SXJ4NkR4SExEMGtTb3FXaEplbU9vc0JCTVBKcTVxZ2RGaXJhLWtmMWF3MzVMM1VLd3NBZVVLUThZLUdGSTdtQmpkVW9tV3dodklSbHZhSDN2b2QtTFNjN2g3dmp4bGJBSnhXUS1qeW0yQXdrWg?oc=5",
     "source": "GoogleNews/crypto",
     "summary": "Bitcoin Surges Most Since March Ahead of White House Meeting&nbsp;&nbsp;Bloomberg.com",
     "published_at": "2026-08-20T05:08:00+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#3",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-20T07:31:37.352469+00:00"
-  },
-  {
-    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
-    "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#4",
-    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-20T07:31:37.352469+00:00"
   }
 ]
