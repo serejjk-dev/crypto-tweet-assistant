@@ -4,14 +4,7 @@
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "source": "CoinGecko/trending#5",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-20T19:22:33.490522+00:00"
-  },
-  {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#6",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-20T19:22:33.490522+00:00"
+    "published_at": "2026-08-20T20:15:58.655886+00:00"
   },
   {
     "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
@@ -19,5 +12,12 @@
     "source": "CoinDesk",
     "summary": "Longtime bond market investor Mark Connors sees routine government bond buybacks improving liquidity and bringing bitcoin’s next rally closer.",
     "published_at": "2026-08-20T16:17:32+00:00"
+  },
+  {
+    "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYW5ydk13NmdWaS1wZXd0MC1KQnpxOUdGY3R6SFpYMDVIZFNfMW5RQTU2b1dfYXVtMDhiWERTMXdwdjlEQWl5V2dsSm00NE5pY2phS0I1R015QWJ3cEVHaG0wUjZXYU5oUm1LWFl2bVZuNmF2WUZRZlI5LUItQVZNdjF1X0VKeW50b2l4WG5SWWdEN25oajl0bi1qU0ZabEh2c1owQV9jSVDSAa4BQVVfeXFMT3lZRHR0SU5wSjZla2VFbldPbk04ejJ3UUJjLVNaUndRQlgyR2F0SnJsOXltSVV0NTVDemd6VzhyOTlidWNwUXp2WjctTkNRYS1rTjdRblRHcTdVQ05KNXVrdFM5Ulk1NjgtOC1lNWlobUp6NWhXNzNoNlBEWWpnUXVuSy0tTm05VDBIT0JaOTJ4X3BKaW5scUNQYUFIRTR1OG9TQzM5ZFYyUTFhWmln?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act&nbsp;&nbsp;CNBC",
+    "published_at": "2026-08-20T13:06:30+00:00"
   }
 ]
