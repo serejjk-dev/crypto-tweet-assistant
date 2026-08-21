@@ -7,17 +7,17 @@
     "published_at": "2026-08-21T19:26:00+00:00"
   },
   {
-    "title": "Bitcoin Jumps While the S&P Heads for Weekly Loss - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbVJYUEw2azEzYVJRUndTQ2JTLUowdV8xc0J5a0Y4X0lzSFpoMFpHaFNhUmt3RXZGRjN0aW9UalVmTGstc1ZVQ2dvM1I1MW1FalBXaHpXMkJfRk0taFQxWUZ4WTBfYTAydlNvaDEtV3NUelk3di1tRHA1amxJRXhEQWt6ZW4tWmcyWDNfWVZjSmxZNUJoZ3dvc05DZkFKbzJlMjY2bmR2U0lXOHYtRUE?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin Jumps While the S&P Heads for Weekly Loss&nbsp;&nbsp;WSJ",
-    "published_at": "2026-08-21T18:38:00+00:00"
-  },
-  {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
+    "source": "CoinGecko/trending#0",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-21T21:12:37.742359+00:00"
+    "published_at": "2026-08-21T22:11:58.077346+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#3",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-21T22:11:58.077346+00:00"
   }
 ]
