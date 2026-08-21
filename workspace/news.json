@@ -1,23 +1,23 @@
 [
   {
-    "title": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDJHNHVrSjdnUWhvMWhyN0hMX19mUzdqZjRZbjV4Unc3WWhNUFlSM0Vhbk1kMGJDaGpQYXprcjA1c1dOcDYzbUh2UnNUcnE0T3NlLUZyWmxkbjFJM0tBZk5wV3NQeEt5YVlsZGlSV0praDhtTG40VmZkVGRBOUFzSGN3TnptY1pwNjhab3dR?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder&nbsp;&nbsp;Fortune",
-    "published_at": "2026-08-21T19:26:00+00:00"
-  },
-  {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
     "source": "CoinGecko/trending#0",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-21T22:11:58.077346+00:00"
+    "published_at": "2026-08-21T23:12:40.954838+00:00"
   },
   {
     "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
     "url": "https://www.coingecko.com/en/coins/ethereum",
-    "source": "CoinGecko/trending#3",
+    "source": "CoinGecko/trending#2",
     "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-21T22:11:58.077346+00:00"
+    "published_at": "2026-08-21T23:12:40.954838+00:00"
+  },
+  {
+    "title": "XRP ($XRP) trending on CoinGecko, market cap rank #5",
+    "url": "https://www.coingecko.com/en/coins/xrp",
+    "source": "CoinGecko/trending#5",
+    "summary": "XRP (ticker XRP) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-21T23:12:40.954838+00:00"
   }
 ]
