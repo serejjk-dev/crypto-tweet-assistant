@@ -2,16 +2,9 @@
   {
     "title": "XRP ($XRP) trending on CoinGecko, market cap rank #5",
     "url": "https://www.coingecko.com/en/coins/xrp",
-    "source": "CoinGecko/trending#2",
+    "source": "CoinGecko/trending#3",
     "summary": "XRP (ticker XRP) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-22T22:10:00.689212+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-22T22:10:00.689212+00:00"
+    "published_at": "2026-08-22T23:09:55.983169+00:00"
   },
   {
     "title": "Polygon Joins Digital Pound Lab as XRP Rallies, Best Altcoin To Buy Now AlphaPepe Builds Toward Launch - StreetInsider",
@@ -19,5 +12,12 @@
     "source": "GoogleNews/defi",
     "summary": "Polygon Joins Digital Pound Lab as XRP Rallies, Best Altcoin To Buy Now AlphaPepe Builds Toward Launch&nbsp;&nbsp;StreetInsider",
     "published_at": "2026-08-22T20:51:10+00:00"
+  },
+  {
+    "title": "Solana DEX WET Suspends Trading After Internal Network Incident - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01TEFfNFZUekt5aHhVOGV3R091bkxnbG1RQVdSZXBrWnFiaE5nWWFXcVJYVjIxdlJ1Ty1IVDRRV3FJOVFmcHpkUXR5SXZRVmw1V0tuS2pobXJVcHQ2R0VBR1ZPV0dqb2hKdzY5dlZfSWRFUjEx?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana DEX WET Suspends Trading After Internal Network Incident&nbsp;&nbsp;CryptoRank",
+    "published_at": "2026-08-22T14:33:12+00:00"
   }
 ]
