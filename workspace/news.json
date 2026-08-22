@@ -2,22 +2,22 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-22T02:07:55.545980+00:00"
-  },
-  {
-    "title": "XRP ($XRP) trending on CoinGecko, market cap rank #4",
-    "url": "https://www.coingecko.com/en/coins/xrp",
     "source": "CoinGecko/trending#4",
-    "summary": "XRP (ticker XRP) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-22T02:07:55.545980+00:00"
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-22T03:32:05.584219+00:00"
   },
   {
-    "title": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDJHNHVrSjdnUWhvMWhyN0hMX19mUzdqZjRZbjV4Unc3WWhNUFlSM0Vhbk1kMGJDaGpQYXprcjA1c1dOcDYzbUh2UnNUcnE0T3NlLUZyWmxkbjFJM0tBZk5wV3NQeEt5YVlsZGlSV0praDhtTG40VmZkVGRBOUFzSGN3TnptY1pwNjhab3dR?oc=5",
-    "source": "GoogleNews/crypto",
-    "summary": "Bitcoin soars to nearly $80,000—but crypto’s new favorite coin, Hyperliquid, is stealing its thunder&nbsp;&nbsp;Fortune",
-    "published_at": "2026-08-21T19:26:00+00:00"
+    "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+    "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+    "source": "Decrypt",
+    "summary": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
+    "published_at": "2026-08-21T17:28:55+00:00"
+  },
+  {
+    "title": "Pepe ($PEPE) trending on CoinGecko, market cap rank #50",
+    "url": "https://www.coingecko.com/en/coins/pepe",
+    "source": "CoinGecko/trending#2",
+    "summary": "Pepe (ticker PEPE) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-22T03:32:05.584219+00:00"
   }
 ]
