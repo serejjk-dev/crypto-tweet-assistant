@@ -1,12 +1,5 @@
 [
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#4",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-23T19:13:55.329053+00:00"
-  },
-  {
     "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
     "source": "CoinDesk",
@@ -14,10 +7,17 @@
     "published_at": "2026-08-23T15:52:21+00:00"
   },
   {
-    "title": "Solana Tokenized Assets Top $4 Billion as Network Speeds Up Block Times - finance.biggo.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSFBiUXdnWVNBY1dRcTR5aGFCcEtSSlE4cnA4bXB1WnVXc1FYaGdRemtFZnhvZld1WHFDczJvZnIyNXF6d0ExS3BUVnVGWk1jR29TazdhbTE0OE50MW94RnNSVlp0WmtZSnlCRVN0NDVTMWdWa3c?oc=5",
+    "title": "Solana Unchained Emerges as a Closely Watched Solana Presale Following Product Ecosystem Reveal - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeVcyR1MwUlpwaTRBUW9ZTTRhSHk0Tm9zZzBqTC0waDRlX05mYnBiRVBfalpWM3E3Q2pxWlRPMDhmMDBpb2dtV0VFYmhGOVRhQjRiUFpoU2ZuZVdoc190aUVGeDMwU2RIWDMwWjByMjlRWGdEelRUQVlKTjNyd204b1B1TlREdEFFbXJ2dlFLZjdsS3cwZW5vRFlaRkpkd3VoRzdVZEtiajlvb2Ria2NtTUJxb2FBWFVuR3A1WkdFdjdSMnlHaTJlZHRsbXdldVFUOUdKbV9CdVQ2M3hYOFFyU2lYaEcwVkYzeEw5eWxaWFdxTVo4b3VPMTAxZw?oc=5",
     "source": "GoogleNews/defi",
-    "summary": "Solana Tokenized Assets Top $4 Billion as Network Speeds Up Block Times&nbsp;&nbsp;finance.biggo.com",
-    "published_at": "2026-08-23T18:55:25+00:00"
+    "summary": "Solana Unchained Emerges as a Closely Watched Solana Presale Following Product Ecosystem Reveal&nbsp;&nbsp;GlobeNewswire",
+    "published_at": "2026-08-23T20:00:09+00:00"
+  },
+  {
+    "title": "Solana Cuts Slot Time to 350ms in First Reduction Since Genesis - CryptoRank",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MY09PLUJjWlB6Q1Y3SGNZTmtsNEQ2T09JRHNwMnY1eDZKWW9kdGxJTDhTXzlsTGZtX1YtQV9GN2wzWWpxaDFtS243cW9KOGFpMXkycTVBb1ZzZ3l2a1E2VVdtS1U0dkhtY1dNbw?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Cuts Slot Time to 350ms in First Reduction Since Genesis&nbsp;&nbsp;CryptoRank",
+    "published_at": "2026-08-23T19:40:22+00:00"
   }
 ]
