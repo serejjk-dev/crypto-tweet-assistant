@@ -9,15 +9,15 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#2",
+    "source": "CoinGecko/trending#5",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-23T17:11:29.233901+00:00"
+    "published_at": "2026-08-23T18:13:00.665808+00:00"
   },
   {
-    "title": "Solana ($SOL) trending on CoinGecko, market cap rank #7",
-    "url": "https://www.coingecko.com/en/coins/solana",
-    "source": "CoinGecko/trending#5",
-    "summary": "Solana (ticker SOL) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-23T17:11:29.233901+00:00"
+    "title": "Chainlink ($LINK) trending on CoinGecko, market cap rank #15",
+    "url": "https://www.coingecko.com/en/coins/chainlink",
+    "source": "CoinGecko/trending#6",
+    "summary": "Chainlink (ticker LINK) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-23T18:13:00.665808+00:00"
   }
 ]
