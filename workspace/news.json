@@ -1,5 +1,12 @@
 [
   {
+    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "source": "CoinGecko/trending#4",
+    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-23T19:13:55.329053+00:00"
+  },
+  {
     "title": "XRP on track for biggest weekly gain in 21 months as Treasury buyback spurs 'curve control' hopes",
     "url": "https://www.coindesk.com/markets/2026/08/23/xrp-on-track-for-biggest-weekly-gain-in-21-months-as-treasury-buyback-spurs-curve-control-hopes",
     "source": "CoinDesk",
@@ -7,17 +14,10 @@
     "published_at": "2026-08-23T15:52:21+00:00"
   },
   {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#5",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-23T18:13:00.665808+00:00"
-  },
-  {
-    "title": "Chainlink ($LINK) trending on CoinGecko, market cap rank #15",
-    "url": "https://www.coingecko.com/en/coins/chainlink",
-    "source": "CoinGecko/trending#6",
-    "summary": "Chainlink (ticker LINK) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-23T18:13:00.665808+00:00"
+    "title": "Solana Tokenized Assets Top $4 Billion as Network Speeds Up Block Times - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xSFBiUXdnWVNBY1dRcTR5aGFCcEtSSlE4cnA4bXB1WnVXc1FYaGdRemtFZnhvZld1WHFDczJvZnIyNXF6d0ExS3BUVnVGWk1jR29TazdhbTE0OE50MW94RnNSVlp0WmtZSnlCRVN0NDVTMWdWa3c?oc=5",
+    "source": "GoogleNews/defi",
+    "summary": "Solana Tokenized Assets Top $4 Billion as Network Speeds Up Block Times&nbsp;&nbsp;finance.biggo.com",
+    "published_at": "2026-08-23T18:55:25+00:00"
   }
 ]
