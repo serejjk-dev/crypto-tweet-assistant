@@ -2,9 +2,16 @@
   {
     "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
     "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#6",
+    "source": "CoinGecko/trending#4",
     "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-08-24T03:43:03.934667+00:00"
+    "published_at": "2026-08-24T04:33:56.682708+00:00"
+  },
+  {
+    "title": "Ethereum ($ETH) trending on CoinGecko, market cap rank #2",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "source": "CoinGecko/trending#6",
+    "summary": "Ethereum (ticker ETH) is one of the top searches on CoinGecko right now.",
+    "published_at": "2026-08-24T04:33:56.682708+00:00"
   },
   {
     "title": "Solana price jumps 6.6% to $82.23 amid US Treas... - Pluang",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Solana price jumps 6.6% to $82.23 amid US Treas...&nbsp;&nbsp;Pluang",
     "published_at": "2026-08-24T00:25:51+00:00"
-  },
-  {
-    "title": "Pump.fun (PUMP) Jumps 17% as Solana Meme Mania Returns, AlphaPepe Still Has Its First Big Pump Ahead - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOODYtR1l1SF9fX2xTekNlaHBIN1JWQ0sxZXZQRWJsMmhxM01FN3BkVGQ2b25KYTJQWG1FRHNQSE9MZVBYWXg3WnYxbVBpbzR1d01xU3phRTdTaVdGYmpNQjZ3Qzgtb3NCTV9RVm9kQ1dXRjh1SGFtRlV5ZFZOSlRjWlMxeGY3eTdVbTN3R2pvb2wydm1vY3Y5UE1SS0hCMHdEblNGaGk4eDUzUlRrWXNWRDZ1c2U1dmZ5UUZ5MGRUZnp2WEE1cGxiaVdZTnZRMFZ1bHRjZERiWDRNbWFibGNrZy10YjhmTkJ4ZzVrM3BZd3U0dXE3YWh6Qnk5dFk?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Pump.fun (PUMP) Jumps 17% as Solana Meme Mania Returns, AlphaPepe Still Has Its First Big Pump Ahead&nbsp;&nbsp;StreetInsider",
-    "published_at": "2026-08-23T18:57:46+00:00"
   }
 ]
