@@ -1,10 +1,17 @@
 [
   {
-    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #27",
+    "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #28",
     "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#2",
+    "source": "CoinGecko/trending#6",
     "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-09-02T10:07:06.436856+00:00"
+    "published_at": "2026-09-02T14:47:13.915656+00:00"
+  },
+  {
+    "title": "Bitcoin Treasury Company Capital B Raises €7.6M From Adam Back For Expansion - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHlqbUZSNUFPNmZaanRwV255bUNLNndaOGtJMWhuazlvTTdMM3lhUUtRNXhtYnVISG5zcXc5Vk1WRVpMUkFWaHBMdXhGUUpCWTdkNzRiaFh5bmF0Yk9iVDNZd19OVzZ2c2dQdi1kdTNicHZ1Y0M4Sm1fZnN2WnpNSURZMlIyY1czMUE5djBZaW9zYXh0ODZQYkM5RWdOcG1z?oc=5",
+    "source": "GoogleNews/crypto",
+    "summary": "Bitcoin Treasury Company Capital B Raises €7.6M From Adam Back For Expansion&nbsp;&nbsp;Yahoo Finance",
+    "published_at": "2026-09-02T13:16:55+00:00"
   },
   {
     "title": "Curve DAO surges over 16% as DeFi demand returns – Can CRV reach THIS? - AMBCrypto",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "Curve DAO surges over 16% as DeFi demand returns – Can CRV reach THIS?&nbsp;&nbsp;AMBCrypto",
     "published_at": "2026-09-02T03:00:15+00:00"
-  },
-  {
-    "title": "Bitcoin ($BTC) trending on CoinGecko, market cap rank #1",
-    "url": "https://www.coingecko.com/en/coins/bitcoin",
-    "source": "CoinGecko/trending#3",
-    "summary": "Bitcoin (ticker BTC) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-09-02T10:07:06.436856+00:00"
   }
 ]
