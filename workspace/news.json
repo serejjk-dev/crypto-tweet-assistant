@@ -2,9 +2,16 @@
   {
     "title": "Uniswap ($UNI) trending on CoinGecko, market cap rank #23",
     "url": "https://www.coingecko.com/en/coins/uniswap",
-    "source": "CoinGecko/trending#4",
+    "source": "CoinGecko/trending#5",
     "summary": "Uniswap (ticker UNI) is one of the top searches on CoinGecko right now.",
-    "published_at": "2026-09-05T20:48:05.438726+00:00"
+    "published_at": "2026-09-05T22:27:04.237786+00:00"
+  },
+  {
+    "title": "Uniswap (UNI) Surges 7.8% on Robinhood Chain Growth, Burn - CoinMarketCap",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1UXNreU40RFdlSUw5b3pWSDVJejQ3dmh0a3BkbUNtdVhkSnFlS2tBNV9ZZTRPQWppS3FkZUN4VjRhbTExR3IyZmVYUlNmTV9BNlJsOUNVZ1ZVN19tc093b1FuNlZfZElwOThHNExtT0c?oc=5",
+    "source": "GoogleNews/swap",
+    "summary": "Uniswap (UNI) Surges 7.8% on Robinhood Chain Growth, Burn&nbsp;&nbsp;CoinMarketCap",
+    "published_at": "2026-09-05T17:04:00+00:00"
   },
   {
     "title": "BulkTrade launches Solana-based perpetual futures exchange with $25.9M pre-deposits and $8M seed funding - Pluang",
@@ -12,12 +19,5 @@
     "source": "GoogleNews/defi",
     "summary": "BulkTrade launches Solana-based perpetual futures exchange with $25.9M pre-deposits and $8M seed funding&nbsp;&nbsp;Pluang",
     "published_at": "2026-09-05T19:19:54+00:00"
-  },
-  {
-    "title": "Solana Surges 3.3% on Multi-Factor Rally and Technical Breakout - CoinMarketCap",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KUTZKejJPLWVUR0tZenBpNUVMdEZHRFAzWmFNX0RDMUVTTmg0YTdpWTZIWkx1RFFrakRuMzZRcnl1ZXBTQmo4OVYzeDVWd3Rrb0JxVTZvSlNWOXdMVWlDVUpzOGNqSVRNc19hMHU2b1k?oc=5",
-    "source": "GoogleNews/defi",
-    "summary": "Solana Surges 3.3% on Multi-Factor Rally and Technical Breakout&nbsp;&nbsp;CoinMarketCap",
-    "published_at": "2026-09-05T18:04:00+00:00"
   }
 ]
